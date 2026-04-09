@@ -1,0 +1,30 @@
+{
+  "name_en": "Government Navigator",
+  "name_he": "ניווט שירותי ממשלה",
+  "description_en": "Navigate Israeli bureaucracy, government forms, and public services with AI",
+  "description_he": "ניווט בביורוקרטיה הישראלית, טפסים ממשלתיים ושירותים ציבוריים עם AI",
+  "icon": "🏛️",
+  "tags": ["government", "bureaucracy", "forms", "public-services", "bituach-leumi"],
+  "tags_he": ["ממשלה", "ביורוקרטיה", "טפסים", "שירותים ציבוריים", "ביטוח לאומי"],
+  "skills": [
+    { "slug": "israeli-bureaucracy-decoder", "repo": "skills-il/government-services", "path": "israeli-bureaucracy-decoder" },
+    { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
+    { "slug": "israeli-gov-form-automator", "repo": "skills-il/government-services", "path": "israeli-gov-form-automator" },
+    { "slug": "israel-gov-api", "repo": "skills-il/government-services", "path": "israel-gov-api" },
+    { "slug": "israeli-fines-fighter", "repo": "skills-il/legal-tech", "path": "israeli-fines-fighter" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How can I understand which government office handles my request in Israel?", "a": "The Israeli Bureaucracy Decoder skill maps your situation to the right government office, explains the process, lists required documents, and provides contact information. Describe your need in plain language and it guides you through the bureaucracy." },
+      { "q": "What Bituach Leumi benefits am I eligible for?", "a": "The Israeli Bituach Leumi skill helps you understand your eligibility for national insurance benefits, from unemployment to disability to child allowances. It explains the application process and required documentation for each benefit type." },
+      { "q": "Can AI fill out Israeli government forms for me?", "a": "The Israeli Gov Form Automator skill helps you prepare and fill out common government forms. It explains what each field means, validates your inputs, and ensures you don't miss required sections. Note: you still submit the forms yourself." },
+      { "q": "How do I fight a traffic or parking fine in Israel?", "a": "The Israeli Fines Fighter skill guides you through the appeals process for traffic and parking fines, helps you draft appeal letters, and explains your rights and deadlines under Israeli law." }
+    ],
+    "he": [
+      { "q": "איך אפשר להבין איזה משרד ממשלתי מטפל בבקשה שלי?", "a": "סקיל Israeli Bureaucracy Decoder ממפה את המצב שלכם למשרד הנכון, מסביר את התהליך, מפרט מסמכים נדרשים ומספק פרטי יצירת קשר. תארו את הצורך שלכם בשפה פשוטה והוא מנווט אתכם דרך הביורוקרטיה." },
+      { "q": "לאילו קצבאות ביטוח לאומי אני זכאי?", "a": "סקיל Israeli Bituach Leumi עוזר לכם להבין את הזכאות לגמלאות ביטוח לאומי, מאבטלה דרך נכות ועד קצבאות ילדים. הוא מסביר את תהליך ההגשה והתיעוד הנדרש לכל סוג גמלה." },
+      { "q": "האם AI יכול למלא בשבילי טפסים ממשלתיים?", "a": "סקיל Israeli Gov Form Automator עוזר לכם להכין ולמלא טפסים ממשלתיים נפוצים. הוא מסביר מה כל שדה אומר, מאמת את הקלט שלכם ומוודא שלא פספסתם חלקים נדרשים. שימו לב: אתם עדיין מגישים את הטפסים בעצמכם." },
+      { "q": "איך מגישים ערעור על דוח תנועה או חנייה בישראל?", "a": "סקיל Israeli Fines Fighter מנחה אתכם דרך תהליך הערעור על דוחות תנועה וחנייה, עוזר לנסח מכתבי ערעור ומסביר את הזכויות והמועדים שלכם לפי החוק הישראלי." }
+    ]
+  }
+}

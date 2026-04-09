@@ -1,0 +1,30 @@
+{
+  "name_en": "Israeli Dev Toolkit",
+  "name_he": "ערכת כלים למפתחים ישראליים",
+  "description_en": "Essential developer tools for building products for the Israeli market",
+  "description_he": "כלי פיתוח חיוניים לבניית מוצרים לשוק הישראלי",
+  "icon": "🛠️",
+  "tags": ["developer", "hebrew", "rtl", "localization", "i18n"],
+  "tags_he": ["מפתחים", "עברית", "RTL", "לוקליזציה", "בינאום"],
+  "skills": [
+    { "slug": "hebrew-i18n", "repo": "skills-il/localization", "path": "hebrew-i18n" },
+    { "slug": "hebrew-rtl-best-practices", "repo": "skills-il/localization", "path": "hebrew-rtl-best-practices" },
+    { "slug": "israeli-id-validator", "repo": "skills-il/developer-tools", "path": "israeli-id-validator" },
+    { "slug": "israeli-phone-formatter", "repo": "skills-il/developer-tools", "path": "israeli-phone-formatter" },
+    { "slug": "hebrew-tailwind-preset", "repo": "skills-il/localization", "path": "hebrew-tailwind-preset" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How do I add Hebrew support to my React or Next.js app?", "a": "The Hebrew i18n skill provides step-by-step guidance for adding Hebrew localization to React and Next.js apps, including RTL layout, font configuration, date/number formatting, and translation management." },
+      { "q": "What are the best practices for RTL layout in web development?", "a": "The Hebrew RTL Best Practices skill covers CSS logical properties, bidirectional text handling, Tailwind CSS RTL utilities, and common pitfalls when building RTL-first interfaces." },
+      { "q": "How do I validate Israeli ID numbers (Teudat Zehut) in code?", "a": "The Israeli ID Validator skill implements the Luhn-based check digit algorithm used by Israeli ID numbers. It handles edge cases like leading zeros, provides clear error messages, and works in any language." },
+      { "q": "How should I format Israeli phone numbers in my application?", "a": "The Israeli Phone Formatter skill handles all Israeli phone formats: mobile (05X), landline (02-09), toll-free (1-800), and international (+972). It normalizes input and outputs in the standard format." }
+    ],
+    "he": [
+      { "q": "איך מוסיפים תמיכה בעברית לאפליקציית React או Next.js?", "a": "סקיל Hebrew i18n מספק הדרכה צעד אחר צעד להוספת לוקליזציה בעברית לאפליקציות React ו-Next.js, כולל פריסת RTL, הגדרת גופנים, פורמט תאריכים/מספרים וניהול תרגומים." },
+      { "q": "מהן השיטות המומלצות לפריסת RTL בפיתוח ווב?", "a": "סקיל Hebrew RTL Best Practices מכסה תכונות CSS לוגיות, טיפול בטקסט דו-כיווני, כלי RTL ב-Tailwind CSS ומלכודות נפוצות בבניית ממשקים RTL-first." },
+      { "q": "איך מאמתים מספר תעודת זהות ישראלית בקוד?", "a": "סקיל Israeli ID Validator מיישם את אלגוריתם ספרת הביקורת מבוסס Luhn שמשמש במספרי תעודת זהות ישראליים. הוא מטפל במקרי קצה כמו אפסים מובילים, מספק הודעות שגיאה ברורות ועובד בכל שפה." },
+      { "q": "איך לפרמט מספרי טלפון ישראליים באפליקציה?", "a": "סקיל Israeli Phone Formatter מטפל בכל פורמטי הטלפון הישראליים: סלולרי (05X), קווי (02-09), חינם (1-800) ובינלאומי (+972). הוא מנרמל קלט ומוציא בפורמט הסטנדרטי." }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name_en": "Freelancer Accountant",
+  "name_he": "חבילת פרילנסר - הנהלת חשבונות",
+  "description_en": "Everything a freelancer needs for invoices, tax filing, and bookkeeping in Israel",
+  "description_he": "כל מה שפרילנסר צריך לחשבוניות, דיווח מס והנהלת חשבונות בישראל",
+  "icon": "📊",
+  "tags": ["freelancer", "accounting", "tax", "invoices", "bookkeeping"],
+  "tags_he": ["פרילנסר", "הנהלת חשבונות", "מס", "חשבוניות", "הנהלה"],
+  "skills": [
+    { "slug": "israeli-freelancer-ops", "repo": "skills-il/tax-and-finance", "path": "israeli-freelancer-ops" },
+    { "slug": "green-invoice", "repo": "skills-il/accounting", "path": "green-invoice" },
+    { "slug": "israeli-vat-reporting", "repo": "skills-il/tax-and-finance", "path": "israeli-vat-reporting" },
+    { "slug": "israeli-expense-categorizer", "repo": "skills-il/accounting", "path": "israeli-expense-categorizer" },
+    { "slug": "israeli-receipt-scanner", "repo": "skills-il/accounting", "path": "israeli-receipt-scanner" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How can I automate invoice creation as a freelancer in Israel?", "a": "The Freelancer Accountant bundle includes Green Invoice integration and Israeli E-Invoice tools that let you create, send, and track invoices automatically. Just describe what you need and the AI agent handles the rest." },
+      { "q": "Do I still need an accountant if I use these AI skills?", "a": "These skills automate routine tasks like expense categorization, VAT calculations, and receipt scanning. They save you hours of manual work, but for complex tax situations, annual filings, and legal compliance, we recommend consulting a licensed accountant." },
+      { "q": "Can AI handle Israeli VAT reporting for freelancers?", "a": "Yes. The Israeli VAT Reporting skill understands Israeli tax law, calculates VAT correctly, and helps prepare your bimonthly VAT reports. It handles the common cases automatically and flags unusual situations for your review." },
+      { "q": "What is the best way to organize receipts and expenses in Israel?", "a": "The Israeli Expense Categorizer and Receipt Scanner skills work together to digitize receipts, categorize expenses according to Israeli tax categories, and keep everything organized for tax season." }
+    ],
+    "he": [
+      { "q": "איך אפשר לייצר חשבוניות אוטומטית כפרילנסר בישראל?", "a": "חבילת הפרילנסר כוללת אינטגרציה עם חשבונית ירוקה וכלי חשבוניות אלקטרוניות שמאפשרים ליצור, לשלוח ולעקוב אחרי חשבוניות באופן אוטומטי. פשוט תתארו מה אתם צריכים והסוכן מטפל בשאר." },
+      { "q": "האם עדיין צריך רואה חשבון אם משתמשים בסקילים האלה?", "a": "הסקילים מבצעים אוטומציה של משימות שגרתיות כמו סיווג הוצאות, חישובי מע\"מ וסריקת קבלות. הם חוסכים שעות של עבודה ידנית, אבל למצבי מס מורכבים, דוחות שנתיים ותאימות חוקית, מומלץ להתייעץ עם רואה חשבון מורשה." },
+      { "q": "האם AI יכול לטפל בדיווח מע\"מ לפרילנסרים בישראל?", "a": "כן. סקיל דיווח המע\"מ הישראלי מבין את חוקי המס בישראל, מחשב מע\"מ בצורה נכונה ועוזר להכין את הדוחות הדו-חודשיים. הוא מטפל במקרים הנפוצים אוטומטית ומסמן מצבים חריגים לבדיקתכם." },
+      { "q": "מה הדרך הטובה ביותר לארגן קבלות והוצאות בישראל?", "a": "סקיל סיווג ההוצאות וסורק הקבלות עובדים יחד כדי לדיגטל קבלות, לסווג הוצאות לפי קטגוריות המס הישראליות ולשמור הכל מאורגן לקראת עונת המס." }
+    ]
+  }
+}
