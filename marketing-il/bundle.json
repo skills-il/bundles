@@ -1,0 +1,30 @@
+{
+  "name_en": "Marketing IL",
+  "name_he": "חבילת שיווק ישראלי",
+  "description_en": "AI skills for marketers targeting the Israeli audience -- SEO, social content, email sequences, LinkedIn, and paid ads",
+  "description_he": "סקילי AI לאנשי שיווק שמכוונים לקהל ישראלי -- SEO, תוכן סושיאל, רצפי אימייל, לינקדאין ופרסום ממומן",
+  "icon": "📣",
+  "tags": ["marketing", "seo", "social-media", "email-marketing", "linkedin"],
+  "tags_he": ["שיווק", "SEO", "סושיאל מדיה", "שיווק באימייל", "לינקדאין"],
+  "skills": [
+    { "slug": "hebrew-seo-geo-toolkit", "repo": "skills-il/marketing-growth", "path": "hebrew-seo-geo-toolkit" },
+    { "slug": "israeli-social-content", "repo": "skills-il/marketing-growth", "path": "israeli-social-content" },
+    { "slug": "israeli-email-sequences", "repo": "skills-il/marketing-growth", "path": "israeli-email-sequences" },
+    { "slug": "israeli-linkedin-strategy", "repo": "skills-il/marketing-growth", "path": "israeli-linkedin-strategy" },
+    { "slug": "israeli-paid-ads", "repo": "skills-il/marketing-growth", "path": "israeli-paid-ads" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How is SEO different for Hebrew content versus English content?", "a": "Hebrew SEO has unique challenges: search volumes are smaller, keyword research tools have limited Hebrew data, and Google treats nikud (vowel marks) separately from base letters. The Hebrew SEO & GEO Toolkit handles all of this -- including optimizing for AI search engines (GEO) that increasingly answer queries directly in Hebrew." },
+      { "q": "What social media platforms are most popular in Israel, and how should I adapt my content?", "a": "Instagram and Facebook remain dominant in Israel, with TikTok growing fast among younger audiences and LinkedIn essential for B2B. Israeli social audiences respond well to direct, conversational Hebrew, local humor, and references to Israeli culture and events. The Israeli Social Content skill creates platform-specific posts tailored to these nuances." },
+      { "q": "How do Israeli email marketing norms differ from general best practices?", "a": "Israel has its own spam law (Amendment 40 to the Communications Law) that requires explicit opt-in consent for commercial emails. Send times, subject line styles, and content tone also differ -- Israelis tend to prefer shorter, more direct emails. The Israeli Email Sequences skill builds compliant, culturally appropriate sequences." },
+      { "q": "Is LinkedIn used differently in Israel compared to other markets?", "a": "Yes -- the Israeli LinkedIn ecosystem is tightly connected, especially in tech. Hebrew posts often outperform English for local reach, personal stories and opinions get high engagement, and startup culture means people expect direct outreach. The Israeli LinkedIn Strategy skill tailors your presence and content for the local professional network." }
+    ],
+    "he": [
+      { "q": "במה שונה SEO לתוכן בעברית לעומת אנגלית?", "a": "ל-SEO בעברית יש אתגרים ייחודיים: נפחי חיפוש קטנים יותר, כלי מחקר מילות מפתח עם נתוני עברית מוגבלים, וגוגל מתייחסת לניקוד בנפרד מהאותיות הבסיסיות. ערכת Hebrew SEO & GEO מטפלת בכל זה -- כולל אופטימיזציה למנועי חיפוש מבוססי AI (GEO) שעונים יותר ויותר על שאילתות ישירות בעברית." },
+      { "q": "אילו פלטפורמות סושיאל הכי פופולריות בישראל ואיך להתאים את התוכן?", "a": "אינסטגרם ופייסבוק עדיין דומיננטיים בישראל, טיקטוק צומח מהר בקרב צעירים ולינקדאין חיוני ל-B2B. הקהל הישראלי בסושיאל מגיב טוב לעברית ישירה ושיחית, הומור מקומי והתייחסויות לתרבות ואירועים ישראליים. סקיל Israeli Social Content יוצר פוסטים מותאמים לפלטפורמה עם הניואנסים האלה." },
+      { "q": "במה שונות נורמות שיווק האימייל הישראלי מהפרקטיקות הכלליות?", "a": "לישראל יש חוק ספאם משלה (תיקון 40 לחוק התקשורת) שמחייב הסכמה מפורשת לאימיילים מסחריים. זמני שליחה, סגנון שורת נושא ונימת התוכן שונים גם הם -- ישראלים מעדיפים בדרך כלל אימיילים קצרים וישירים יותר. סקיל Israeli Email Sequences בונה רצפים תואמי חוק ומתאימים תרבותית." },
+      { "q": "האם משתמשים בלינקדאין אחרת בישראל לעומת שווקים אחרים?", "a": "כן -- המערכת האקולוגית של לינקדאין הישראלית מחוברת הדוק, במיוחד בהייטק. פוסטים בעברית לרוב מבצעים טוב יותר לטווח מקומי, סיפורים אישיים ודעות מקבלים מעורבות גבוהה, ותרבות הסטארטאפ אומרת שאנשים מצפים לפנייה ישירה. סקיל Israeli LinkedIn Strategy מתאים את הנוכחות והתוכן שלכם לרשת המקצועית המקומית." }
+    ]
+  }
+}

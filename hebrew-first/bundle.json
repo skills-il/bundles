@@ -1,0 +1,30 @@
+{
+  "name_en": "Hebrew First",
+  "name_he": "חבילת עברית קודם",
+  "description_en": "AI skills for anyone working primarily in Hebrew -- content writing, document generation, accessibility, RTL interfaces, and Hebrew NLP",
+  "description_he": "סקילי AI לכל מי שעובד בעיקר בעברית -- כתיבת תוכן, יצור מסמכים, נגישות, ממשקי RTL ועיבוד שפה טבעית בעברית",
+  "icon": "🔤",
+  "tags": ["hebrew", "content-writing", "documents", "accessibility", "rtl"],
+  "tags_he": ["עברית", "כתיבת תוכן", "מסמכים", "נגישות", "RTL"],
+  "skills": [
+    { "slug": "hebrew-content-writer", "repo": "skills-il/localization", "path": "hebrew-content-writer" },
+    { "slug": "hebrew-document-generator", "repo": "skills-il/localization", "path": "hebrew-document-generator" },
+    { "slug": "israeli-accessibility-compliance", "repo": "skills-il/localization", "path": "israeli-accessibility-compliance" },
+    { "slug": "hebrew-rtl-best-practices", "repo": "skills-il/localization", "path": "hebrew-rtl-best-practices" },
+    { "slug": "hebrew-nlp-toolkit", "repo": "skills-il/localization", "path": "hebrew-nlp-toolkit" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "What makes good Hebrew content writing different from just translating English?", "a": "Good Hebrew content is not a translation -- it uses natural Israeli idioms, avoids calques from English, writes numbers and dates in the Israeli convention, and uses a register appropriate to the audience. Israeli readers immediately sense when text is a literal translation. The Hebrew Content Writer skill produces content that sounds like it was written by a native Israeli writer from the start." },
+      { "q": "What are Israel's digital accessibility requirements, and do they apply to my website?", "a": "Israel's Equal Rights for Persons with Disabilities Regulations (Amendment 2, 2013) require government and many public-facing websites to comply with WCAG 2.0 Level AA. The scope has expanded over the years and now covers most commercial websites as well. The Israeli Accessibility Compliance skill audits your site against the current Israeli standard (Israeli Standard 5568) and provides actionable fixes." },
+      { "q": "What are the most common RTL layout mistakes in web development?", "a": "The most common mistakes include using absolute left/right CSS values instead of logical properties (inline-start/inline-end), forgetting to mirror icons and directional elements, mixing LTR and RTL text without proper Unicode bidi control, and using LTR-only animation directions. The Hebrew RTL Best Practices skill catches all of these and explains the correct approach for each." },
+      { "q": "What can Hebrew NLP tools do that general AI models cannot?", "a": "Hebrew is a morphologically rich language where the same three-letter root can produce dozens of different words, vowels are usually omitted in writing, and the same letter serves different phonetic roles. General AI models often struggle with tasks like nikud (vowelization), correct morphological analysis, named entity recognition in Hebrew, and handling sofit letter variants. The Hebrew NLP Toolkit is tuned specifically for these challenges." }
+    ],
+    "he": [
+      { "q": "מה הופך כתיבת תוכן בעברית לטובה, מעבר לתרגום פשוט מאנגלית?", "a": "תוכן עברי טוב הוא לא תרגום -- הוא משתמש בביטויים ישראליים טבעיים, נמנע מקלקים מאנגלית, כותב מספרים ותאריכים בנוסח הישראלי ומשתמש ברגיסטר מתאים לקהל. קוראים ישראליים מרגישים מיד כשהטקסט הוא תרגום מילולי. סקיל Hebrew Content Writer מייצר תוכן שנשמע כאילו נכתב על ידי כותב ישראלי ילידי מלכתחילה." },
+      { "q": "מהן דרישות הנגישות הדיגיטלית בישראל, והאם הן חלות על האתר שלי?", "a": "תקנות שוויון זכויות לאנשים עם מוגבלות (תיקון 2, 2013) מחייבות אתרי ממשל ואתרים רבים הפונים לציבור לעמוד ב-WCAG 2.0 רמה AA. ההיקף הורחב לאורך השנים ועכשיו מכסה גם רוב האתרים המסחריים. סקיל Israeli Accessibility Compliance בודק את האתר שלכם מול התקן הישראלי הנוכחי (תקן ישראלי 5568) ומספק תיקונים ישימים." },
+      { "q": "מהן הטעויות הנפוצות ביותר בפריסת RTL בפיתוח ווב?", "a": "הטעויות הנפוצות ביותר כוללות שימוש בערכי CSS left/right מוחלטים במקום מאפיינים לוגיים (inline-start/inline-end), שכחה לשקף אייקונים ואלמנטים כיווניים, ערבוב טקסט LTR ו-RTL בלי בקרת Unicode bidi נכונה, ושימוש בכיווני אנימציה LTR בלבד. סקיל Hebrew RTL Best Practices מזהה את כל אלה ומסביר את הגישה הנכונה לכל אחד מהם." },
+      { "q": "מה כלי עיבוד שפה עברית יכולים לעשות שמודלי AI כלליים לא יכולים?", "a": "עברית היא שפה עשירה מורפולוגית שבה אותו שורש בן שלוש אותיות יכול לייצר עשרות מילים שונות, ניקוד לרוב חסר בכתיבה, ואותה אות ממלאת תפקידים פונטיים שונים. מודלי AI כלליים לעיתים קרובות מתקשים עם משימות כמו ניקוד, ניתוח מורפולוגי נכון, זיהוי ישויות בעברית וטיפול בגרסאות אותיות סופיות. ערכת Hebrew NLP Toolkit מכוונת במיוחד לאתגרים האלה." }
+    ]
+  }
+}

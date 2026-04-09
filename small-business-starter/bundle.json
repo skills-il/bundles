@@ -1,0 +1,30 @@
+{
+  "name_en": "Small Business Starter",
+  "name_he": "חבילת עסק קטן - תחילת דרך",
+  "description_en": "Essential AI skills for small business owners in Israel -- invoicing, bookkeeping, payroll, payment chasing, and customer communication",
+  "description_he": "סקילי AI חיוניים לבעלי עסקים קטנים בישראל -- חשבוניות, הנהלת חשבונות, שכר, גבייה ותקשורת עם לקוחות",
+  "icon": "🏪",
+  "tags": ["small-business", "invoicing", "bookkeeping", "payroll", "customer-communication"],
+  "tags_he": ["עסק קטן", "חשבוניות", "הנהלת חשבונות", "שכר", "תקשורת עם לקוחות"],
+  "skills": [
+    { "slug": "israeli-e-invoice", "repo": "skills-il/accounting", "path": "israeli-e-invoice" },
+    { "slug": "israeli-bookkeeping-automation", "repo": "skills-il/accounting", "path": "israeli-bookkeeping-automation" },
+    { "slug": "israeli-payroll-calculator", "repo": "skills-il/accounting", "path": "israeli-payroll-calculator" },
+    { "slug": "israeli-client-payment-chaser", "repo": "skills-il/tax-and-finance", "path": "israeli-client-payment-chaser" },
+    { "slug": "israeli-customer-support-automator", "repo": "skills-il/communication", "path": "israeli-customer-support-automator" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "Do I need to issue electronic invoices (חשבונית מס קבלה) in Israel?", "a": "Since 2024, Israeli businesses are required to issue electronic invoices through the Tax Authority's clearance system for transactions above certain thresholds. The Israeli E-Invoice skill guides you through this process automatically, ensuring every invoice is properly cleared and legally compliant." },
+      { "q": "How can AI help me manage bookkeeping without hiring a full-time accountant?", "a": "The Israeli Bookkeeping Automation skill handles day-to-day transaction recording, bank reconciliation, and expense categorization. It follows Israeli accounting standards and keeps your books in order throughout the year, so your annual meeting with an accountant is faster and cheaper." },
+      { "q": "How does the payroll calculator handle Israeli salary components like keren hishtalmut and bituach leumi?", "a": "The Israeli Payroll Calculator knows the current rates for all Israeli payroll components -- employer and employee bituach leumi contributions, keren hishtalmut, income tax brackets, and pension. It calculates net salary from gross and produces a proper pay slip (tofes 106 compatible)." },
+      { "q": "My clients are slow to pay. Can AI help me chase overdue invoices politely?", "a": "Yes. The Israeli Client Payment Chaser sends professional, polite reminders at the right intervals -- in Hebrew or English -- tracks which invoices are outstanding, and escalates the tone automatically if needed. It saves you the awkward conversations while maintaining good client relationships." }
+    ],
+    "he": [
+      { "q": "האם אני חייב להוציא חשבוניות אלקטרוניות בישראל?", "a": "מ-2024, עסקים ישראליים נדרשים להוציא חשבוניות אלקטרוניות דרך מערכת הסליקה של רשות המסים מעסקאות מעל סכומים מסוימים. סקיל החשבונית האלקטרונית הישראלית מוביל אתכם בתהליך הזה אוטומטית, כך שכל חשבונית סלוקה כחוק." },
+      { "q": "איך AI יכול לעזור לי בהנהלת חשבונות בלי לשכור מנהל חשבונות במשרה מלאה?", "a": "סקיל אוטומציית הנהלת החשבונות הישראלית מטפל ברישום עסקאות שוטף, פיקוח בנקאי וסיווג הוצאות. הוא עובד לפי תקני החשבונאות הישראליים ושומר על הספרים מסודרים לאורך כל השנה, כך שהפגישה השנתית עם הרואה חשבון קצרה וזולה יותר." },
+      { "q": "איך מחשבון השכר מתמודד עם רכיבים ישראליים כמו קרן השתלמות וביטוח לאומי?", "a": "מחשבון השכר הישראלי מכיר את כל שיעורי רכיבי השכר הנוכחיים -- דמי ביטוח לאומי מעביד ועובד, קרן השתלמות, מדרגות מס הכנסה ופנסיה. הוא מחשב שכר נטו מברוטו ומפיק תלוש שכר תקני (תואם טופס 106)." },
+      { "q": "הלקוחות שלי מאחרים בתשלום. האם AI יכול לעזור לי לגבות חובות באדיבות?", "a": "בהחלט. סקיל מרדף התשלומים שולח תזכורות מקצועיות ומנומסות בתזמון הנכון -- בעברית או באנגלית -- עוקב אחר החשבוניות הפתוחות ומחמיר בטון אוטומטית אם צריך. זה חוסך לכם את השיחות המביכות תוך שמירה על יחסים טובים עם הלקוחות." }
+    ]
+  }
+}

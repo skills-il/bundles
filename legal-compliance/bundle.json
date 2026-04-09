@@ -1,0 +1,30 @@
+{
+  "name_en": "Legal & Compliance",
+  "name_he": "חבילת משפט ותאימות",
+  "description_en": "AI skills for lawyers, compliance officers, and business owners navigating Israeli employment law, privacy regulations, contracts, and e-commerce compliance",
+  "description_he": "סקילי AI לעורכי דין, אנשי תאימות ובעלי עסקים שמתמצאים בדיני עבודה ישראליים, תקנות פרטיות, חוזים ותאימות מסחר אלקטרוני",
+  "icon": "⚖️",
+  "tags": ["legal", "compliance", "employment-law", "privacy", "contracts"],
+  "tags_he": ["משפט", "תאימות", "דיני עבודה", "פרטיות", "חוזים"],
+  "skills": [
+    { "slug": "israeli-employment-contracts", "repo": "skills-il/legal-tech", "path": "israeli-employment-contracts" },
+    { "slug": "israeli-privacy-shield", "repo": "skills-il/security-compliance", "path": "israeli-privacy-shield" },
+    { "slug": "israeli-ecommerce-compliance", "repo": "skills-il/security-compliance", "path": "israeli-ecommerce-compliance" },
+    { "slug": "israeli-rental-agreements", "repo": "skills-il/legal-tech", "path": "israeli-rental-agreements" },
+    { "slug": "israeli-workplace-rights-navigator", "repo": "skills-il/legal-tech", "path": "israeli-workplace-rights-navigator" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "What must an employment contract in Israel include to be legally valid?", "a": "Israeli employment law (Notice to Employee Law, 2002) requires employers to provide a written notice of employment terms within 30 days of hiring, covering role, start date, salary, working hours, and applicable collective agreements. The Israeli Employment Contracts skill generates contracts that meet all statutory requirements and flags common gaps that create legal exposure." },
+      { "q": "Does Israeli privacy law apply to my business if I collect customer data?", "a": "Yes. Israel's Privacy Protection Law and its regulations require businesses that maintain databases of personal information to register with the Privacy Authority in certain cases, implement security measures, and honor data subject rights. With Israel's new GDPR-style reform underway, compliance requirements are tightening. The Israeli Privacy Shield skill keeps your practices up to date." },
+      { "q": "What are the legal requirements for running an online store in Israel?", "a": "Israeli e-commerce is governed by the Consumer Protection Law, the Electronic Commerce Regulations (2001), and the Payment Services Law. Online stores must display mandatory information, provide cancellation rights (14 days for most purchases), and follow specific rules for subscription services and recurring billing. The Israeli E-Commerce Compliance skill checks your store against all current requirements." },
+      { "q": "What rights do employees have in Israel that employers often overlook?", "a": "Common gaps include: meal allowances (dmei ochel), transportation reimbursement (dmei nesia), recreation pay (dmei havra'a), and mandatory pension enrollment from day one for new employees since 2008. Employees also have strong protections around overtime, annual leave accrual, and termination notice periods. The Israeli Workplace Rights Navigator covers all of these." }
+    ],
+    "he": [
+      { "q": "מה חייב להיות בחוזה עבודה בישראל כדי שיהיה תקף?", "a": "חוק הודעה לעובד, 2002, מחייב מעסיקים למסור הודעה בכתב על תנאי ההעסקה תוך 30 יום מתחילת העבודה, הכוללת תפקיד, תאריך התחלה, שכר, שעות עבודה והסכמים קיבוציים רלוונטיים. סקיל Israeli Employment Contracts מייצר חוזים שעומדים בכל הדרישות החוקיות ומסמן פערים נפוצים שיוצרים חשיפה משפטית." },
+      { "q": "האם חוק הגנת הפרטיות הישראלי חל על העסק שלי אם אני אוסף נתוני לקוחות?", "a": "כן. חוק הגנת הפרטיות ותקנותיו מחייבים עסקים המנהלים מאגרי מידע אישי להירשם ברשות הגנת הפרטיות במקרים מסוימים, ליישם אמצעי אבטחה ולכבד זכויות נושאי המידע. עם הרפורמה החדשה בסגנון GDPR שבדרך, דרישות התאימות מחמירות. סקיל Israeli Privacy Shield שומר את הפרקטיקות שלכם מעודכנות." },
+      { "q": "מהן הדרישות החוקיות לניהול חנות אונליין בישראל?", "a": "המסחר האלקטרוני הישראלי מוסדר על ידי חוק הגנת הצרכן, תקנות המסחר האלקטרוני (2001) וחוק שירותי תשלום. חנויות אונליין חייבות להציג מידע חובה, לאפשר ביטול עסקה (14 יום לרוב הרכישות) ולעמוד בכללים ספציפיים לשירותי מנוי וחיוב חוזר. סקיל Israeli E-Commerce Compliance בודק את החנות שלכם מול כל הדרישות הנוכחיות." },
+      { "q": "אילו זכויות יש לעובדים בישראל שמעסיקים לעיתים מתעלמים מהן?", "a": "פערים נפוצים כוללים: דמי אוכל, דמי נסיעה, דמי הבראה ורישום פנסיוני חובה מהיום הראשון לעובדים חדשים מ-2008. לעובדים יש גם הגנות חזקות בנושאי שעות נוספות, צבירת חופשה ותקופות הודעה מוקדמת. סקיל Israeli Workplace Rights Navigator מכסה את כל אלה." }
+    ]
+  }
+}
