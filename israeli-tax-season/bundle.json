@@ -1,0 +1,30 @@
+{
+  "name_en": "Israeli Tax Season",
+  "name_he": "עונת המס הישראלית",
+  "description_en": "Everything you need for annual tax filing, VAT reporting, and tax optimization in Israel",
+  "description_he": "כל מה שצריך לדיווח מס שנתי, דיווח מע\"מ ואופטימיזציית מס בישראל",
+  "icon": "🧾",
+  "tags": ["tax", "annual-report", "vat", "deductions", "filing"],
+  "tags_he": ["מס", "דוח שנתי", "מע\"מ", "ניכויים", "הגשה"],
+  "skills": [
+    { "slug": "israeli-tax-returns", "repo": "skills-il/tax-and-finance", "path": "israeli-tax-returns" },
+    { "slug": "israeli-vat-reporting", "repo": "skills-il/tax-and-finance", "path": "israeli-vat-reporting" },
+    { "slug": "israeli-tax-withholding", "repo": "skills-il/tax-and-finance", "path": "israeli-tax-withholding" },
+    { "slug": "israeli-expense-categorizer", "repo": "skills-il/accounting", "path": "israeli-expense-categorizer" },
+    { "slug": "israeli-corporate-tax-strategy", "repo": "skills-il/tax-and-finance", "path": "israeli-corporate-tax-strategy" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "When is the deadline for filing annual tax returns in Israel?", "a": "For individuals, the standard deadline is April 30. For those filing online, extensions are often available until May 31. Self-employed and businesses may have later deadlines. The Israeli Tax Returns skill helps you understand your specific deadlines and prepare your filing." },
+      { "q": "How do I calculate VAT payments for my Israeli business?", "a": "Israeli businesses must file bimonthly VAT reports (every two months). The Israeli VAT Reporting skill automates calculations, tracks input vs output VAT, and helps prepare your VAT report for submission to the Tax Authority." },
+      { "q": "What tax deductions can freelancers claim in Israel?", "a": "Israeli freelancers can deduct business expenses including home office costs, professional development, vehicle expenses (partial), equipment, insurance, and pension contributions. The Israeli Expense Categorizer skill sorts your expenses into the correct deduction categories." },
+      { "q": "How does tax withholding work in Israel?", "a": "When you invoice Israeli businesses, they may withhold tax at source (nikui mas b'makor). The Israeli Tax Withholding skill helps you understand withholding rates, generate correct invoices, and reconcile withheld amounts against your annual tax liability." }
+    ],
+    "he": [
+      { "q": "מתי המועד האחרון להגשת דוח מס שנתי בישראל?", "a": "ליחידים, המועד הסטנדרטי הוא 30 באפריל. למגישים באופן מקוון, לעיתים ניתנת ארכה עד 31 במאי. לעצמאי��ם ועסקים עשויים להיות מועדים מאוחרים יותר. סקיל דוחות המס הישראלי עוזר להבין ��ת המועדים הספציפיים שלכם ולהכין את ההגשה." },
+      { "q": "איך מחשבים תשלומי מע\"מ לעסק ישראלי?", "a": "עסקים ישראליים חייבים להגיש דוחות מע\"מ דו-חודשיים. סקיל דיווח המע\"מ הישראלי מבצע אוטומציה של החישובים, עוקב אחר מע\"מ עסקאות מול מע\"מ תשומות ועוזר להכין את הדוח להגשה לרשות המסים." },
+      { "q": "אילו ניכויי מס פרילנסרים יכולים לתבוע בישראל?", "a": "פרילנסרים ישראליים יכולים לנכות הוצאות עסקיות כולל עלויות משרד ביתי, השתלמויות, הוצאות רכב (חלקית), ציוד, ביטוח והפקדות לפנסיה. סקיל סיווג ההוצאות ממיין את ההוצאות לקטגוריות הניכוי הנכונות." },
+      { "q": "איך עובד ניכוי מס במקור בישראל?", "a": "כשמחייבים עסקים ישראליים, הם עשויים לנכות מס במקור. סקיל ניכוי מס במקור עוזר להבין שיעורי ניכוי, לייצר חשבוניות נכונות ולהתאים סכומים שנוכו מול חבות המס השנתית." }
+    ]
+  }
+}
