@@ -2,7 +2,7 @@
   "name_en": "Hebrew First",
   "name_he": "חבילת עברית קודם",
   "description_en": "AI skills for anyone working primarily in Hebrew -- content writing, document generation, accessibility, RTL interfaces, and Hebrew NLP",
-  "description_he": "סקילי AI לכל מי שעובד בעיקר בעברית -- כתיבת תוכן, יצור מסמכים, נגישות, ממשקי RTL ועיבוד שפה טבעית בעברית",
+  "description_he": "כתיבת תוכן, יצירת מסמכים, נגישות ו-RTL -- לכל מי שעובד בעברית",
   "icon": "🔤",
   "tags": ["hebrew", "content-writing", "documents", "accessibility", "rtl"],
   "tags_he": ["עברית", "כתיבת תוכן", "מסמכים", "נגישות", "RTL"],

@@ -1,8 +1,8 @@
 {
   "name_en": "Legal & Compliance",
-  "name_he": "חבילת משפט ותאימות",
+  "name_he": "חבילת חוק ורגולציה",
   "description_en": "AI skills for lawyers, compliance officers, and business owners navigating Israeli employment law, privacy regulations, contracts, and e-commerce compliance",
-  "description_he": "סקילי AI לעורכי דין, אנשי תאימות ובעלי עסקים שמתמצאים בדיני עבודה ישראליים, תקנות פרטיות, חוזים ותאימות מסחר אלקטרוני",
+  "description_he": "דיני עבודה, פרטיות, מסחר אלקטרוני וחוזים -- הדרכה משפטית מבוססת AI לבעלי עסקים",
   "icon": "⚖️",
   "tags": ["legal", "compliance", "employment-law", "privacy", "contracts"],
   "tags_he": ["משפט", "תאימות", "דיני עבודה", "פרטיות", "חוזים"],

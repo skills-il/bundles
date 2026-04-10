@@ -1,8 +1,8 @@
 {
   "name_en": "Government Navigator",
-  "name_he": "ניווט שירותי ממשלה",
+  "name_he": "מדריך ביורוקרטיה ישראלית",
   "description_en": "Navigate Israeli bureaucracy, government forms, and public services with AI",
-  "description_he": "ניווט בביורוקרטיה הישראלית, טפסים ממשלתיים ושירותים ציבוריים עם AI",
+  "description_he": "להתמודד עם הביורוקרטיה בלי להשתגע -- טפסים, ביטוח לאומי, קנסות ומשרדי ממשלה",
   "icon": "🏛️",
   "tags": ["government", "bureaucracy", "forms", "public-services", "bituach-leumi"],
   "tags_he": ["ממשלה", "ביורוקרטיה", "טפסים", "שירותים ציבוריים", "ביטוח לאומי"],
