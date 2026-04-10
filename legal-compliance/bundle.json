@@ -26,5 +26,19 @@
       { "q": "מהן הדרישות החוקיות לניהול חנות אונליין בישראל?", "a": "המסחר האלקטרוני הישראלי מוסדר על ידי חוק הגנת הצרכן, תקנות המסחר האלקטרוני (2001) וחוק שירותי תשלום. חנויות אונליין חייבות להציג מידע חובה, לאפשר ביטול עסקה (14 יום לרוב הרכישות) ולעמוד בכללים ספציפיים לשירותי מנוי וחיוב חוזר. סקיל Israeli E-Commerce Compliance בודק את החנות שלכם מול כל הדרישות הנוכחיות." },
       { "q": "אילו זכויות יש לעובדים בישראל שמעסיקים לעיתים מתעלמים מהן?", "a": "פערים נפוצים כוללים: דמי אוכל, דמי נסיעה, דמי הבראה ורישום פנסיוני חובה מהיום הראשון לעובדים חדשים מ-2008. לעובדים יש גם הגנות חזקות בנושאי שעות נוספות, צבירת חופשה ותקופות הודעה מוקדמת. סקיל Israeli Workplace Rights Navigator מכסה את כל אלה." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "נסח חוזה העסקה", "en": "Draft employment contract" },
+      "body": { "he": "אני מגייס מפתח Full Stack במשרה מלאה, שכר 25,000 ש\"ח ברוטו, ניסיון שנתיים. נסח לי חוזה העסקה מלא שעומד בחוק הישראלי, כולל תנאי סיום, ניסיון ותניות סודיות", "en": "I'm hiring a full-time Full Stack developer, 25,000 NIS gross, 2 years experience. Draft me a complete employment contract compliant with Israeli law, including termination terms, probation period, and confidentiality clauses" }
+    },
+    {
+      "title": { "he": "בדוק מדיניות פרטיות", "en": "Privacy policy check" },
+      "body": { "he": "יש לי אתר e-commerce שאוסף שם, אימייל, כתובת ונתוני תשלום. תבדוק אם מדיניות הפרטיות שלי תואמת לחוק הגנת הפרטיות הישראלי ותצביע על מה חסר", "en": "I have an e-commerce site that collects name, email, address, and payment data. Check if my privacy policy complies with the Israeli Privacy Protection Law and flag what's missing" }
+    },
+    {
+      "title": { "he": "חוזה שכירות", "en": "Rental agreement" },
+      "body": { "he": "אני משכיר דירת 3 חדרים בתל אביב ב-5,500 ש\"ח לחודש. צור לי חוזה שכירות סטנדרטי לשנה עם כל הסעיפים הנדרשים -- כולל ביטחונות ותנאי עזיבה", "en": "I'm renting out a 3-room apartment in Tel Aviv for 5,500 NIS per month. Generate a standard one-year rental agreement with all required clauses -- including guarantees and exit conditions" }
+    }
+  ]
 }

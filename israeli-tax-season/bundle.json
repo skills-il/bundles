@@ -26,5 +26,19 @@
       { "q": "אילו ניכויי מס פרילנסרים יכולים לתבוע בישראל?", "a": "פרילנסרים ישראליים יכולים לנכות הוצאות עסקיות כולל עלויות משרד ביתי, השתלמויות, הוצאות רכב (חלקית), ציוד, ביטוח והפקדות לפנסיה. סקיל סיווג ההוצאות ממיין את ההוצאות לקטגוריות הניכוי הנכונות." },
       { "q": "איך עובד ניכוי מס במקור בישראל?", "a": "כשמחייבים עסקים ישראליים, הם עשויים לנכות מס במקור. סקיל ניכוי מס במקור עוזר להבין שיעורי ניכוי, לייצר חשבוניות נכונות ולהתאים סכומים שנוכו מול חבות המס השנתית." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "בדוק ניכויים שלי", "en": "Check my deductions" },
+      "body": { "he": "אני עצמאי, הכנסתי 180,000 ש\"ח השנה. יש לי הוצאות משרד ביתי, רכב, השתלמויות וביטוח. תסרוק אילו ניכויים מגיעים לי ואיך לסווג אותם בדוח השנתי", "en": "I'm self-employed and earned 180,000 NIS this year. I have home office, car, professional development, and insurance expenses. Show me what deductions I qualify for and how to categorize them in my annual return" }
+    },
+    {
+      "title": { "he": "דוח ניכוי במקור", "en": "Withholding report" },
+      "body": { "he": "אחד הלקוחות שלי ניכה לי 10% מס במקור על תשלומים בסך 60,000 ש\"ח. איך זה משפיע על החבות השנתית שלי ואיפה זה נכנס בדוח?", "en": "One of my clients withheld 10% tax at source on payments totaling 60,000 NIS. How does this affect my annual tax liability and where does it go on my return?" }
+    },
+    {
+      "title": { "he": "צ'קליסט הגשת מס", "en": "Tax filing checklist" },
+      "body": { "he": "הכן לי צ'קליסט מלא לקראת הגשת הדוח השנתי שלי כעצמאי -- מה צריך לאסוף, מה לחשב ומה המועדים שאסור לפספס", "en": "Give me a complete checklist for filing my annual tax return as a self-employed person -- what documents to gather, what to calculate, and what deadlines I cannot miss" }
+    }
+  ]
 }

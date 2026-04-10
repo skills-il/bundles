@@ -26,5 +26,19 @@
       { "q": "האם AI יכול למלא בשבילי טפסים ממשלתיים?", "a": "סקיל Israeli Gov Form Automator עוזר לכם להכין ולמלא טפסים ממשלתיים נפוצים. הוא מסביר מה כל שדה אומר, מאמת את הקלט שלכם ומוודא שלא פספסתם חלקים נדרשים. שימו לב: אתם עדיין מגישים את הטפסים בעצמכם." },
       { "q": "איך מגישים ערעור על דוח תנועה או חנייה בישראל?", "a": "סקיל Israeli Fines Fighter מנחה אתכם דרך תהליך הערעור על דוחות תנועה וחנייה, עוזר לנסח מכתבי ערעור ומסביר את הזכויות והמועדים שלכם לפי החוק הישראלי." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "בדוק זכאות לקצבאות", "en": "Check my benefits" },
+      "body": { "he": "אני בן 34, עובד שכיר, נשוי עם שני ילדים. לאחרונה פוטרתי. מה הגמלאות שמגיעות לי מביטוח לאומי ואיך מגישים בקשה?", "en": "I'm 34, a salaried employee, married with two kids. I was recently laid off. What National Insurance benefits am I entitled to and how do I apply?" }
+    },
+    {
+      "title": { "he": "מלא טופס ממשלתי", "en": "Fill a form" },
+      "body": { "he": "אני צריך למלא בקשה להכרה כעוסק מורשה ברשות המסים. תסביר לי שדה שדה מה למלא ואיזה מסמכים לצרף", "en": "I need to fill out an application for Esek Murshe status with the Tax Authority. Walk me through each field and what documents to attach" }
+    },
+    {
+      "title": { "he": "ערעור על קנס", "en": "Appeal a fine" },
+      "body": { "he": "קיבלתי דוח חנייה בסך 500 ש\"ח אבל הסימנים לא היו ברורים. תכתוב לי מכתב ערעור מקצועי לעירייה עם טיעונים חוקיים", "en": "I got a 500 NIS parking fine but the signs were unclear. Write me a professional appeal letter to the municipality with legal arguments" }
+    }
+  ]
 }

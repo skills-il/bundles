@@ -26,5 +26,19 @@
       { "q": "איך מחשבון השכר מתמודד עם רכיבים ישראליים כמו קרן השתלמות וביטוח לאומי?", "a": "מחשבון השכר הישראלי מכיר את כל שיעורי רכיבי השכר הנוכחיים -- דמי ביטוח לאומי מעביד ועובד, קרן השתלמות, מדרגות מס הכנסה ופנסיה. הוא מחשב שכר נטו מברוטו ומפיק תלוש שכר תקני (תואם טופס 106)." },
       { "q": "הלקוחות שלי מאחרים בתשלום. האם AI יכול לעזור לי לגבות חובות באדיבות?", "a": "בהחלט. סקיל מרדף התשלומים שולח תזכורות מקצועיות ומנומסות בתזמון הנכון -- בעברית או באנגלית -- עוקב אחר החשבוניות הפתוחות ומחמיר בטון אוטומטית אם צריך. זה חוסך לכם את השיחות המביכות תוך שמירה על יחסים טובים עם הלקוחות." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "הוצא חשבונית", "en": "Issue an invoice" },
+      "body": { "he": "הוצא חשבונית מס קבלה ל-5 שעות ייעוץ שיווקי ב-500 ש\"ח לשעה עבור לקוח חברת סטארט-אפ ישראלי בע\"מ. כולל פרטי תשלום ופרטי העסק שלי", "en": "Issue a tax invoice for 5 hours of marketing consulting at 500 NIS per hour for Israeli Startup Ltd. Include payment details and my business info" }
+    },
+    {
+      "title": { "he": "חשב משכורת עובד", "en": "Calculate payroll" },
+      "body": { "he": "יש לי עובד עם שכר ברוטו 12,000 ש\"ח. חשב את המשכורת נטו כולל ניכויי ביטוח לאומי, מס הכנסה, פנסיה וקרן השתלמות -- תן לי תלוש שכר מלא", "en": "I have an employee with a 12,000 NIS gross salary. Calculate the net pay including bituach leumi, income tax, pension, and keren hishtalmut deductions -- give me a full pay slip" }
+    },
+    {
+      "title": { "he": "שלח תזכורת תשלום", "en": "Draft payment reminder" },
+      "body": { "he": "חשבונית מספר 1042 על סך 8,500 ש\"ח לחברת מגדל שירותים בע\"מ כבר 30 יום בפיגור. כתוב לי הודעת תזכורת מקצועית אבל ישירה שתגרום להם לשלם", "en": "Invoice 1042 for 8,500 NIS to Migdal Services Ltd is 30 days overdue. Write me a professional but firm payment reminder that will get them to pay" }
+    }
+  ]
 }

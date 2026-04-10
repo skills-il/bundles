@@ -26,5 +26,19 @@
       { "q": "איך מאמתים מספר תעודת זהות ישראלית בקוד?", "a": "סקיל Israeli ID Validator מיישם את אלגוריתם ספרת הביקורת מבוסס Luhn שמשמש במספרי תעודת זהות ישראליים. הוא מטפל במקרי קצה כמו אפסים מובילים, מספק הודעות שגיאה ברורות ועובד בכל שפה." },
       { "q": "איך לפרמט מספרי טלפון ישראליים באפליקציה?", "a": "סקיל Israeli Phone Formatter מטפל בכל פורמטי הטלפון הישראליים: סלולרי (05X), קווי (02-09), חינם (1-800) ובינלאומי (+972). הוא מנרמל קלט ומוציא בפורמט הסטנדרטי." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "הגדר i18n בעברית", "en": "Setup Hebrew i18n" },
+      "body": { "he": "יש לי אפליקציית Next.js 14 עם App Router. תעזור לי להוסיף תמיכה מלאה בעברית עם RTL, בחירת שפה, תרגומים ופורמט תאריכים -- כולל קוד לדוגמה", "en": "I have a Next.js 14 app with App Router. Help me add full Hebrew support with RTL, language switching, translations, and date formatting -- include example code" }
+    },
+    {
+      "title": { "he": "אמת תעודת זהות", "en": "Validate Israeli ID" },
+      "body": { "he": "תכתוב לי פונקציה ב-TypeScript שמאמתת מספר תעודת זהות ישראלית, כולל ספרת ביקורת ואפסים מובילים, עם טיפול בשגיאות ברור", "en": "Write me a TypeScript function that validates an Israeli ID number, including check digit and leading zeros, with clear error handling" }
+    },
+    {
+      "title": { "he": "פרמט מספר טלפון", "en": "Format phone number" },
+      "body": { "he": "יש לי שדה טלפון בטופס שמקבל קלט חופשי. תכתוב לי פונקציה ב-JavaScript שמנרמלת כל פורמט של מספר טלפון ישראלי לפורמט סטנדרטי אחיד", "en": "I have a phone field in a form that accepts free text input. Write me a JavaScript function that normalizes any Israeli phone number format to a single standard format" }
+    }
+  ]
 }

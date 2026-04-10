@@ -26,5 +26,19 @@
       { "q": "מהן הטעויות הנפוצות ביותר בפריסת RTL בפיתוח ווב?", "a": "הטעויות הנפוצות ביותר כוללות שימוש בערכי CSS left/right מוחלטים במקום מאפיינים לוגיים (inline-start/inline-end), שכחה לשקף אייקונים ואלמנטים כיווניים, ערבוב טקסט LTR ו-RTL בלי בקרת Unicode bidi נכונה, ושימוש בכיווני אנימציה LTR בלבד. סקיל Hebrew RTL Best Practices מזהה את כל אלה ומסביר את הגישה הנכונה לכל אחד מהם." },
       { "q": "מה כלי עיבוד שפה עברית יכולים לעשות שמודלי AI כלליים לא יכולים?", "a": "עברית היא שפה עשירה מורפולוגית שבה אותו שורש בן שלוש אותיות יכול לייצר עשרות מילים שונות, ניקוד לרוב חסר בכתיבה, ואותה אות ממלאת תפקידים פונטיים שונים. מודלי AI כלליים לעיתים קרובות מתקשים עם משימות כמו ניקוד, ניתוח מורפולוגי נכון, זיהוי ישויות בעברית וטיפול בגרסאות אותיות סופיות. ערכת Hebrew NLP Toolkit מכוונת במיוחד לאתגרים האלה." }
     ]
-  }
+  },
+  "prompts": [
+    {
+      "title": { "he": "כתוב מאמר בלוג", "en": "Write blog post" },
+      "body": { "he": "כתוב מאמר בלוג בעברית ישראלית טבעית בנושא '5 טיפים לניהול זמן לפרילנסרים'. אורך 600-800 מילה, טון מעשי ואישי, עם כותרות משנה ורשימות בולטים", "en": "Write a blog post in natural Israeli Hebrew on '5 time management tips for freelancers'. 600-800 words, practical and personal tone, with subheadings and bullet lists" }
+    },
+    {
+      "title": { "he": "צור מסמך חוזה", "en": "Generate contract" },
+      "body": { "he": "צור לי הסכם סודיות (NDA) בעברית לשיתוף פעולה בין שתי חברות ישראליות. כולל הגדרת מידע סודי, תקופת ההגבלה וסעדים במקרה של הפרה", "en": "Generate a confidentiality agreement (NDA) in Hebrew for a collaboration between two Israeli companies. Include definition of confidential information, restriction period, and remedies for breach" }
+    },
+    {
+      "title": { "he": "בדיקת נגישות", "en": "Accessibility audit" },
+      "body": { "he": "בדוק את האתר שלי מול תקן הנגישות הישראלי 5568 ו-WCAG 2.0 רמה AA. תן לי רשימה של בעיות שמצאת עם הסבר ברור ואיך לתקן כל אחת", "en": "Audit my website against Israeli accessibility standard 5568 and WCAG 2.0 Level AA. Give me a list of issues found with a clear explanation and how to fix each one" }
+    }
+  ]
 }
