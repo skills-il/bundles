@@ -2,7 +2,7 @@
   "name_en": "Legal & Compliance",
   "name_he": "חבילת חוק ורגולציה",
   "description_en": "AI skills for lawyers, compliance officers, and business owners navigating Israeli employment law, privacy regulations, contracts, and e-commerce compliance",
-  "description_he": "דיני עבודה, פרטיות, מסחר אלקטרוני וחוזים -- הדרכה משפטית מבוססת AI לבעלי עסקים",
+  "description_he": "דיני עבודה, פרטיות, מסחר אלקטרוני וחוזים: ייעוץ משפטי מבוסס AI לבעלי עסקים בישראל",
   "icon": "⚖️",
   "tags": ["legal", "compliance", "employment-law", "privacy", "contracts"],
   "tags_he": ["משפט", "תאימות", "דיני עבודה", "פרטיות", "חוזים"],
@@ -21,24 +21,24 @@
       { "q": "What rights do employees have in Israel that employers often overlook?", "a": "Common gaps include: meal allowances (dmei ochel), transportation reimbursement (dmei nesia), recreation pay (dmei havra'a), and mandatory pension enrollment from day one for new employees since 2008. Employees also have strong protections around overtime, annual leave accrual, and termination notice periods. The Israeli Workplace Rights Navigator covers all of these." }
     ],
     "he": [
-      { "q": "מה חייב להיות בחוזה עבודה בישראל כדי שיהיה תקף?", "a": "חוק הודעה לעובד, 2002, מחייב מעסיקים למסור הודעה בכתב על תנאי ההעסקה תוך 30 יום מתחילת העבודה, הכוללת תפקיד, תאריך התחלה, שכר, שעות עבודה והסכמים קיבוציים רלוונטיים. סקיל Israeli Employment Contracts מייצר חוזים שעומדים בכל הדרישות החוקיות ומסמן פערים נפוצים שיוצרים חשיפה משפטית." },
-      { "q": "האם חוק הגנת הפרטיות הישראלי חל על העסק שלי אם אני אוסף נתוני לקוחות?", "a": "כן. חוק הגנת הפרטיות ותקנותיו מחייבים עסקים המנהלים מאגרי מידע אישי להירשם ברשות הגנת הפרטיות במקרים מסוימים, ליישם אמצעי אבטחה ולכבד זכויות נושאי המידע. עם הרפורמה החדשה בסגנון GDPR שבדרך, דרישות התאימות מחמירות. סקיל Israeli Privacy Shield שומר את הפרקטיקות שלכם מעודכנות." },
-      { "q": "מהן הדרישות החוקיות לניהול חנות אונליין בישראל?", "a": "המסחר האלקטרוני הישראלי מוסדר על ידי חוק הגנת הצרכן, תקנות המסחר האלקטרוני (2001) וחוק שירותי תשלום. חנויות אונליין חייבות להציג מידע חובה, לאפשר ביטול עסקה (14 יום לרוב הרכישות) ולעמוד בכללים ספציפיים לשירותי מנוי וחיוב חוזר. סקיל Israeli E-Commerce Compliance בודק את החנות שלכם מול כל הדרישות הנוכחיות." },
-      { "q": "אילו זכויות יש לעובדים בישראל שמעסיקים לעיתים מתעלמים מהן?", "a": "פערים נפוצים כוללים: דמי אוכל, דמי נסיעה, דמי הבראה ורישום פנסיוני חובה מהיום הראשון לעובדים חדשים מ-2008. לעובדים יש גם הגנות חזקות בנושאי שעות נוספות, צבירת חופשה ותקופות הודעה מוקדמת. סקיל Israeli Workplace Rights Navigator מכסה את כל אלה." }
+      { "q": "מה חייב להיות בחוזה העסקה בישראל כדי שיהיה תקף?", "a": "חוק הודעה לעובד משנת 2002 מחייב כל מעסיק למסור הודעה בכתב על תנאי ההעסקה תוך 30 יום מתחילת העבודה. ההודעה צריכה לכלול את התפקיד, תאריך התחלה, שכר, שעות עבודה והסכמים קיבוציים שחלים על העובד. הסקיל Israeli Employment Contracts מייצר חוזה שעומד בכל הדרישות החוקיות, ובדרך גם מסמן לכם פערים נפוצים שיכולים לעלות ביוקר בהמשך." },
+      { "q": "האם חוק הגנת הפרטיות חל גם על העסק שלי, אם אני אוסף נתוני לקוחות?", "a": "כן. חוק הגנת הפרטיות והתקנות שלו מחייבים עסקים שמנהלים מאגרי מידע אישי לרשום את המאגר אצל הרשם במקרים מסוימים, להטמיע אמצעי אבטחה ולכבד את זכויות נושאי המידע. עם הרפורמה החדשה בסגנון GDPR שכבר בדרך, הדרישות רק הולכות ומחמירות. הסקיל Israeli Privacy Shield דואג שהתנהלות העסק שלכם תישאר תואמת לכל שינוי." },
+      { "q": "מה הדרישות החוקיות לניהול חנות אונליין בישראל?", "a": "המסחר האלקטרוני בישראל מוסדר על ידי חוק הגנת הצרכן, תקנות הגנת הצרכן (עסקת מכר מרחוק) משנת 2014 וחוק שירותי תשלום. חנויות אונליין חייבות להציג מידע חובה ללקוחות, לאפשר ביטול עסקה (14 יום ברוב הרכישות), ולעמוד בכללים מיוחדים לגבי מנויים וחיוב חוזר. הסקיל Israeli E-Commerce Compliance בודק את החנות שלכם מול כל הדרישות העדכניות." },
+      { "q": "אילו זכויות יש לעובדים בישראל שמעסיקים נוטים להחמיץ?", "a": "הפערים הנפוצים: דמי אוכל, דמי נסיעה, דמי הבראה, וביטוח פנסיוני שחובה להפעיל מהיום הראשון לעובדים חדשים מאז 2008. בנוסף, יש לעובדים הגנות חזקות בנושא שעות נוספות, צבירת ימי חופשה ותקופות הודעה מוקדמת. הסקיל Israeli Workplace Rights Navigator מכסה את כולן." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "נסח חוזה העסקה", "en": "Draft employment contract" },
-      "body": { "he": "אני מגייס מפתח Full Stack במשרה מלאה, שכר 25,000 ש\"ח ברוטו, ניסיון שנתיים. נסח לי חוזה העסקה מלא שעומד בחוק הישראלי, כולל תנאי סיום, ניסיון ותניות סודיות", "en": "I'm hiring a full-time Full Stack developer, 25,000 NIS gross, 2 years experience. Draft me a complete employment contract compliant with Israeli law, including termination terms, probation period, and confidentiality clauses" }
+      "title": { "he": "ניסוח חוזה העסקה", "en": "Draft employment contract" },
+      "body": { "he": "אני מגייס מפתח Full Stack למשרה מלאה, שכר ברוטו 25,000 ש\"ח, ניסיון של שנתיים. תנסח לי חוזה העסקה מלא שעומד בחוק הישראלי, כולל סעיפי סיום, תקופת ניסיון וסעיף סודיות", "en": "I'm hiring a full-time Full Stack developer, 25,000 NIS gross, 2 years experience. Draft me a complete employment contract compliant with Israeli law, including termination terms, probation period, and confidentiality clauses" }
     },
     {
-      "title": { "he": "בדוק מדיניות פרטיות", "en": "Privacy policy check" },
-      "body": { "he": "יש לי אתר e-commerce שאוסף שם, אימייל, כתובת ונתוני תשלום. תבדוק אם מדיניות הפרטיות שלי תואמת לחוק הגנת הפרטיות הישראלי ותצביע על מה חסר", "en": "I have an e-commerce site that collects name, email, address, and payment data. Check if my privacy policy complies with the Israeli Privacy Protection Law and flag what's missing" }
+      "title": { "he": "בדיקת מדיניות פרטיות", "en": "Privacy policy check" },
+      "body": { "he": "יש לי אתר e-commerce שאוסף שם, אימייל, כתובת ופרטי תשלום. תבדוק אם מדיניות הפרטיות שלי תואמת לחוק הגנת הפרטיות הישראלי, ותסמן לי מה חסר", "en": "I have an e-commerce site that collects name, email, address, and payment data. Check if my privacy policy complies with the Israeli Privacy Protection Law and flag what's missing" }
     },
     {
       "title": { "he": "חוזה שכירות", "en": "Rental agreement" },
-      "body": { "he": "אני משכיר דירת 3 חדרים בתל אביב ב-5,500 ש\"ח לחודש. צור לי חוזה שכירות סטנדרטי לשנה עם כל הסעיפים הנדרשים -- כולל ביטחונות ותנאי עזיבה", "en": "I'm renting out a 3-room apartment in Tel Aviv for 5,500 NIS per month. Generate a standard one-year rental agreement with all required clauses -- including guarantees and exit conditions" }
+      "body": { "he": "אני משכיר דירת 3 חדרים בתל אביב ב-5,500 ש\"ח לחודש. תכין לי חוזה שכירות סטנדרטי לשנה, עם כל הסעיפים הנדרשים לפי החוק, כולל בטוחות ותנאי עזיבה", "en": "I'm renting out a 3-room apartment in Tel Aviv for 5,500 NIS per month. Generate a standard one-year rental agreement with all required clauses -- including guarantees and exit conditions" }
     }
   ]
 }

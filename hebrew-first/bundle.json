@@ -2,7 +2,7 @@
   "name_en": "Hebrew First",
   "name_he": "חבילת עברית קודם",
   "description_en": "AI skills for anyone working primarily in Hebrew -- content writing, document generation, accessibility, RTL interfaces, and Hebrew NLP",
-  "description_he": "כתיבת תוכן, יצירת מסמכים, נגישות ו-RTL -- לכל מי שעובד בעברית",
+  "description_he": "כתיבה, מסמכים, נגישות ו-RTL: כל מה שצריך כדי לעבוד בעברית בלי להתפשר",
   "icon": "🔤",
   "tags": ["hebrew", "content-writing", "documents", "accessibility", "rtl"],
   "tags_he": ["עברית", "כתיבת תוכן", "מסמכים", "נגישות", "RTL"],
@@ -21,24 +21,24 @@
       { "q": "What can Hebrew NLP tools do that general AI models cannot?", "a": "Hebrew is a morphologically rich language where the same three-letter root can produce dozens of different words, vowels are usually omitted in writing, and the same letter serves different phonetic roles. General AI models often struggle with tasks like nikud (vowelization), correct morphological analysis, named entity recognition in Hebrew, and handling sofit letter variants. The Hebrew NLP Toolkit is tuned specifically for these challenges." }
     ],
     "he": [
-      { "q": "מה הופך כתיבת תוכן בעברית לטובה, מעבר לתרגום פשוט מאנגלית?", "a": "תוכן עברי טוב הוא לא תרגום -- הוא משתמש בביטויים ישראליים טבעיים, נמנע מקלקים מאנגלית, כותב מספרים ותאריכים בנוסח הישראלי ומשתמש ברגיסטר מתאים לקהל. קוראים ישראליים מרגישים מיד כשהטקסט הוא תרגום מילולי. סקיל Hebrew Content Writer מייצר תוכן שנשמע כאילו נכתב על ידי כותב ישראלי ילידי מלכתחילה." },
-      { "q": "מהן דרישות הנגישות הדיגיטלית בישראל, והאם הן חלות על האתר שלי?", "a": "תקנות שוויון זכויות לאנשים עם מוגבלות (תיקון 2, 2013) מחייבות אתרי ממשל ואתרים רבים הפונים לציבור לעמוד ב-WCAG 2.0 רמה AA. ההיקף הורחב לאורך השנים ועכשיו מכסה גם רוב האתרים המסחריים. סקיל Israeli Accessibility Compliance בודק את האתר שלכם מול התקן הישראלי הנוכחי (תקן ישראלי 5568) ומספק תיקונים ישימים." },
-      { "q": "מהן הטעויות הנפוצות ביותר בפריסת RTL בפיתוח ווב?", "a": "הטעויות הנפוצות ביותר כוללות שימוש בערכי CSS left/right מוחלטים במקום מאפיינים לוגיים (inline-start/inline-end), שכחה לשקף אייקונים ואלמנטים כיווניים, ערבוב טקסט LTR ו-RTL בלי בקרת Unicode bidi נכונה, ושימוש בכיווני אנימציה LTR בלבד. סקיל Hebrew RTL Best Practices מזהה את כל אלה ומסביר את הגישה הנכונה לכל אחד מהם." },
-      { "q": "מה כלי עיבוד שפה עברית יכולים לעשות שמודלי AI כלליים לא יכולים?", "a": "עברית היא שפה עשירה מורפולוגית שבה אותו שורש בן שלוש אותיות יכול לייצר עשרות מילים שונות, ניקוד לרוב חסר בכתיבה, ואותה אות ממלאת תפקידים פונטיים שונים. מודלי AI כלליים לעיתים קרובות מתקשים עם משימות כמו ניקוד, ניתוח מורפולוגי נכון, זיהוי ישויות בעברית וטיפול בגרסאות אותיות סופיות. ערכת Hebrew NLP Toolkit מכוונת במיוחד לאתגרים האלה." }
+      { "q": "איך כותבים בעברית באמת טוב, ולא סתם תרגום מאנגלית?", "a": "תוכן עברי טוב הוא לא תרגום. יש בו ביטויים שישראלים באמת אומרים, מספרים ותאריכים בפורמט המקומי וטון שמתאים לקהל. ישראלים מזהים תרגום מילולי תוך שניות, וזה הורג את האמינות של כל מה שכתוב מסביב. הסקיל Hebrew Content Writer כותב מההתחלה כמו מי שעברית היא שפת אמו, במקום להמיר טקסט אנגלי." },
+      { "q": "מה דרישות הנגישות הדיגיטלית בישראל, והאם הן חלות גם על האתר שלי?", "a": "תקנות שוויון זכויות לאנשים עם מוגבלות (תיקון 2, 2013) מחייבות אתרי ממשלה והרבה אתרים שפונים לציבור הרחב לעמוד ב-WCAG 2.0 ברמה AA. ההיקף התרחב לאורך השנים, וכיום הוא מכסה גם את רוב האתרים המסחריים. הסקיל Israeli Accessibility Compliance בודק את האתר שלכם מול תקן ישראלי 5568 ומחזיר רשימה ברורה של מה לתקן." },
+      { "q": "מה הטעויות הכי נפוצות בעבודה עם RTL בפיתוח ווב?", "a": "הטעויות שצצות הכי הרבה: שימוש ב-CSS עם left/right קבועים במקום בתכונות הלוגיות (inline-start/inline-end), שכחה להפוך אייקונים ואלמנטים כיווניים, ערבוב טקסט אנגלי ועברי בלי טיפול נכון בכיווניות (Unicode bidi), ואנימציות שעובדות רק מצד אחד. הסקיל Hebrew RTL Best Practices תופס את כל אלה ומסביר איך לפתור כל אחת מהן." },
+      { "q": "מה כלי NLP לעברית יודעים לעשות שמודלי AI כלליים פשוט מפספסים?", "a": "עברית היא שפה עם מורפולוגיה עשירה. אותו שורש בן שלוש אותיות יכול להפוך לעשרות מילים שונות, הניקוד כמעט תמיד חסר, ואותה אות יכולה להישמע אחרת בהקשרים שונים. מודלי AI כלליים נופלים פעמים רבות על משימות כמו ניקוד, ניתוח מורפולוגי, זיהוי שמות בעברית וטיפול באותיות סופיות. הסקיל Hebrew NLP Toolkit בנוי בדיוק לאתגרים האלה." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "כתוב מאמר בלוג", "en": "Write blog post" },
-      "body": { "he": "כתוב מאמר בלוג בעברית ישראלית טבעית בנושא '5 טיפים לניהול זמן לפרילנסרים'. אורך 600-800 מילה, טון מעשי ואישי, עם כותרות משנה ורשימות בולטים", "en": "Write a blog post in natural Israeli Hebrew on '5 time management tips for freelancers'. 600-800 words, practical and personal tone, with subheadings and bullet lists" }
+      "title": { "he": "כתיבת פוסט בלוג", "en": "Write blog post" },
+      "body": { "he": "כתוב לי פוסט בלוג בעברית טבעית בנושא '5 טיפים לניהול זמן לפרילנסרים'. בין 600 ל-800 מילים, טון אישי ומעשי, עם כותרות משנה ורשימות בולטים", "en": "Write a blog post in natural Israeli Hebrew on '5 time management tips for freelancers'. 600-800 words, practical and personal tone, with subheadings and bullet lists" }
     },
     {
-      "title": { "he": "צור מסמך חוזה", "en": "Generate contract" },
-      "body": { "he": "צור לי הסכם סודיות (NDA) בעברית לשיתוף פעולה בין שתי חברות ישראליות. כולל הגדרת מידע סודי, תקופת ההגבלה וסעדים במקרה של הפרה", "en": "Generate a confidentiality agreement (NDA) in Hebrew for a collaboration between two Israeli companies. Include definition of confidential information, restriction period, and remedies for breach" }
+      "title": { "he": "ניסוח חוזה NDA", "en": "Generate contract" },
+      "body": { "he": "תכין לי הסכם סודיות (NDA) בעברית לשיתוף פעולה בין שתי חברות ישראליות. כולל הגדרה של מה נחשב מידע סודי, אורך תקופת ההגבלה ומה קורה אם מישהו מפר את ההסכם", "en": "Generate a confidentiality agreement (NDA) in Hebrew for a collaboration between two Israeli companies. Include definition of confidential information, restriction period, and remedies for breach" }
     },
     {
       "title": { "he": "בדיקת נגישות", "en": "Accessibility audit" },
-      "body": { "he": "בדוק את האתר שלי מול תקן הנגישות הישראלי 5568 ו-WCAG 2.0 רמה AA. תן לי רשימה של בעיות שמצאת עם הסבר ברור ואיך לתקן כל אחת", "en": "Audit my website against Israeli accessibility standard 5568 and WCAG 2.0 Level AA. Give me a list of issues found with a clear explanation and how to fix each one" }
+      "body": { "he": "תרוץ על האתר שלי ותבדוק אותו מול תקן הנגישות הישראלי 5568 ו-WCAG 2.0 ברמה AA. תחזיר לי רשימה של בעיות שמצאת, הסבר ברור לכל אחת ואיך לתקן אותה", "en": "Audit my website against Israeli accessibility standard 5568 and WCAG 2.0 Level AA. Give me a list of issues found with a clear explanation and how to fix each one" }
     }
   ]
 }

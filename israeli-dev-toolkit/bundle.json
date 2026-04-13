@@ -1,8 +1,8 @@
 {
   "name_en": "Israeli Dev Toolkit",
-  "name_he": "ערכת כלים למפתחים ישראליים",
+  "name_he": "ערכת כלים למפתחים ישראלים",
   "description_en": "Essential developer tools for building products for the Israeli market",
-  "description_he": "כלי פיתוח חיוניים לבניית מוצרים לשוק הישראלי",
+  "description_he": "כלי הפיתוח שצריך כדי לבנות מוצר באמת מותאם לשוק הישראלי",
   "icon": "🛠️",
   "tags": ["developer", "hebrew", "rtl", "localization", "i18n"],
   "tags_he": ["מפתחים", "עברית", "RTL", "לוקליזציה", "בינאום"],
@@ -21,24 +21,24 @@
       { "q": "How should I format Israeli phone numbers in my application?", "a": "The Israeli Phone Formatter skill handles all Israeli phone formats: mobile (05X), landline (02-09), toll-free (1-800), and international (+972). It normalizes input and outputs in the standard format." }
     ],
     "he": [
-      { "q": "איך מוסיפים תמיכה בעברית לאפליקציית React או Next.js?", "a": "סקיל Hebrew i18n מספק הדרכה צעד אחר צעד להוספת לוקליזציה בעברית לאפליקציות React ו-Next.js, כולל פריסת RTL, הגדרת גופנים, פורמט תאריכים/מספרים וניהול תרגומים." },
-      { "q": "מהן השיטות המומלצות לפריסת RTL בפיתוח ווב?", "a": "סקיל Hebrew RTL Best Practices מכסה תכונות CSS לוגיות, טיפול בטקסט דו-כיווני, כלי RTL ב-Tailwind CSS ומלכודות נפוצות בבניית ממשקים RTL-first." },
-      { "q": "איך מאמתים מספר תעודת זהות ישראלית בקוד?", "a": "סקיל Israeli ID Validator מיישם את אלגוריתם ספרת הביקורת מבוסס Luhn שמשמש במספרי תעודת זהות ישראליים. הוא מטפל במקרי קצה כמו אפסים מובילים, מספק הודעות שגיאה ברורות ועובד בכל שפה." },
-      { "q": "איך לפרמט מספרי טלפון ישראליים באפליקציה?", "a": "סקיל Israeli Phone Formatter מטפל בכל פורמטי הטלפון הישראליים: סלולרי (05X), קווי (02-09), חינם (1-800) ובינלאומי (+972). הוא מנרמל קלט ומוציא בפורמט הסטנדרטי." }
+      { "q": "איך מוסיפים תמיכה בעברית לאפליקציית React או Next.js?", "a": "הסקיל Hebrew i18n מוביל אתכם צעד אחר צעד בהוספת לוקליזציה עברית לאפליקציות React ו-Next.js: פריסת RTL, גופנים, פורמט של תאריכים ומספרים, וניהול קבצי תרגום." },
+      { "q": "מה נחשב לעבודה נכונה עם RTL בפיתוח ווב?", "a": "הסקיל Hebrew RTL Best Practices מכסה את התכונות הלוגיות של CSS, טיפול בטקסט דו-כיווני, כלי ה-RTL של Tailwind, וכל המוקשים הקטנים שצצים בבנייה של ממשק RTL-first." },
+      { "q": "איך מאמתים מספר תעודת זהות ישראלית בקוד?", "a": "הסקיל Israeli ID Validator מיישם את אלגוריתם ספרת הביקורת (מבוסס Luhn) שהמדינה משתמשת בו לתעודת זהות. הוא יודע להתמודד עם אפסים מובילים ומקרי קצה אחרים, מחזיר הודעות שגיאה ברורות ועובד בכל שפת תכנות." },
+      { "q": "איך מפרמטים מספרי טלפון ישראליים באפליקציה?", "a": "הסקיל Israeli Phone Formatter יודע לטפל בכל הפורמטים: סלולר (05X), קווי (02-09), קווי חירום וקווי שירות (1-800) ובינלאומי (+972). הוא מקבל קלט בכל צורה, מנרמל אותו ומחזיר את אותו מספר בפורמט אחד אחיד." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "הגדר i18n בעברית", "en": "Setup Hebrew i18n" },
-      "body": { "he": "יש לי אפליקציית Next.js 14 עם App Router. תעזור לי להוסיף תמיכה מלאה בעברית עם RTL, בחירת שפה, תרגומים ופורמט תאריכים -- כולל קוד לדוגמה", "en": "I have a Next.js 14 app with App Router. Help me add full Hebrew support with RTL, language switching, translations, and date formatting -- include example code" }
+      "title": { "he": "הגדרת i18n בעברית", "en": "Setup Hebrew i18n" },
+      "body": { "he": "יש לי אפליקציית Next.js 14 עם App Router. תעזור לי להוסיף תמיכה מלאה בעברית: RTL, מעבר בין שפות, תרגומים ופורמט תאריכים. תן לי גם קוד לדוגמה", "en": "I have a Next.js 14 app with App Router. Help me add full Hebrew support with RTL, language switching, translations, and date formatting -- include example code" }
     },
     {
-      "title": { "he": "אמת תעודת זהות", "en": "Validate Israeli ID" },
-      "body": { "he": "תכתוב לי פונקציה ב-TypeScript שמאמתת מספר תעודת זהות ישראלית, כולל ספרת ביקורת ואפסים מובילים, עם טיפול בשגיאות ברור", "en": "Write me a TypeScript function that validates an Israeli ID number, including check digit and leading zeros, with clear error handling" }
+      "title": { "he": "אימות תעודת זהות", "en": "Validate Israeli ID" },
+      "body": { "he": "תכתוב לי פונקציה ב-TypeScript שמאמתת מספר תעודת זהות ישראלית, כולל ספרת ביקורת, אפסים מובילים וטיפול בשגיאות שמסביר למשתמש מה לא בסדר", "en": "Write me a TypeScript function that validates an Israeli ID number, including check digit and leading zeros, with clear error handling" }
     },
     {
-      "title": { "he": "פרמט מספר טלפון", "en": "Format phone number" },
-      "body": { "he": "יש לי שדה טלפון בטופס שמקבל קלט חופשי. תכתוב לי פונקציה ב-JavaScript שמנרמלת כל פורמט של מספר טלפון ישראלי לפורמט סטנדרטי אחיד", "en": "I have a phone field in a form that accepts free text input. Write me a JavaScript function that normalizes any Israeli phone number format to a single standard format" }
+      "title": { "he": "פירמוט מספר טלפון", "en": "Format phone number" },
+      "body": { "he": "יש לי שדה טלפון בטופס שמקבל קלט חופשי. תכתוב לי פונקציה ב-JavaScript שלוקחת כל פורמט של מספר טלפון ישראלי ומחזירה אותו בפורמט אחיד", "en": "I have a phone field in a form that accepts free text input. Write me a JavaScript function that normalizes any Israeli phone number format to a single standard format" }
     }
   ]
 }

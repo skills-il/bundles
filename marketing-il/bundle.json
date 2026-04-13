@@ -1,11 +1,11 @@
 {
   "name_en": "Marketing IL",
-  "name_he": "חבילת שיווק ישראלי",
+  "name_he": "חבילת שיווק לקהל הישראלי",
   "description_en": "AI skills for marketers targeting the Israeli audience -- SEO, social content, email sequences, LinkedIn, and paid ads",
-  "description_he": "SEO בעברית, תוכן לסושיאל, קמפיינים באימייל ופרסום ממומן -- שיווק דיגיטלי לקהל ישראלי",
+  "description_he": "SEO בעברית, תוכן לסושיאל, רצפי אימייל ופרסום ממומן: שיווק דיגיטלי שמדבר אל ישראלים",
   "icon": "📣",
   "tags": ["marketing", "seo", "social-media", "email-marketing", "linkedin"],
-  "tags_he": ["שיווק", "SEO", "סושיאל מדיה", "שיווק באימייל", "לינקדאין"],
+  "tags_he": ["שיווק", "SEO", "סושיאל", "אימייל מרקטינג", "לינקדאין"],
   "skills": [
     { "slug": "hebrew-seo-geo-toolkit", "repo": "skills-il/marketing-growth", "path": "hebrew-seo-geo-toolkit" },
     { "slug": "israeli-social-content", "repo": "skills-il/marketing-growth", "path": "israeli-social-content" },
@@ -21,24 +21,24 @@
       { "q": "Is LinkedIn used differently in Israel compared to other markets?", "a": "Yes -- the Israeli LinkedIn ecosystem is tightly connected, especially in tech. Hebrew posts often outperform English for local reach, personal stories and opinions get high engagement, and startup culture means people expect direct outreach. The Israeli LinkedIn Strategy skill tailors your presence and content for the local professional network." }
     ],
     "he": [
-      { "q": "במה שונה SEO לתוכן בעברית לעומת אנגלית?", "a": "ל-SEO בעברית יש אתגרים ייחודיים: נפחי חיפוש קטנים יותר, כלי מחקר מילות מפתח עם נתוני עברית מוגבלים, וגוגל מתייחסת לניקוד בנפרד מהאותיות הבסיסיות. ערכת Hebrew SEO & GEO מטפלת בכל זה -- כולל אופטימיזציה למנועי חיפוש מבוססי AI (GEO) שעונים יותר ויותר על שאילתות ישירות בעברית." },
-      { "q": "אילו פלטפורמות סושיאל הכי פופולריות בישראל ואיך להתאים את התוכן?", "a": "אינסטגרם ופייסבוק עדיין דומיננטיים בישראל, טיקטוק צומח מהר בקרב צעירים ולינקדאין חיוני ל-B2B. הקהל הישראלי בסושיאל מגיב טוב לעברית ישירה ושיחית, הומור מקומי והתייחסויות לתרבות ואירועים ישראליים. סקיל Israeli Social Content יוצר פוסטים מותאמים לפלטפורמה עם הניואנסים האלה." },
-      { "q": "במה שונות נורמות שיווק האימייל הישראלי מהפרקטיקות הכלליות?", "a": "לישראל יש חוק ספאם משלה (תיקון 40 לחוק התקשורת) שמחייב הסכמה מפורשת לאימיילים מסחריים. זמני שליחה, סגנון שורת נושא ונימת התוכן שונים גם הם -- ישראלים מעדיפים בדרך כלל אימיילים קצרים וישירים יותר. סקיל Israeli Email Sequences בונה רצפים תואמי חוק ומתאימים תרבותית." },
-      { "q": "האם משתמשים בלינקדאין אחרת בישראל לעומת שווקים אחרים?", "a": "כן -- המערכת האקולוגית של לינקדאין הישראלית מחוברת הדוק, במיוחד בהייטק. פוסטים בעברית לרוב מבצעים טוב יותר לטווח מקומי, סיפורים אישיים ודעות מקבלים מעורבות גבוהה, ותרבות הסטארטאפ אומרת שאנשים מצפים לפנייה ישירה. סקיל Israeli LinkedIn Strategy מתאים את הנוכחות והתוכן שלכם לרשת המקצועית המקומית." }
+      { "q": "במה שונה SEO בעברית מ-SEO באנגלית?", "a": "ל-SEO בעברית יש כמה אתגרים שאין באנגלית: נפחי החיפוש קטנים יותר, לכלי מחקר המילים יש פחות נתונים בעברית, וגוגל מתייחס לניקוד כמשהו נפרד מהאותיות עצמן. הסקיל Hebrew SEO & GEO Toolkit נותן מענה לכל אלה, כולל אופטימיזציה למנועי החיפוש מבוססי ה-AI (GEO) שעונים יותר ויותר על שאילתות ישירות בעברית." },
+      { "q": "אילו רשתות חברתיות הכי פופולריות בישראל ואיך מתאימים אליהן את התוכן?", "a": "אינסטגרם ופייסבוק עדיין שולטות בישראל, טיקטוק תופסת תאוצה אצל הצעירים יותר, ולינקדאין הכרחית ל-B2B. הקהל הישראלי בסושיאל אוהב עברית ישירה ושיחית, הומור מקומי והתייחסות לאירועים שקורים פה ועכשיו. הסקיל Israeli Social Content בונה לכם פוסטים מותאמים לכל פלטפורמה, עם הניואנסים האלה." },
+      { "q": "מה שונה בשיווק באימייל לקהל ישראלי לעומת קהל בינלאומי?", "a": "לישראל יש חוק ספאם משלה (תיקון 40 לחוק התקשורת), שמחייב אישור מפורש מהנמען לפני שליחת אימיילים מסחריים. גם זמני השליחה, סגנון שורת הנושא והטון של התוכן שונים: ישראלים מעדיפים אימיילים קצרים וישירים. הסקיל Israeli Email Sequences בונה רצפים שגם תואמים את החוק וגם מותאמים תרבותית לקהל." },
+      { "q": "האם משתמשים בלינקדאין אחרת בישראל?", "a": "כן. הלינקדאין הישראלי מחובר חזק במיוחד בעולם ההייטק. פוסטים בעברית לרוב עובדים יותר טוב לטווח המקומי, סיפורים אישיים ודעות מייצרים מעורבות גבוהה, ותרבות הסטארטאפ אומרת שאנשים מצפים לפניות ישירות בלי להתבייש. הסקיל Israeli LinkedIn Strategy בונה את הנוכחות והתוכן שלכם כך שיתחברו לרשת המקצועית המקומית." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "אודיט SEO בעברית", "en": "Hebrew SEO audit" },
-      "body": { "he": "עשה לי אודיט SEO לדף הבית של אתר קורסים אונליין בעברית. בדוק כותרות, מטא תיאורים, מילות מפתח ומבנה תוכן -- ותן המלצות ספציפיות לשיפור הדירוג", "en": "Run an SEO audit on the homepage of a Hebrew online courses website. Check titles, meta descriptions, keywords, and content structure -- give specific recommendations to improve ranking" }
+      "title": { "he": "אודיט SEO לאתר בעברית", "en": "Hebrew SEO audit" },
+      "body": { "he": "תרוץ אודיט SEO על דף הבית של אתר קורסים אונליין בעברית. תבדוק כותרות, תיאורי מטא, מילות מפתח ומבנה תוכן, ותחזיר לי המלצות ספציפיות לשיפור הדירוג", "en": "Run an SEO audit on the homepage of a Hebrew online courses website. Check titles, meta descriptions, keywords, and content structure -- give specific recommendations to improve ranking" }
     },
     {
-      "title": { "he": "כתוב פוסט לסושיאל", "en": "Write social post" },
-      "body": { "he": "כתוב לי פוסט לאינסטגרם על השקת מוצר חדש -- אפליקציה לניהול הוצאות לעסקים קטנים בישראל. טון שיחי וישראלי, קריאה לפעולה ברורה, עד 150 מילים", "en": "Write me an Instagram post for a new product launch -- an expense management app for small Israeli businesses. Conversational Israeli tone, clear call to action, max 150 words" }
+      "title": { "he": "כתיבת פוסט לסושיאל", "en": "Write social post" },
+      "body": { "he": "תכתוב לי פוסט לאינסטגרם על השקת מוצר חדש: אפליקציה לניהול הוצאות לעסקים קטנים בישראל. טון שיחי וישראלי, קריאה ברורה לפעולה, עד 150 מילים", "en": "Write me an Instagram post for a new product launch -- an expense management app for small Israeli businesses. Conversational Israeli tone, clear call to action, max 150 words" }
     },
     {
-      "title": { "he": "קמפיין אימייל", "en": "Email campaign" },
-      "body": { "he": "בנה לי רצף של 3 אימיילים ללידים שנרשמו לניסיון חינם בתוכנת הנהלת חשבונות. אימייל 1 ביום הראשון, אימייל 2 ביום 3, אימייל 3 ביום 7 -- בעברית, ישיר ועם מטרה ברורה לכל אימייל", "en": "Build me a 3-email sequence for leads who signed up for a free trial of accounting software. Email 1 on day 1, email 2 on day 3, email 3 on day 7 -- in Hebrew, direct, with a clear goal for each email" }
+      "title": { "he": "רצף אימיילים", "en": "Email campaign" },
+      "body": { "he": "תבנה לי רצף של 3 אימיילים ללידים שנרשמו לתקופת ניסיון חינם בתוכנת הנהלת חשבונות. אימייל ראשון ביום 1, שני ביום 3 ושלישי ביום 7. הכל בעברית, ישיר, עם מטרה ברורה לכל אימייל", "en": "Build me a 3-email sequence for leads who signed up for a free trial of accounting software. Email 1 on day 1, email 2 on day 3, email 3 on day 7 -- in Hebrew, direct, with a clear goal for each email" }
     }
   ]
 }

@@ -2,7 +2,7 @@
   "name_en": "Israeli Tax Season",
   "name_he": "עונת המס הישראלית",
   "description_en": "Everything you need for annual tax filing, VAT reporting, and tax optimization in Israel",
-  "description_he": "דוח שנתי, דיווחי מע\"מ, ניכויים במקור ותכנון מס חכם -- הכל בחבילה אחת",
+  "description_he": "דוח שנתי, דיווחי מע\"מ, ניכוי מס במקור ותכנון מס חכם, הכל בחבילה אחת",
   "icon": "🧾",
   "tags": ["tax", "annual-report", "vat", "deductions", "filing"],
   "tags_he": ["מס", "דוח שנתי", "מע\"מ", "ניכויים", "הגשה"],
@@ -21,24 +21,24 @@
       { "q": "How does tax withholding work in Israel?", "a": "When you invoice Israeli businesses, they may withhold tax at source (nikui mas b'makor). The Israeli Tax Withholding skill helps you understand withholding rates, generate correct invoices, and reconcile withheld amounts against your annual tax liability." }
     ],
     "he": [
-      { "q": "מתי המועד האחרון להגשת דוח מס שנתי בישראל?", "a": "ליחידים, המועד הסטנדרטי הוא 30 באפריל. למגישים באופן מקוון, לעיתים ניתנת ארכה עד 31 במאי. לעצמאי��ם ועסקים עשויים להיות מועדים מאוחרים יותר. סקיל דוחות המס הישראלי עוזר להבין ��ת המועדים הספציפיים שלכם ולהכין את ההגשה." },
-      { "q": "איך מחשבים תשלומי מע\"מ לעסק ישראלי?", "a": "עסקים ישראליים חייבים להגיש דוחות מע\"מ דו-חודשיים. סקיל דיווח המע\"מ הישראלי מבצע אוטומציה של החישובים, עוקב אחר מע\"מ עסקאות מול מע\"מ תשומות ועוזר להכין את הדוח להגשה לרשות המסים." },
-      { "q": "אילו ניכויי מס פרילנסרים יכולים לתבוע בישראל?", "a": "פרילנסרים ישראליים יכולים לנכות הוצאות עסקיות כולל עלויות משרד ביתי, השתלמויות, הוצאות רכב (חלקית), ציוד, ביטוח והפקדות לפנסיה. סקיל סיווג ההוצאות ממיין את ההוצאות לקטגוריות הניכוי הנכונות." },
-      { "q": "איך עובד ניכוי מס במקור בישראל?", "a": "כשמחייבים עסקים ישראליים, הם עשויים לנכות מס במקור. סקיל ניכוי מס במקור עוזר להבין שיעורי ניכוי, לייצר חשבוניות נכונות ולהתאים סכומים שנוכו מול חבות המס השנתית." }
+      { "q": "עד מתי צריך להגיש את הדוח השנתי בישראל?", "a": "ליחידים, המועד הרגיל הוא 30 באפריל. מי שמגיש דרך האינטרנט מקבל לרוב ארכה עד 31 במאי. לעצמאים ולעסקים יש לפעמים מועדים מאוחרים יותר. הסקיל לדוחות מס בישראל עוזר לכם להבין מתי בדיוק אתם צריכים להגיש ולהכין את הדוח עצמו." },
+      { "q": "איך מחשבים את תשלומי המע\"מ של עסק ישראלי?", "a": "עסקים בישראל חייבים בדיווח מע\"מ דו-חודשי, אחת לחודשיים. הסקיל Israeli VAT Reporting עושה לכם את החישובים, עוקב אחרי מע\"מ עסקאות מול מע\"מ תשומות ומכין את הדיווח להגשה לרשות המסים." },
+      { "q": "אילו ניכויי מס פרילנסר ישראלי יכול לתבוע?", "a": "פרילנסרים בישראל יכולים לנכות הוצאות עסקיות כמו משרד ביתי, השתלמויות, רכב (חלקי), ציוד, ביטוח והפקדות לפנסיה. הסקיל Israeli Expense Categorizer ממיין לכם את ההוצאות לקטגוריות הניכוי הנכונות, כדי שלא תפספסו שום שקל שאתם זכאים לנכות." },
+      { "q": "איך עובד ניכוי מס במקור בישראל?", "a": "כשאתם מוציאים חשבונית לעסק ישראלי, יכול להיות שינכו לכם מס במקור. הסקיל Israeli Tax Withholding מסביר לכם את שיעורי הניכוי, מייצר חשבוניות נכונות ומתאים את הסכומים שנוכו מול חבות המס השנתית, כדי שלא תשלמו פעמיים." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "בדוק ניכויים שלי", "en": "Check my deductions" },
-      "body": { "he": "אני עצמאי, הכנסתי 180,000 ש\"ח השנה. יש לי הוצאות משרד ביתי, רכב, השתלמויות וביטוח. תסרוק אילו ניכויים מגיעים לי ואיך לסווג אותם בדוח השנתי", "en": "I'm self-employed and earned 180,000 NIS this year. I have home office, car, professional development, and insurance expenses. Show me what deductions I qualify for and how to categorize them in my annual return" }
+      "title": { "he": "בדיקת ניכויים אישית", "en": "Check my deductions" },
+      "body": { "he": "אני עצמאי, הכנסתי השנה 180,000 ש\"ח. יש לי הוצאות של משרד ביתי, רכב, השתלמויות וביטוח. תראה לי אילו ניכויים מגיעים לי ואיך לסווג אותם בדוח השנתי", "en": "I'm self-employed and earned 180,000 NIS this year. I have home office, car, professional development, and insurance expenses. Show me what deductions I qualify for and how to categorize them in my annual return" }
     },
     {
-      "title": { "he": "דוח ניכוי במקור", "en": "Withholding report" },
-      "body": { "he": "אחד הלקוחות שלי ניכה לי 10% מס במקור על תשלומים בסך 60,000 ש\"ח. איך זה משפיע על החבות השנתית שלי ואיפה זה נכנס בדוח?", "en": "One of my clients withheld 10% tax at source on payments totaling 60,000 NIS. How does this affect my annual tax liability and where does it go on my return?" }
+      "title": { "he": "טיפול בניכוי במקור", "en": "Withholding report" },
+      "body": { "he": "לקוח שלי ניכה לי 10% מס במקור על תשלומים בסך 60,000 ש\"ח. איך זה משפיע על חבות המס השנתית שלי, ואיפה זה אמור להופיע בדוח?", "en": "One of my clients withheld 10% tax at source on payments totaling 60,000 NIS. How does this affect my annual tax liability and where does it go on my return?" }
     },
     {
-      "title": { "he": "צ'קליסט הגשת מס", "en": "Tax filing checklist" },
-      "body": { "he": "הכן לי צ'קליסט מלא לקראת הגשת הדוח השנתי שלי כעצמאי -- מה צריך לאסוף, מה לחשב ומה המועדים שאסור לפספס", "en": "Give me a complete checklist for filing my annual tax return as a self-employed person -- what documents to gather, what to calculate, and what deadlines I cannot miss" }
+      "title": { "he": "צ'קליסט להגשת דוח", "en": "Tax filing checklist" },
+      "body": { "he": "תכין לי צ'קליסט מלא לקראת הגשת הדוח השנתי שלי כעצמאי: מה לאסוף, מה לחשב ואילו תאריכים אסור לי לפספס", "en": "Give me a complete checklist for filing my annual tax return as a self-employed person -- what documents to gather, what to calculate, and what deadlines I cannot miss" }
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "name_en": "Government Navigator",
-  "name_he": "מדריך ביורוקרטיה ישראלית",
+  "name_he": "מדריך לביורוקרטיה הישראלית",
   "description_en": "Navigate Israeli bureaucracy, government forms, and public services with AI",
-  "description_he": "להתמודד עם הביורוקרטיה בלי להשתגע -- טפסים, ביטוח לאומי, קנסות ומשרדי ממשלה",
+  "description_he": "להתמודד עם הביורוקרטיה בלי לאבד שפיות: טפסים, ביטוח לאומי, קנסות ומשרדי ממשלה",
   "icon": "🏛️",
   "tags": ["government", "bureaucracy", "forms", "public-services", "bituach-leumi"],
   "tags_he": ["ממשלה", "ביורוקרטיה", "טפסים", "שירותים ציבוריים", "ביטוח לאומי"],
@@ -21,24 +21,24 @@
       { "q": "How do I fight a traffic or parking fine in Israel?", "a": "The Israeli Fines Fighter skill guides you through the appeals process for traffic and parking fines, helps you draft appeal letters, and explains your rights and deadlines under Israeli law." }
     ],
     "he": [
-      { "q": "איך אפשר להבין איזה משרד ממשלתי מטפל בבקשה שלי?", "a": "סקיל Israeli Bureaucracy Decoder ממפה את המצב שלכם למשרד הנכון, מסביר את התהליך, מפרט מסמכים נדרשים ומספק פרטי יצירת קשר. תארו את הצורך שלכם בשפה פשוטה והוא מנווט אתכם דרך הביורוקרטיה." },
-      { "q": "לאילו קצבאות ביטוח לאומי אני זכאי?", "a": "סקיל Israeli Bituach Leumi עוזר לכם להבין את הזכאות לגמלאות ביטוח לאומי, מאבטלה דרך נכות ועד קצבאות ילדים. הוא מסביר את תהליך ההגשה והתיעוד הנדרש לכל סוג גמלה." },
-      { "q": "האם AI יכול למלא בשבילי טפסים ממשלתיים?", "a": "סקיל Israeli Gov Form Automator עוזר לכם להכין ולמלא טפסים ממשלתיים נפוצים. הוא מסביר מה כל שדה אומר, מאמת את הקלט שלכם ומוודא שלא פספסתם חלקים נדרשים. שימו לב: אתם עדיין מגישים את הטפסים בעצמכם." },
-      { "q": "איך מגישים ערעור על דוח תנועה או חנייה בישראל?", "a": "סקיל Israeli Fines Fighter מנחה אתכם דרך תהליך הערעור על דוחות תנועה וחנייה, עוזר לנסח מכתבי ערעור ומסביר את הזכויות והמועדים שלכם לפי החוק הישראלי." }
+      { "q": "איך מבינים לאיזה משרד ממשלתי בכלל פונים?", "a": "הסקיל Israeli Bureaucracy Decoder לוקח את המצב שלכם וממפה אותו למשרד הנכון, מסביר את התהליך, מפרט אילו מסמכים צריך ונותן פרטי התקשרות. אתם מתארים בעברית פשוטה מה אתם צריכים, והוא מוביל אתכם צעד אחר צעד." },
+      { "q": "לאילו קצבאות מביטוח לאומי אני בכלל זכאי?", "a": "הסקיל Israeli Bituach Leumi עוזר להבין מה מגיע לכם, מאבטלה ונכות ועד קצבאות ילדים. הוא מסביר איך מגישים בקשה לכל גמלה ואילו מסמכים צריך לצרף." },
+      { "q": "האם AI יכול למלא בשבילי טפסים ממשלתיים?", "a": "הסקיל Israeli Gov Form Automator עוזר לכם להכין ולמלא את הטפסים הנפוצים. הוא מסביר מה כל שדה אומר, בודק שלא טעיתם בקלט ומוודא שלא דילגתם על משהו חובה. שימו לב: את ההגשה עצמה אתם עדיין עושים לבד." },
+      { "q": "איך מערערים על דוח תנועה או חנייה בישראל?", "a": "הסקיל Israeli Fines Fighter מלווה אתכם בכל תהליך הערעור על דוחות תנועה וחנייה, עוזר לנסח את מכתב הערעור ומסביר אילו זכויות יש לכם ועד מתי אפשר להגיש." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "בדוק זכאות לקצבאות", "en": "Check my benefits" },
-      "body": { "he": "אני בן 34, עובד שכיר, נשוי עם שני ילדים. לאחרונה פוטרתי. מה הגמלאות שמגיעות לי מביטוח לאומי ואיך מגישים בקשה?", "en": "I'm 34, a salaried employee, married with two kids. I was recently laid off. What National Insurance benefits am I entitled to and how do I apply?" }
+      "title": { "he": "בדיקת זכאות לקצבאות", "en": "Check my benefits" },
+      "body": { "he": "אני בן 34, שכיר, נשוי עם שני ילדים, פוטרתי לפני שבוע. אילו גמלאות מגיעות לי מביטוח לאומי ואיך מגישים בקשה?", "en": "I'm 34, a salaried employee, married with two kids. I was recently laid off. What National Insurance benefits am I entitled to and how do I apply?" }
     },
     {
-      "title": { "he": "מלא טופס ממשלתי", "en": "Fill a form" },
-      "body": { "he": "אני צריך למלא בקשה להכרה כעוסק מורשה ברשות המסים. תסביר לי שדה שדה מה למלא ואיזה מסמכים לצרף", "en": "I need to fill out an application for Esek Murshe status with the Tax Authority. Walk me through each field and what documents to attach" }
+      "title": { "he": "מילוי טופס ממשלתי", "en": "Fill a form" },
+      "body": { "he": "אני צריך להגיש בקשה להכרה כעוסק מורשה ברשות המסים. תעבור איתי שדה שדה, תסביר מה ממלאים בכל אחד ואילו מסמכים לצרף", "en": "I need to fill out an application for Esek Murshe status with the Tax Authority. Walk me through each field and what documents to attach" }
     },
     {
       "title": { "he": "ערעור על קנס", "en": "Appeal a fine" },
-      "body": { "he": "קיבלתי דוח חנייה בסך 500 ש\"ח אבל הסימנים לא היו ברורים. תכתוב לי מכתב ערעור מקצועי לעירייה עם טיעונים חוקיים", "en": "I got a 500 NIS parking fine but the signs were unclear. Write me a professional appeal letter to the municipality with legal arguments" }
+      "body": { "he": "קיבלתי דוח חנייה על 500 ש\"ח, אבל התמרור באזור לא היה ברור. תכתוב לי מכתב ערעור מקצועי לעירייה, עם נימוקים חוקיים שיהיו לעניין", "en": "I got a 500 NIS parking fine but the signs were unclear. Write me a professional appeal letter to the municipality with legal arguments" }
     }
   ]
 }

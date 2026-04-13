@@ -2,10 +2,10 @@
   "name_en": "Israeli Health Navigator",
   "name_he": "ניווט במערכת הבריאות הישראלית",
   "description_en": "Navigate Israel's healthcare system: HMOs, emergencies, mental health, elder care, and nutrition",
-  "description_he": "ניווט במערכת הבריאות -- קופות חולים, חירום, בריאות הנפש, טיפול בקשישים ותזונה",
+  "description_he": "כל מה שצריך כדי להסתדר עם המערכת: קופות חולים, חירום, בריאות הנפש, סיעוד ותזונה",
   "icon": "🏥",
   "tags": ["health", "hmo", "emergency", "mental-health", "elder-care"],
-  "tags_he": ["בריאות", "קופת חולים", "חירום", "בריאות הנפש", "טיפול בקשישים"],
+  "tags_he": ["בריאות", "קופת חולים", "חירום", "בריאות הנפש", "סיעוד"],
   "skills": [
     { "slug": "israeli-hmo-navigator", "repo": "skills-il/health-services", "path": "israeli-hmo-navigator" },
     { "slug": "israeli-emergency-guide", "repo": "skills-il/health-services", "path": "israeli-emergency-guide" },
@@ -21,24 +21,24 @@
       { "q": "How does long-term elder care work in Israel?", "a": "Bituach Leumi provides gimlat siud (long-term care benefit) based on a dependency assessment. This covers home aide hours. Additionally, kupot cholim offer private nursing care insurance (bituach siudi). For residential options, there are beit avot (nursing homes) and diur mugan (assisted living). Advance planning with yipuy koach mitmashech (enduring power of attorney) is recommended." }
     ],
     "he": [
-      { "q": "מה ההבדל בין ארבע קופות החולים בישראל?", "a": "בישראל ארבע קופות חולים: כללית, מכבי, מאוחדת ולאומית. כולן מספקות את אותו סל בריאות בסיסי שנקבע בחוק, אבל נבדלות בביטוחים המשלימים (שב\"ן/מושלם), זמינות מומחים, מיקומי מרפאות ושירותים דיגיטליים. אפשר לעבור קופה פעם בשנה בתקופת ההעברה." },
-      { "q": "מה עושים במקרה חירום רפואי בישראל?", "a": "מתקשרים למד\"א (מגן דוד אדום) 101 להזמנת אמבולנס. לטיפול דחוף שאינו מסכן חיים, אפשר לפנות לטרם. בישראל חמישה מרכזי טראומה ברמה 1 (רמב\"ם, שיבא, הדסה, סורוקה, רבין). ביקור במיון כרוך בהשתתפות עצמית אלא אם הופניתם מהקופה או הגעתם באמבולנס." },
-      { "q": "איך מקבלים טיפול נפשי דרך קופת החולים?", "a": "מאז רפורמת בריאות הנפש של 2015, כל הטיפול הפסיכיאטרי והפסיכולוגי עובר דרך קופות החולים. אפשר לקבל הפניה לטיפול מסובסד (CBT, EMDR וכו') מרופא המשפחה. במצבי משבר, אפשר להתקשר לער\"ן 1201 או לנט\"ל לתמיכה בפוסט-טראומה." },
-      { "q": "איך עובד טיפול סיעודי בקשישים בישראל?", "a": "ביטוח לאומי מעניק גמלת סיעוד על בסיס הערכת תלות. הגמלה מכסה שעות מטפל בבית. בנוסף, קופות החולים מציעות ביטוח סיעודי פרטי. למגורים יש בתי אבות ודיור מוגן. מומלץ להיערך מראש עם ייפוי כוח מתמשך." }
+      { "q": "מה ההבדל בין ארבע קופות החולים בישראל?", "a": "בישראל יש ארבע קופות: כללית, מכבי, מאוחדת ולאומית. כולן חייבות לתת בדיוק את אותו סל בריאות שנקבע בחוק, אבל הן נבדלות זו מזו בביטוחים המשלימים (שב\"ן/מושלם), בזמינות של מומחים, במיקום המרפאות ובאיכות השירותים הדיגיטליים. אגב, אפשר לעבור קופה פעם בשנה בתקופת המעבר." },
+      { "q": "מה עושים במקרה של חירום רפואי בישראל?", "a": "מתקשרים למד\"א (101) לאמבולנס. אם זה לא מסכן חיים אבל דורש טיפול מהיר, אפשר לפנות לטרם. בישראל יש חמישה מרכזי טראומה ברמה 1 (רמב\"ם, שיבא, הדסה, סורוקה, רבין). ביקור במיון כרוך בהשתתפות עצמית, חוץ מהמקרים שבהם הופניתם מהקופה או הגעתם באמבולנס." },
+      { "q": "איך מגיעים לטיפול נפשי דרך קופת החולים?", "a": "מאז רפורמת בריאות הנפש של 2015, כל הטיפול הפסיכיאטרי והפסיכולוגי מתבצע דרך קופות החולים. רופא המשפחה יכול להפנות אתכם לטיפול מסובסד (CBT, EMDR וכדומה). אם אתם במצב משבר, מתקשרים לער\"ן 1201, ולתמיכה בפוסט-טראומה לנט\"ל." },
+      { "q": "איך עובד טיפול סיעודי בקשישים בישראל?", "a": "ביטוח לאומי נותן גמלת סיעוד על בסיס הערכת תלות, והגמלה מממנת שעות מטפל בבית. במקביל, קופות החולים מציעות ביטוח סיעודי פרטי. למי שכבר לא יכול להישאר בבית יש שתי אפשרויות עיקריות: בית אבות או דיור מוגן. כדאי להיערך מראש עם ייפוי כוח מתמשך כדי להימנע מסיבוכים בהמשך." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "השוואת קופות חולים", "en": "Compare HMOs" },
-      "body": { "he": "אני רוצה להשוות בין מכבי לכללית. יש לי שני ילדים ואנחנו גרים במרכז. מה עדיף מבחינת רופאי ילדים, שב\"ן, וזמני המתנה למומחים?", "en": "Compare Maccabi vs Clalit for a family with two kids in central Israel. Which is better for pediatricians, supplementary insurance (shaban), and specialist wait times?" }
+      "title": { "he": "השוואה בין קופות חולים", "en": "Compare HMOs" },
+      "body": { "he": "אני רוצה להשוות בין מכבי לכללית. יש לי שני ילדים ואנחנו גרים במרכז. מה עדיף מבחינת רופאי ילדים, שב\"ן וזמני המתנה למומחים?", "en": "Compare Maccabi vs Clalit for a family with two kids in central Israel. Which is better for pediatricians, supplementary insurance (shaban), and specialist wait times?" }
     },
     {
       "title": { "he": "מציאת טיפול נפשי", "en": "Find mental health care" },
-      "body": { "he": "אני מחפש פסיכולוג דרך מכבי. איך מקבלים הפניה, כמה פגישות מסובסדות מגיעות לי, ומה העלות של כל פגישה?", "en": "I need a psychologist through Maccabi. How do I get a referral, how many subsidized sessions am I entitled to, and what's the copay per session?" }
+      "body": { "he": "אני מחפש פסיכולוג דרך מכבי. איך מקבלים הפניה, כמה פגישות מסובסדות מגיעות לי ומה ההשתתפות העצמית לכל פגישה?", "en": "I need a psychologist through Maccabi. How do I get a referral, how many subsidized sessions am I entitled to, and what's the copay per session?" }
     },
     {
-      "title": { "he": "טיפול בהורה מזדקן", "en": "Caring for aging parent" },
-      "body": { "he": "אמא שלי בת 82 וצריכה עזרה יומיומית. איך מגישים בקשה לגמלת סיעוד בביטוח לאומי? מה ההבדל בין גמלת סיעוד לביטוח סיעודי של הקופה?", "en": "My 82-year-old mother needs daily help. How do I apply for Bituach Leumi long-term care benefit? What's the difference between gimlat siud and the HMO's private nursing insurance?" }
+      "title": { "he": "טיפול בהורה מבוגר", "en": "Caring for aging parent" },
+      "body": { "he": "אמא שלי בת 82 וצריכה עזרה יומיומית. איך מגישים בקשה לגמלת סיעוד בביטוח לאומי, ומה ההבדל בינה לבין הביטוח הסיעודי הפרטי של הקופה?", "en": "My 82-year-old mother needs daily help. How do I apply for Bituach Leumi long-term care benefit? What's the difference between gimlat siud and the HMO's private nursing insurance?" }
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "name_en": "Small Business Starter",
-  "name_he": "חבילת עסק קטן - תחילת דרך",
+  "name_he": "חבילת עסק קטן: תחילת הדרך",
   "description_en": "Essential AI skills for small business owners in Israel -- invoicing, bookkeeping, payroll, payment chasing, and customer communication",
-  "description_he": "חשבוניות, הנהלת חשבונות, שכר, גבייה ותמיכת לקוחות -- הכל מה שעסק קטן צריך",
+  "description_he": "חשבוניות, ספרים, שכר, גבייה ותמיכת לקוחות: כל מה שעסק קטן צריך כדי לתפקד בלי כאב ראש",
   "icon": "🏪",
   "tags": ["small-business", "invoicing", "bookkeeping", "payroll", "customer-communication"],
   "tags_he": ["עסק קטן", "חשבוניות", "הנהלת חשבונות", "שכר", "תקשורת עם לקוחות"],
@@ -21,24 +21,24 @@
       { "q": "My clients are slow to pay. Can AI help me chase overdue invoices politely?", "a": "Yes. The Israeli Client Payment Chaser sends professional, polite reminders at the right intervals -- in Hebrew or English -- tracks which invoices are outstanding, and escalates the tone automatically if needed. It saves you the awkward conversations while maintaining good client relationships." }
     ],
     "he": [
-      { "q": "האם אני חייב להוציא חשבוניות אלקטרוניות בישראל?", "a": "מ-2024, עסקים ישראליים נדרשים להוציא חשבוניות אלקטרוניות דרך מערכת הסליקה של רשות המסים מעסקאות מעל סכומים מסוימים. סקיל החשבונית האלקטרונית הישראלית מוביל אתכם בתהליך הזה אוטומטית, כך שכל חשבונית סלוקה כחוק." },
-      { "q": "איך AI יכול לעזור לי בהנהלת חשבונות בלי לשכור מנהל חשבונות במשרה מלאה?", "a": "סקיל אוטומציית הנהלת החשבונות הישראלית מטפל ברישום עסקאות שוטף, פיקוח בנקאי וסיווג הוצאות. הוא עובד לפי תקני החשבונאות הישראליים ושומר על הספרים מסודרים לאורך כל השנה, כך שהפגישה השנתית עם הרואה חשבון קצרה וזולה יותר." },
-      { "q": "איך מחשבון השכר מתמודד עם רכיבים ישראליים כמו קרן השתלמות וביטוח לאומי?", "a": "מחשבון השכר הישראלי מכיר את כל שיעורי רכיבי השכר הנוכחיים -- דמי ביטוח לאומי מעביד ועובד, קרן השתלמות, מדרגות מס הכנסה ופנסיה. הוא מחשב שכר נטו מברוטו ומפיק תלוש שכר תקני (תואם טופס 106)." },
-      { "q": "הלקוחות שלי מאחרים בתשלום. האם AI יכול לעזור לי לגבות חובות באדיבות?", "a": "בהחלט. סקיל מרדף התשלומים שולח תזכורות מקצועיות ומנומסות בתזמון הנכון -- בעברית או באנגלית -- עוקב אחר החשבוניות הפתוחות ומחמיר בטון אוטומטית אם צריך. זה חוסך לכם את השיחות המביכות תוך שמירה על יחסים טובים עם הלקוחות." }
+      { "q": "האם אני חייב להוציא חשבוניות אלקטרוניות בישראל?", "a": "מאז 2024, עסקים בישראל חייבים להוציא חשבוניות אלקטרוניות דרך מערכת הסליקה של רשות המסים, על עסקאות שעוברות סף מסוים. הסקיל Israeli E-Invoice עושה לכם את כל התהליך אוטומטית, וכל חשבונית יוצאת סלוקה כחוק." },
+      { "q": "איך AI יכול לעזור לי בהנהלת חשבונות בלי לשכור רואה חשבון במשרה מלאה?", "a": "הסקיל Israeli Bookkeeping Automation מטפל ברישום השוטף של עסקאות, בהתאמות בנק ובסיווג הוצאות. הוא עובד לפי תקני החשבונאות הישראליים ושומר על הספרים מסודרים לאורך כל השנה, כך שהפגישה השנתית עם רואה החשבון קצרה וזולה הרבה יותר." },
+      { "q": "איך מחשבון השכר מתמודד עם רכיבים ישראליים כמו קרן השתלמות וביטוח לאומי?", "a": "מחשבון השכר מכיר את כל השיעורים העדכניים: ביטוח לאומי של מעסיק ושל עובד, קרן השתלמות, מדרגות מס הכנסה ופנסיה. הוא מחשב לכם נטו מתוך ברוטו ומפיק תלוש שכר תקני (תואם טופס 106)." },
+      { "q": "הלקוחות שלי מאחרים בתשלום. AI יכול לעזור לי לרדוף אחרי חשבוניות באלגנטיות?", "a": "כן. הסקיל Israeli Client Payment Chaser שולח תזכורות מקצועיות ומנומסות בתזמון הנכון, בעברית או באנגלית. הוא עוקב אחרי החשבוניות הפתוחות ומחמיר את הטון אוטומטית במידת הצורך, כדי שתחסכו את השיחות הלא נעימות בלי לפגוע בקשר עם הלקוח." }
     ]
   },
   "prompts": [
     {
-      "title": { "he": "הוצא חשבונית", "en": "Issue an invoice" },
-      "body": { "he": "הוצא חשבונית מס קבלה ל-5 שעות ייעוץ שיווקי ב-500 ש\"ח לשעה עבור לקוח חברת סטארט-אפ ישראלי בע\"מ. כולל פרטי תשלום ופרטי העסק שלי", "en": "Issue a tax invoice for 5 hours of marketing consulting at 500 NIS per hour for Israeli Startup Ltd. Include payment details and my business info" }
+      "title": { "he": "הוצאת חשבונית", "en": "Issue an invoice" },
+      "body": { "he": "תוציא חשבונית מס קבלה ל-5 שעות ייעוץ שיווקי, 500 ש\"ח לשעה, ללקוח חברת סטארט-אפ ישראלי בע\"מ. כולל פרטי תשלום ופרטי העסק שלי", "en": "Issue a tax invoice for 5 hours of marketing consulting at 500 NIS per hour for Israeli Startup Ltd. Include payment details and my business info" }
     },
     {
-      "title": { "he": "חשב משכורת עובד", "en": "Calculate payroll" },
-      "body": { "he": "יש לי עובד עם שכר ברוטו 12,000 ש\"ח. חשב את המשכורת נטו כולל ניכויי ביטוח לאומי, מס הכנסה, פנסיה וקרן השתלמות -- תן לי תלוש שכר מלא", "en": "I have an employee with a 12,000 NIS gross salary. Calculate the net pay including bituach leumi, income tax, pension, and keren hishtalmut deductions -- give me a full pay slip" }
+      "title": { "he": "חישוב משכורת לעובד", "en": "Calculate payroll" },
+      "body": { "he": "יש לי עובד עם שכר ברוטו של 12,000 ש\"ח. תחשב את הנטו אחרי ניכויי ביטוח לאומי, מס הכנסה, פנסיה וקרן השתלמות, ותכין לי תלוש שכר מלא", "en": "I have an employee with a 12,000 NIS gross salary. Calculate the net pay including bituach leumi, income tax, pension, and keren hishtalmut deductions -- give me a full pay slip" }
     },
     {
-      "title": { "he": "שלח תזכורת תשלום", "en": "Draft payment reminder" },
-      "body": { "he": "חשבונית מספר 1042 על סך 8,500 ש\"ח לחברת מגדל שירותים בע\"מ כבר 30 יום בפיגור. כתוב לי הודעת תזכורת מקצועית אבל ישירה שתגרום להם לשלם", "en": "Invoice 1042 for 8,500 NIS to Migdal Services Ltd is 30 days overdue. Write me a professional but firm payment reminder that will get them to pay" }
+      "title": { "he": "תזכורת תשלום", "en": "Draft payment reminder" },
+      "body": { "he": "חשבונית מספר 1042 על סך 8,500 ש\"ח לחברת מגדל שירותים בע\"מ בפיגור של 30 יום. תכתוב לי הודעת תזכורת מקצועית אבל ישירה, שתגרום להם פשוט לשלם", "en": "Invoice 1042 for 8,500 NIS to Migdal Services Ltd is 30 days overdue. Write me a professional but firm payment reminder that will get them to pay" }
     }
   ]
 }
