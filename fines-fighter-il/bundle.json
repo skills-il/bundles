@@ -1,0 +1,46 @@
+{
+  "name_en": "Fines Fighter IL",
+  "name_he": "לוחם הדוחות",
+  "description_en": "Cancel parking fines, dispute arnona overcharges, and appeal bureaucratic decisions. Know your rights and fight back the Israeli way.",
+  "description_he": "בטלו דוחות חניה, ערערו על חיובי ארנונה, ותקפו החלטות בירוקרטיות. תכירו את הזכויות שלכם, ותילחמו עליהן.",
+  "icon": "⚖️",
+  "tags": ["appeals", "fines", "rights", "arnona", "tickets", "disputes", "bureaucracy"],
+  "tags_he": ["ערעורים", "דוחות", "זכויות", "ארנונה", "קנסות", "התנגדויות", "בירוקרטיה"],
+  "skills": [
+    { "slug": "israel-fine-checker", "repo": "skills-il/government-services", "path": "israel-fine-checker" },
+    { "slug": "israeli-fines-fighter", "repo": "skills-il/legal-tech", "path": "israeli-fines-fighter" },
+    { "slug": "israeli-arnona-optimizer", "repo": "skills-il/tax-and-finance", "path": "israeli-arnona-optimizer" },
+    { "slug": "israeli-vehicle-manager", "repo": "skills-il/government-services", "path": "israeli-vehicle-manager" },
+    { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
+    { "slug": "israeli-privacy-shield", "repo": "skills-il/security-compliance", "path": "israeli-privacy-shield" },
+    { "slug": "israeli-rental-agreements", "repo": "skills-il/legal-tech", "path": "israeli-rental-agreements" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "Do these appeals actually work?", "a": "Yes, when you have real grounds. Municipal bodies and the traffic court must respond to every formal appeal within a set timeframe, and many tickets are cancelled on procedural or factual errors. The Israeli Fines Fighter skill helps you build the strongest possible case and avoid wasting time on appeals that won't succeed." },
+      { "q": "What counts as valid grounds for an appeal?", "a": "Procedural errors (wrong license plate, missing signage, illegible ticket), factual errors (you weren't there, the meter was paid), ambiguous rules, and disability or medical exemptions. The bundle walks you through each category and drafts the right kind of letter for your situation." },
+      { "q": "How long does it take to get a response?", "a": "Municipalities are required to respond to parking appeals within 90 days. Arnona disputes usually get a reply within 30-60 days. Bituach Leumi appeals (ve'adat irurim) can take 3-6 months but are worth filing because a positive decision is often retroactive." },
+      { "q": "Can I dispute an arnona bill from years ago?", "a": "Partially. You can request retroactive discounts (new parent, student, single parent, disability) for up to 2 years back in most municipalities. Overcharges and classification errors can be disputed further back but require stronger evidence. The Arnona Optimizer checks your eligibility and drafts the request." }
+    ],
+    "he": [
+      { "q": "האם הערעורים האלה באמת עובדים?", "a": "כן, כשיש לכם עילה אמיתית. הרשויות חייבות להשיב על כל ערעור פורמלי בתוך פרק זמן מוגדר, והרבה דוחות מתבטלים בגלל טעויות פרוצדורליות או עובדתיות. הסקיל Israeli Fines Fighter עוזר לכם לבנות את התיק החזק ביותר ולחסוך זמן על ערעורים שלא יצליחו." },
+      { "q": "מה נחשב לעילה תקפה לערעור?", "a": "טעויות פרוצדורליות (מספר רישוי לא נכון, שילוט חסר, דוח לא קריא), טעויות עובדתיות (לא הייתם שם, החניון שולם), חוסר בהירות בתמרורים, ופטורים רפואיים או נכות. החבילה מעבירה אתכם דרך כל הקטגוריות ומכינה את המכתב המתאים למקרה שלכם." },
+      { "q": "כמה זמן לוקח לקבל תשובה?", "a": "עיריות חייבות להשיב על ערעורי חניה בתוך 90 יום. ערעורי ארנונה בדרך כלל מקבלים תשובה תוך 30-60 יום. ערעור לוועדת עררים של ביטוח לאומי לוקח 3-6 חודשים, אבל שווה להגיש כי החלטה חיובית לרוב רטרואקטיבית." },
+      { "q": "אפשר לערער על חשבון ארנונה מלפני כמה שנים?", "a": "חלקית. אפשר לבקש הנחות רטרואקטיביות (הורה חדש, סטודנט, חד-הורי, נכות) עד שנתיים אחורה ברוב העיריות. חיובי יתר וטעויות סיווג ניתנים לערעור גם מוקדם יותר, אבל דורשים ראיות חזקות יותר. ה-Arnona Optimizer בודק את הזכאות שלכם ומנסח את הבקשה." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "en": "Check and appeal a parking fine", "he": "בדיקה וערעור על דוח חניה" },
+      "body": { "en": "Check if I have any open parking fines on plate 12-345-67 and draft a formal appeal for the most recent one. The ticket was for parking in a loading zone on a Friday after 3pm in Tel Aviv — verify whether the bylaw actually prohibits this.", "he": "בדוק אם יש לי דוחות חניה פתוחים על לוחית רישוי 12-345-67 והכן ערעור פורמלי על האחרון. הדוח היה על חניה באזור פריקה וטעינה ביום שישי אחרי 15:00 בתל אביב, בדוק אם החוק העירוני באמת אוסר את זה." }
+    },
+    {
+      "title": { "en": "Arnona discount for single parent", "he": "הנחת ארנונה להורה יחיד" },
+      "body": { "en": "I'm a single parent with two kids living in a 90 sqm apartment in Givatayim. Check what arnona discount I qualify for and draft a formal request to the municipality, including the documents I need to attach.", "he": "אני הורה יחיד עם שני ילדים בדירה של 90 מ\"ר בגבעתיים. בדוק לאיזו הנחת ארנונה אני זכאי/ת, ונסח בקשה פורמלית לעירייה כולל רשימה של המסמכים שצריך לצרף." }
+    },
+    {
+      "title": { "en": "Dispute an illegal vaad bayit charge", "he": "ערעור על חיוב בלתי חוקי של ועד בית" },
+      "body": { "en": "My landlord charged me 2,400 NIS last year labelled as 'vaad bayit special assessments'. My rental contract is silent on extraordinary fees. Is this legal, and if not, how do I get it back?", "he": "השכיר של הדירה שלי חייב אותי בשנה שעברה ב-2,400 ש\"ח שסומנו כ\"היטלים מיוחדים של ועד הבית\". חוזה השכירות שלי לא מתייחס בכלל לחיובים יוצאי דופן. האם זה חוקי, ואם לא, איך מחזירים את הכסף?" }
+    }
+  ]
+}

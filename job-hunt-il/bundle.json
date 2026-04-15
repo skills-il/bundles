@@ -1,0 +1,45 @@
+{
+  "name_en": "Job Hunt IL",
+  "name_he": "מחפשים עבודה בישראל",
+  "description_en": "From CV to signed offer. Build a bilingual resume, prep for Israeli tech interviews, optimize LinkedIn, negotiate salary, and claim unemployment benefits between jobs.",
+  "description_he": "מקו\"ח עד חוזה חתום. בונים קו\"ח דו-לשוני, מתכוננים לראיונות בהייטק הישראלי, משפרים את הלינקדאין, מנהלים משא ומתן על השכר, ותובעים דמי אבטלה בין עבודה לעבודה.",
+  "icon": "💼",
+  "tags": ["career", "cv", "interview", "linkedin", "salary", "job-search", "unemployment", "tech-jobs"],
+  "tags_he": ["קריירה", "קו\"ח", "ראיון", "לינקדאין", "שכר", "חיפוש עבודה", "אבטלה", "הייטק"],
+  "skills": [
+    { "slug": "israeli-cv-builder", "repo": "skills-il/communication", "path": "israeli-cv-builder" },
+    { "slug": "israeli-tech-interview-prep", "repo": "skills-il/education", "path": "israeli-tech-interview-prep" },
+    { "slug": "israeli-linkedin-strategy", "repo": "skills-il/marketing-growth", "path": "israeli-linkedin-strategy" },
+    { "slug": "israeli-tech-salary-negotiator", "repo": "skills-il/marketing-growth", "path": "israeli-tech-salary-negotiator" },
+    { "slug": "israeli-job-market", "repo": "skills-il/communication", "path": "israeli-job-market" },
+    { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How long does a job search take in the current Israeli tech market?", "a": "After the 2024-2025 layoff wave, mid-to-senior tech roles take 2-5 months on average. Entry-level and niche roles can take longer. The Israeli Job Market skill shows which sectors are hiring actively (defense, cybersecurity, AI infrastructure) vs which are freezing." },
+      { "q": "Do I qualify for demei avtala (unemployment benefits) after miluim?", "a": "Yes, reservists often qualify even if they wouldn't otherwise meet the work-period threshold. Miluim days count toward your eligibility period, and there's a special track for soldiers returning to civilian life. The Bituach Leumi skill calculates your exact entitlement." },
+      { "q": "Should my CV be in English or Hebrew?", "a": "Depends on the target company. International and most tech companies prefer English; public sector, retail, and non-tech roles usually prefer Hebrew. The CV Builder generates both versions and tells you which to send based on the job posting. For senior roles at multinationals, always English." },
+      { "q": "How much should I ask for salary?", "a": "Israeli tech compensation varies widely by company size, role, and equity. The Tech Salary Negotiator pulls recent data on base, bonus, and stock packages by role and company tier, and coaches you on counter-offers. Never send the first number in writing." }
+    ],
+    "he": [
+      { "q": "כמה זמן לוקח לחפש עבודה בשוק ההייטק הישראלי של היום?", "a": "אחרי גל הפיטורים של 2024-2025, תפקידים מידל ובכירים בהייטק לוקחים בממוצע 2-5 חודשים. תפקידי ג'וניור ותפקידים נישתיים יכולים לקחת יותר. הסקיל Israeli Job Market מראה אילו סקטורים מגייסים בפועל (ביטחון, סייבר, תשתיות AI) ואילו מקפיאים." },
+      { "q": "האם אני זכאי לדמי אבטלה אחרי מילואים?", "a": "כן, מילואימניקים לרוב זכאים גם אם לא עמדו בתקופת האכשרה הרגילה. ימי מילואים נספרים כתקופת אכשרה, ויש מסלול מיוחד לחיילים שחוזרים לחיים אזרחיים. סקיל הביטוח הלאומי מחשב את הזכאות המדויקת שלכם." },
+      { "q": "קו\"ח באנגלית או בעברית?", "a": "תלוי בחברת היעד. חברות בינלאומיות ורוב ההייטק מעדיפות אנגלית, המגזר הציבורי, הריטייל ותפקידים לא-הייטקיים מעדיפים עברית. ה-CV Builder יוצר את שתי הגרסאות ומנחה אותכם איזו לשלוח לפי המשרה. לתפקידים בכירים בחברות בינלאומיות, תמיד אנגלית." },
+      { "q": "כמה כסף לבקש על המשכורת?", "a": "שכר בהייטק בישראל משתנה מאוד לפי גודל חברה, תפקיד ואקוויטי. ה-Tech Salary Negotiator מושך נתונים עדכניים על בסיס, בונוס וחבילות אופציות לפי תפקיד ורמת חברה, ומכין אתכם למשא ומתן. אף פעם לא לכתוב את המספר הראשון במייל." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "en": "Hebrew CV to English tech resume", "he": "מקו\"ח בעברית לקו\"ח באנגלית להייטק" },
+      "body": { "en": "Turn my Hebrew CV into an English one optimized for a senior backend role at a mid-size Israeli startup. Keep my Israeli experience details but rephrase them for a global audience, and make sure the format is ATS-friendly.", "he": "הפוך את הקו\"ח שלי בעברית לגרסה באנגלית שמותאמת לתפקיד בקאנד בכיר בסטארטאפ ישראלי בינוני. תשאיר את פרטי הניסיון הישראלי, אבל נסח אותם מחדש לקהל גלובלי, ותוודא שהפורמט ידידותי ל-ATS." }
+    },
+    {
+      "title": { "en": "Systems-design interview prep", "he": "הכנה לראיון סיסטמס-דיזיין" },
+      "body": { "en": "Help me prepare for a systems-design interview at a large Israeli tech company next week. Walk me through the typical whiteboard pattern, the questions Israeli interviewers ask at each stage, and give me 3 mock questions with a grading rubric.", "he": "עזור לי להתכונן לראיון סיסטמס-דיזיין בחברת הייטק ישראלית גדולה בשבוע הבא. עבור איתי על התבנית הקלאסית של הווייטבורד, השאלות שמראיינים ישראלים נוהגים לשאול בכל שלב, ותן לי 3 שאלות לסימולציה עם מחוון הערכה." }
+    },
+    {
+      "title": { "en": "Demei avtala calculation after layoff", "he": "חישוב דמי אבטלה אחרי פיטורים" },
+      "body": { "en": "I was laid off yesterday after 3.5 years at a startup, gross monthly salary was 32,000 NIS. Calculate my exact demei avtala entitlement, the waiting period, and walk me through the registration steps at Sherut HaTaasuka and Bituach Leumi.", "he": "פוטרתי אתמול אחרי 3.5 שנים בסטארטאפ, משכורת ברוטו של 32,000 ש\"ח בחודש. חשב לי את הזכאות המדויקת לדמי אבטלה, את תקופת ההמתנה, והעבר אותי שלב-שלב על הרישום בשירות התעסוקה ובביטוח הלאומי." }
+    }
+  ]
+}
