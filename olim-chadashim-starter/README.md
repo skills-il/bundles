@@ -2,6 +2,15 @@
 
 The first month of aliyah is a blur of bureaucracy. Misrad HaKlita, Misrad HaPnim, Bituach Leumi, kupat cholim selection, opening a bank account, finding an apartment, setting up a cell phone, and figuring out if your foreign driver's license still works. Every new oleh asks the same 5-6 questions and gets 5-6 different answers. This bundle gives you clear, current answers in English and Hebrew, with action checklists you can follow from the airport.
 
+## Key facts
+
+- **Sal Klita (absorption basket)**: new olim receive approximately **60,000–80,000 NIS** over the first 6 months, paid monthly. Exact amounts depend on family status and age (Misrad HaKlita publishes current rates).
+- **Kupat cholim entitlement starts on day one**. You can register with Clalit, Maccabi, Meuhedet, or Leumit immediately — your temporary teudat zehut is enough.
+- **Free Ulpan Hebrew classes**: up to **500 hours** through Misrad HaKlita, typically within the first 18 months.
+- **Foreign driver's license**: valid in Israel for the **first 12 months** of aliyah. After that, conversion is required — the process depends on country of origin (conversion is streamlined for US, EU, Canada, UK, Australia).
+- **Rights window**: key olim benefits (housing grant, tax reductions, customs exemption on shipping container) are time-limited — most kick in on day one but phase out over **3 years**.
+- **Teudat zehut**: temporary card issued at the airport; permanent blue card mailed within **4-6 weeks**. Full rights activate on arrival, not on receipt of the permanent card.
+
 ## Who is this for?
 
 - **New olim arriving from anywhere** (North America, UK, France, FSU, South America, Ethiopia, South Africa)

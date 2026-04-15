@@ -2,6 +2,14 @@
 
 Every Israeli has a parking ticket story. Every renter has fought a vaad bayit charge. Every arnona bill has a line that feels arbitrary. This bundle gives you the tools to push back — with properly drafted appeals, correct legal grounds, and realistic expectations.
 
+## Key facts
+
+- **Parking appeals**: the municipality must respond within **90 days** (Paragraph 8A of the Regulations to the Traffic Ordinance). If they don't, the fine is automatically cancelled.
+- **Arnona discounts** (single parent, student, disability, new immigrant) can be requested **retroactively up to 2 years** in most municipalities, under the Arnona Discount Regulations (תקנות ההסדרים, הנחה מארנונה).
+- **Bituach Leumi appeals** must be filed to the ve'adat irurim within **30 days** of receiving the decision. Win rate on well-documented appeals is materially higher than on ad-hoc letters.
+- **License points** are automatically removed **after 2 years** with no further offenses (פקודת התעבורה, תקנה 549).
+- **Consumer credit report errors**: data subjects have a legal right to correction under the Credit Data Law (חוק נתוני אשראי, 2016) — disputes must be investigated within **30 days**.
+
 ## Who is this for?
 
 - **Drivers** dealing with parking fines, red-light tickets, and traffic court decisions
