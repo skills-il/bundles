@@ -4,6 +4,16 @@ Israeli law touches every part of running a business -- from the first employmen
 
 These skills are designed to help lawyers work faster, help compliance officers stay ahead of regulatory changes, and help business owners understand their obligations without needing to call a lawyer for every small question.
 
+## Key facts
+
+- **Privacy Protection Law** (חוק הגנת הפרטיות, 1981) and its regulations (2017 data security amendment): mandatory data-security obligations, breach notification to the Privacy Protection Authority, and database registration requirements for certain processing types.
+- **Consumer Protection Law** (חוק הגנת הצרכן, 1981): cooling-off periods — **14 days** for most online purchases, **30 days for certain transactions with seniors/people with disabilities**, return rights and refund obligations.
+- **Severance pay**: under Israeli labor law, employees are generally entitled to **one month's salary per year of service** on termination (Severance Pay Law — חוק פיצויי פיטורים, 1963).
+- **Notice period**: statutory minimum increases with seniority, up to **one month** for employees with a full year of service (Notice of Dismissal and Resignation Law — חוק הודעה מוקדמת לפיטורים ולהתפטרות).
+- **Minimum wage**: set periodically by the Ministry of Labor; employers must also pay pension contributions from early in employment (mandatory pension order).
+- **E-commerce compliance**: online stores must publish clear terms, pricing including VAT, delivery terms, and accessibility statements (IS 5568).
+- **Statute of limitations**: 7 years for most civil claims (חוק ההתיישנות, 1958).
+
 ## Who is this for?
 
 - **Lawyers and legal advisors** looking to speed up document drafting and research on Israeli law

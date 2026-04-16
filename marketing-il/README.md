@@ -4,6 +4,15 @@ Marketing to an Israeli audience is not just about translating your content into
 
 From ranking on Google in Hebrew, to building a LinkedIn presence in the local tech ecosystem, to running paid ads that convert Israeli audiences -- these skills are built around Israeli market dynamics, not generic best practices.
 
+## Key facts
+
+- **Israel anti-spam law** (תיקון 40 לחוק התקשורת, the "Spam Law"): commercial email, SMS, fax and automated calls require **explicit opt-in consent**, and every message must include sender identification and an easy opt-out mechanism. Violations carry statutory damages up to 1,000 NIS per message, without proof of harm.
+- **Mobile-first audience**: Israeli web traffic skews heavily mobile (commonly **60-70%** of sessions for consumer sites) — mobile UX is not optional.
+- **Locale targeting**: Google supports `he` as a language target; hreflang should use `he-IL` for Israel-specific content and `he` for general Hebrew content.
+- **Hebrew search patterns**: searchers use both ktiv chaser (without niqud) and ktiv male forms, plus mixed Hebrew-English loanwords ("איך מתקינים claude code"). Content should cover both variants.
+- **WhatsApp dominance**: WhatsApp is the dominant messaging app — commonly cited at **>95% penetration** — so WhatsApp Business and click-to-chat flows are the go-to customer channel.
+- **Price display**: prices shown to consumers must include VAT (Consumer Protection Law).
+
 ## Who is this for?
 
 - **Digital marketers** at Israeli startups, agencies, or consumer brands targeting local audiences

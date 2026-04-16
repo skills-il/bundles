@@ -4,6 +4,15 @@ Working in Hebrew is not just a language choice -- it comes with a specific set 
 
 Whether you are a writer, a developer, a UX designer, or a business owner who communicates in Hebrew daily, these skills understand the nuances of the language and the specific standards that apply in Israel.
 
+## Key facts
+
+- **Accessibility standard**: Israeli Standard **IS 5568** (based on WCAG 2.0 Level AA) is mandatory for most public-facing websites under the Equal Rights for Persons with Disabilities Law (חוק שוויון זכויות לאנשים עם מוגבלות).
+- **RTL (right-to-left)**: Hebrew text renders right-to-left; key CSS properties are `dir="rtl"`, logical properties (`padding-inline-start`), and bidirectional text handling for mixed Hebrew/English content.
+- **Hebrew character set**: 22 letters (אותיות), 5 final forms (sofit: ך ם ן ף ץ), and nikud (niqqud) — diacritical marks used mainly in formal texts and liturgy.
+- **Standard Hebrew fonts**: Heebo, Assistant, Rubik, Open Sans Hebrew — optimized for screen rendering and supported by Google Fonts.
+- **Calendar**: Israeli business calendar is typically **Sunday through Thursday**; Friday is a half day and Saturday (Shabbat) is the weekly rest day.
+- **Date format**: DD/MM/YYYY (not MM/DD/YYYY); ISO 8601 (YYYY-MM-DD) is common in technical contexts.
+
 ## Who is this for?
 
 - **Writers and content creators** producing Hebrew blog posts, marketing copy, or social content
