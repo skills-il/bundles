@@ -22,24 +22,24 @@
       { "q": "How long until I get my teudat zehut?", "a": "You get a temporary teudat zehut the day you land, and the permanent blue ID card arrives by mail within 4-6 weeks. Your olim rights (housing grant, tax benefits, language ulpan) start the day you land, not when the permanent card arrives — don't wait." }
     ],
     "he": [
-      { "q": "מה הדבר הראשון שכדאי לעשות בנתב\"ג?", "a": "לעבור דרך דלפק משרד הקליטה בטרמינל הנחיתה לפני שיוצאים משדה התעופה. תקבלו שם את תעודת העולה, את תשלום סל הקליטה הראשוני ואת הרישום לביטוח בריאות. סקיל Aliyah Navigator נותן לכם צ'קליסט ליום הראשון עם רשימת המסמכים שצריך להביא." },
-      { "q": "איזו קופת חולים כדאי לבחור כעולה חדש?", "a": "תלוי באיפה אתם גרים, בגודל המשפחה ובמחלות כרוניות אם יש. לכללית יש את הרשת הרחבה ביותר, מכבי חזקה למשפחות הייטק, מאוחדת פופולרית בקהילות הדתיות, ולאומית יותר קטנה עם תורים קצרים. HMO Navigator משווה ביניהן לפי הקריטריונים הרלוונטיים למצב הספציפי שלכם." },
-      { "q": "אפשר לנהוג עם רישיון זר?", "a": "כן, במהלך השנה הראשונה שלכם כעולים חדשים. אחרי שנה, צריך להמיר לרישיון ישראלי. תהליך ההמרה תלוי במדינת המוצא של הרישיון, חלק מהמדינות מקבלות המרה פשוטה (ארה\"ב, האיחוד האירופי, קנדה), מדינות אחרות דורשות מבחן. סקיל Vehicle Manager מעביר אתכם על התהליך לפי מדינת המוצא." },
-      { "q": "כמה זמן לוקח לקבל תעודת זהות?", "a": "מקבלים תעודת זהות זמנית ביום הנחיתה, והתעודה הכחולה הקבועה מגיעה בדואר תוך 4-6 שבועות. זכויות העולה שלכם (מענק דיור, הקלות מס, אולפן עברית) מתחילות ביום שנחתתם, לא כשהתעודה הקבועה מגיעה, אל תחכו." }
+      { "q": "מה הדבר הראשון שכדאי לעשות בנתב\"ג?", "a": "לגשת לדלפק של משרד הקליטה באולם הנחיתות עוד לפני שיוצאים משדה התעופה. מקבלים שם את תעודת העולה, את התשלום הראשון של סל הקליטה, ונרשמים לביטוח בריאות. הסקיל Aliyah Navigator מפיק לכם צ'קליסט ליום הראשון ואת רשימת המסמכים שצריך להביא איתכם." },
+      { "q": "איזו קופת חולים כדאי לבחור כעולה חדש?", "a": "תלוי איפה אתם גרים, בגודל המשפחה ובמחלות כרוניות אם יש. לכללית יש את הרשת הכי רחבה, מכבי חזקה אצל משפחות הייטק, מאוחדת פופולרית בקהילות הדתיות, ולאומית קטנה יותר עם תורים קצרים. הסקיל HMO Navigator משווה ביניהן לפי הקריטריונים שרלוונטיים בדיוק למצב שלכם." },
+      { "q": "אפשר לנהוג עם רישיון זר?", "a": "כן, במהלך השנה הראשונה לעלייה. אחרי שנה צריך להמיר לרישיון ישראלי. תהליך ההמרה תלוי במדינת המוצא של הרישיון: חלק מהמדינות מקבלות המרה פשוטה (ארה\"ב, האיחוד האירופי, קנדה), ואחרות דורשות מבחן. הסקיל Vehicle Manager לוקח אתכם שלב אחר שלב לפי המדינה שממנה הגעתם." },
+      { "q": "כמה זמן לוקח לקבל תעודת זהות?", "a": "מקבלים תעודת זהות זמנית כבר ביום הנחיתה, והתעודה הכחולה הקבועה מגיעה בדואר תוך 4-6 שבועות. זכויות העולה שלכם (מענק דיור, הקלות מס, אולפן עברית) מתחילות ביום שנחתתם, לא כשהתעודה הקבועה מגיעה. אל תחכו לה." }
     ]
   },
   "prompts": [
     {
       "title": { "en": "First-week aliyah checklist", "he": "צ'קליסט לשבוע הראשון של העלייה" },
-      "body": { "en": "I'm making aliyah next month from Canada with my spouse and two kids (ages 6 and 9). Give me a day-by-day checklist for our first week in Israel — what to do at the airport, which government offices to visit, which documents to have ready, and in what order.", "he": "אני עולה בחודש הבא מקנדה עם בן/בת הזוג ושני ילדים (בני 6 ו-9). תן לי צ'קליסט יום-יום לשבוע הראשון שלנו בישראל, מה לעשות בשדה התעופה, אילו משרדים ממשלתיים לבקר, אילו מסמכים להביא, ובאיזה סדר." }
+      "body": { "en": "I'm making aliyah next month from Canada with my spouse and two kids (ages 6 and 9). Give me a day-by-day checklist for our first week in Israel — what to do at the airport, which government offices to visit, which documents to have ready, and in what order.", "he": "אני עולה בחודש הבא מקנדה עם בן/בת הזוג ושני ילדים (בני 6 ו-9). תן לי צ'קליסט יום אחר יום לשבוע הראשון שלנו בארץ: מה לעשות בשדה התעופה, לאילו משרדים ממשלתיים ללכת, אילו מסמכים להביא ובאיזה סדר." }
     },
     {
       "title": { "en": "Compare HMOs for my family", "he": "השוואת קופות חולים למשפחה שלי" },
-      "body": { "en": "Compare Maccabi and Clalit for a family of 4 living in Ra'anana, with two kids under 10 and one adult who needs regular physiotherapy. Which one is better given our situation, and what's the monthly cost difference including mashlim insurance?", "he": "השווה לי בין מכבי לכללית עבור משפחה של 4 נפשות שגרה ברעננה, עם שני ילדים מתחת לגיל 10 ומבוגר אחד שזקוק לפיזיותרפיה קבועה. איזו קופה עדיפה במצב שלנו, ומה ההבדל בעלות החודשית כולל ביטוח משלים?" }
+      "body": { "en": "Compare Maccabi and Clalit for a family of 4 living in Ra'anana, with two kids under 10 and one adult who needs regular physiotherapy. Which one is better given our situation, and what's the monthly cost difference including mashlim insurance?", "he": "תשוו לי בין מכבי לכללית עבור משפחה של 4 נפשות שגרה ברעננה, שני ילדים מתחת לגיל 10 ומבוגר אחד שזקוק לפיזיותרפיה קבועה. איזו קופה עדיפה במצב שלנו, ומה ההפרש בעלות החודשית כולל ביטוח משלים?" }
     },
     {
       "title": { "en": "Convert foreign driver's license", "he": "המרת רישיון נהיגה זר" },
-      "body": { "en": "I have a US driver's license (California) and I've been in Israel for 11 months. My tourist-license window is about to expire. Walk me through the conversion process — what documents I need, where to go, whether I need a test, and how long it takes.", "he": "יש לי רישיון נהיגה אמריקאי (קליפורניה) ואני בישראל כבר 11 חודשים. חלון הרישיון התיירותי עומד לפוג. העבר אותי דרך תהליך ההמרה, אילו מסמכים צריך, לאן ללכת, האם נדרש מבחן, וכמה זמן זה לוקח." }
+      "body": { "en": "I have a US driver's license (California) and I've been in Israel for 11 months. My tourist-license window is about to expire. Walk me through the conversion process — what documents I need, where to go, whether I need a test, and how long it takes.", "he": "יש לי רישיון נהיגה אמריקאי (קליפורניה) ואני בישראל כבר 11 חודשים. השנה שבה מותר לנהוג עם רישיון זר עומדת להסתיים. תסביר לי את תהליך ההמרה שלב אחר שלב: אילו מסמכים צריך, לאן ללכת, האם נדרש מבחן וכמה זמן זה לוקח." }
     }
   ]
 }

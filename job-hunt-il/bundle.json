@@ -22,24 +22,24 @@
       { "q": "How much should I ask for salary?", "a": "Israeli tech compensation varies widely by company size, role, and equity. The Tech Salary Negotiator pulls recent data on base, bonus, and stock packages by role and company tier, and coaches you on counter-offers. Never send the first number in writing." }
     ],
     "he": [
-      { "q": "כמה זמן לוקח לחפש עבודה בשוק ההייטק הישראלי של היום?", "a": "אחרי גל הפיטורים של 2024-2025, תפקידים מידל ובכירים בהייטק לוקחים בממוצע 2-5 חודשים. תפקידי ג'וניור ותפקידים נישתיים יכולים לקחת יותר. הסקיל Israeli Job Market מראה אילו סקטורים מגייסים בפועל (ביטחון, סייבר, תשתיות AI) ואילו מקפיאים." },
-      { "q": "האם אני זכאי לדמי אבטלה אחרי מילואים?", "a": "כן, מילואימניקים לרוב זכאים גם אם לא עמדו בתקופת האכשרה הרגילה. ימי מילואים נספרים כתקופת אכשרה, ויש מסלול מיוחד לחיילים שחוזרים לחיים אזרחיים. סקיל הביטוח הלאומי מחשב את הזכאות המדויקת שלכם." },
-      { "q": "קו\"ח באנגלית או בעברית?", "a": "תלוי בחברת היעד. חברות בינלאומיות ורוב ההייטק מעדיפות אנגלית, המגזר הציבורי, הריטייל ותפקידים לא-הייטקיים מעדיפים עברית. ה-CV Builder יוצר את שתי הגרסאות ומנחה אותכם איזו לשלוח לפי המשרה. לתפקידים בכירים בחברות בינלאומיות, תמיד אנגלית." },
-      { "q": "כמה כסף לבקש על המשכורת?", "a": "שכר בהייטק בישראל משתנה מאוד לפי גודל חברה, תפקיד ואקוויטי. ה-Tech Salary Negotiator מושך נתונים עדכניים על בסיס, בונוס וחבילות אופציות לפי תפקיד ורמת חברה, ומכין אתכם למשא ומתן. אף פעם לא לכתוב את המספר הראשון במייל." }
+      { "q": "כמה זמן לוקח לחפש עבודה בשוק ההייטק הישראלי של היום?", "a": "אחרי גל הפיטורים של 2024-2025, תפקידי מידל ובכירים בהייטק לוקחים בממוצע 2-5 חודשים. תפקידי ג'וניור ותפקידי נישה יכולים לקחת יותר. הסקיל Israeli Job Market מראה אילו סקטורים באמת מגייסים עכשיו (ביטחון, סייבר, תשתיות AI) ואילו בהקפאה." },
+      { "q": "האם אני זכאי לדמי אבטלה אחרי מילואים?", "a": "כן, מילואימניקים בדרך כלל זכאים גם אם לא עמדו בתקופת האכשרה הרגילה. ימי מילואים נספרים לתוך תקופת האכשרה, ויש מסלול מיוחד לחיילים שחוזרים לחיים האזרחיים. הסקיל של ביטוח לאומי מחשב לכם את הזכאות המדויקת." },
+      { "q": "קו\"ח באנגלית או בעברית?", "a": "תלוי בחברת היעד. חברות בינלאומיות ורוב ההייטק מעדיפות אנגלית. המגזר הציבורי, הריטייל ותפקידים שהם לא הייטק מעדיפים עברית. ה-CV Builder מייצר את שתי הגרסאות ואומר לכם איזו לשלוח לפי המשרה הספציפית. לתפקידים בכירים בחברות בינלאומיות, תמיד אנגלית." },
+      { "q": "כמה שכר לבקש?", "a": "שכר בהייטק בישראל משתנה מאוד לפי גודל החברה, התפקיד והאקוויטי. ה-Tech Salary Negotiator מביא נתונים עדכניים על בסיס, בונוס וחבילות אופציות לפי תפקיד ורמת חברה, ומכין אתכם למשא ומתן. כלל אצבע: אף פעם לא לכתוב את המספר הראשון במייל." }
     ]
   },
   "prompts": [
     {
       "title": { "en": "Hebrew CV to English tech resume", "he": "מקו\"ח בעברית לקו\"ח באנגלית להייטק" },
-      "body": { "en": "Turn my Hebrew CV into an English one optimized for a senior backend role at a mid-size Israeli startup. Keep my Israeli experience details but rephrase them for a global audience, and make sure the format is ATS-friendly.", "he": "הפוך את הקו\"ח שלי בעברית לגרסה באנגלית שמותאמת לתפקיד בקאנד בכיר בסטארטאפ ישראלי בינוני. תשאיר את פרטי הניסיון הישראלי, אבל נסח אותם מחדש לקהל גלובלי, ותוודא שהפורמט ידידותי ל-ATS." }
+      "body": { "en": "Turn my Hebrew CV into an English one optimized for a senior backend role at a mid-size Israeli startup. Keep my Israeli experience details but rephrase them for a global audience, and make sure the format is ATS-friendly.", "he": "תהפכו את הקו\"ח שלי בעברית לגרסה באנגלית שמותאמת לתפקיד בקאנד בכיר בסטארטאפ ישראלי בגודל בינוני. תשאירו את פרטי הניסיון הישראלי, אבל נסחו אותם מחדש לקהל גלובלי, ותוודאו שהפורמט ידידותי ל-ATS." }
     },
     {
       "title": { "en": "Systems-design interview prep", "he": "הכנה לראיון סיסטמס-דיזיין" },
-      "body": { "en": "Help me prepare for a systems-design interview at a large Israeli tech company next week. Walk me through the typical whiteboard pattern, the questions Israeli interviewers ask at each stage, and give me 3 mock questions with a grading rubric.", "he": "עזור לי להתכונן לראיון סיסטמס-דיזיין בחברת הייטק ישראלית גדולה בשבוע הבא. עבור איתי על התבנית הקלאסית של הווייטבורד, השאלות שמראיינים ישראלים נוהגים לשאול בכל שלב, ותן לי 3 שאלות לסימולציה עם מחוון הערכה." }
+      "body": { "en": "Help me prepare for a systems-design interview at a large Israeli tech company next week. Walk me through the typical whiteboard pattern, the questions Israeli interviewers ask at each stage, and give me 3 mock questions with a grading rubric.", "he": "עזרו לי להתכונן לראיון סיסטמס-דיזיין בחברת הייטק ישראלית גדולה בשבוע הבא. עברו איתי על התבנית הקלאסית של הווייטבורד, על השאלות שמראיינים ישראלים נוהגים לשאול בכל שלב, ותנו לי 3 שאלות לסימולציה עם מחוון הערכה." }
     },
     {
       "title": { "en": "Demei avtala calculation after layoff", "he": "חישוב דמי אבטלה אחרי פיטורים" },
-      "body": { "en": "I was laid off yesterday after 3.5 years at a startup, gross monthly salary was 32,000 NIS. Calculate my exact demei avtala entitlement, the waiting period, and walk me through the registration steps at Sherut HaTaasuka and Bituach Leumi.", "he": "פוטרתי אתמול אחרי 3.5 שנים בסטארטאפ, משכורת ברוטו של 32,000 ש\"ח בחודש. חשב לי את הזכאות המדויקת לדמי אבטלה, את תקופת ההמתנה, והעבר אותי שלב-שלב על הרישום בשירות התעסוקה ובביטוח הלאומי." }
+      "body": { "en": "I was laid off yesterday after 3.5 years at a startup, gross monthly salary was 32,000 NIS. Calculate my exact demei avtala entitlement, the waiting period, and walk me through the registration steps at Sherut HaTaasuka and Bituach Leumi.", "he": "פוטרתי אתמול אחרי 3.5 שנים בסטארטאפ, משכורת ברוטו של 32,000 ש\"ח בחודש. חשבו לי את הזכאות המדויקת לדמי אבטלה, את תקופת ההמתנה, ותעברו איתי שלב-שלב על הרישום בשירות התעסוקה ובביטוח לאומי." }
     }
   ]
 }
