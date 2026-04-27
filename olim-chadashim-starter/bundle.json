@@ -2,7 +2,7 @@
   "name_en": "Olim Chadashim Starter Kit",
   "name_he": "ערכת עולה חדש",
   "description_en": "Your first 30 days as a new oleh in Israel: Misrad HaKlita, kupat cholim, bank account, apartment, Bituach Leumi, and driver's license conversion in one bundle.",
-  "description_he": "30 הימים הראשונים שלכם בישראל, אוטומטיים. בוחרים קופת חולים, פותחים חשבון בנק, מוצאים דירה, נרשמים לביטוח לאומי, וממירים רישיון נהיגה זר, הכל מחבילה אחת.",
+  "description_he": "30 הימים הראשונים שלכם בישראל בחבילה אחת: משרד הקליטה, קופת חולים, חשבון בנק, חיפוש דירה, ביטוח לאומי והמרת רישיון נהיגה זר.",
   "icon": "✈️",
   "tags": ["aliyah", "new-immigrant", "absorption", "klita", "onboarding", "hmo", "banking", "driving-license"],
   "tags_he": ["עלייה", "עולה חדש", "קליטה", "קופת חולים", "בנק", "זכויות", "תעודת זהות", "רישיון נהיגה"],
@@ -11,27 +11,29 @@
     { "slug": "israeli-hmo-navigator", "repo": "skills-il/health-services", "path": "israeli-hmo-navigator" },
     { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
     { "slug": "israeli-apartment-hunting", "repo": "skills-il/localization", "path": "israeli-apartment-hunting" },
-    { "slug": "israeli-bank-reconciliation", "repo": "skills-il/accounting", "path": "israeli-bank-reconciliation" },
+    { "slug": "israeli-bank-connector", "repo": "skills-il/tax-and-finance", "path": "israeli-bank-connector" },
     { "slug": "israeli-vehicle-manager", "repo": "skills-il/government-services", "path": "israeli-vehicle-manager" }
   ],
   "faq": {
     "en": [
-      { "q": "What's the first thing I should do at Ben Gurion airport?", "a": "Go through the Misrad HaKlita desk in the arrivals hall before you leave the airport — you'll get your teudat oleh, initial Sal Klita payment, and registration for healthcare. The Aliyah Navigator skill gives you a printable day-one checklist and tells you what documents to have ready." },
+      { "q": "What's the first thing I should do at Ben Gurion airport?", "a": "Go through the Misrad HaKlita desk in the arrivals hall before you leave the airport. You'll get your teudat oleh, the initial Sal Klita payment, and your healthcare registration. The Aliyah Navigator skill prints a day-one checklist and tells you which documents to have ready." },
       { "q": "Which kupat cholim should I pick as a new oleh?", "a": "Depends on where you're living, family size, and any chronic conditions. Clalit has the widest network, Maccabi is strong for tech families, Meuhedet is popular in religious communities, and Leumit is smaller with shorter lines. The HMO Navigator compares them on the criteria that matter for your specific situation." },
-      { "q": "Can I drive on my foreign driver's license?", "a": "Yes, for your first year as a new oleh. After that, you need to convert to an Israeli license. The conversion process depends on which country your license is from — some are straightforward (US, EU, Canada), others require a test. The Vehicle Manager skill walks you through it based on your origin country." },
-      { "q": "How long until I get my teudat zehut?", "a": "You get a temporary teudat zehut the day you land, and the permanent blue ID card arrives by mail within 4-6 weeks. Your olim rights (housing grant, tax benefits, language ulpan) start the day you land, not when the permanent card arrives — don't wait." }
+      { "q": "Can I drive on my foreign driver's license?", "a": "Yes, for your first year as a new oleh. After that you have to convert it to an Israeli license. The conversion process depends on the country your license is from. Some countries get a streamlined conversion (US, EU, Canada), others require a test. The Aliyah Navigator skill walks you through it based on your origin country (this is part of the aliyah rights timeline, not the Vehicle Manager skill)." },
+      { "q": "How long until I get my teudat zehut?", "a": "You get a temporary teudat zehut on the day you land, and the permanent blue ID card arrives by mail within 4 to 6 weeks. Your olim rights (housing grant, tax benefits, language ulpan) start the day you land, not when the permanent card arrives. Don't wait." },
+      { "q": "Do I need the Bank Connector skill on day one?", "a": "Not on day one. Open your account first (any branch will do, the Israeli oleh discounts are negotiated face to face). Bank Connector becomes useful once you have a few weeks of transactions and want to categorize spending across your bank, credit cards, and ha'amadot." }
     ],
     "he": [
-      { "q": "מה הדבר הראשון שכדאי לעשות בנתב\"ג?", "a": "לגשת לדלפק של משרד הקליטה באולם הנחיתות עוד לפני שיוצאים משדה התעופה. מקבלים שם את תעודת העולה, את התשלום הראשון של סל הקליטה, ונרשמים לביטוח בריאות. הסקיל Aliyah Navigator מפיק לכם צ'קליסט ליום הראשון ואת רשימת המסמכים שצריך להביא איתכם." },
-      { "q": "איזו קופת חולים כדאי לבחור כעולה חדש?", "a": "תלוי איפה אתם גרים, בגודל המשפחה ובמחלות כרוניות אם יש. לכללית יש את הרשת הכי רחבה, מכבי חזקה אצל משפחות הייטק, מאוחדת פופולרית בקהילות הדתיות, ולאומית קטנה יותר עם תורים קצרים. הסקיל HMO Navigator משווה ביניהן לפי הקריטריונים שרלוונטיים בדיוק למצב שלכם." },
-      { "q": "אפשר לנהוג עם רישיון זר?", "a": "כן, במהלך השנה הראשונה לעלייה. אחרי שנה צריך להמיר לרישיון ישראלי. תהליך ההמרה תלוי במדינת המוצא של הרישיון: חלק מהמדינות מקבלות המרה פשוטה (ארה\"ב, האיחוד האירופי, קנדה), ואחרות דורשות מבחן. הסקיל Vehicle Manager לוקח אתכם שלב אחר שלב לפי המדינה שממנה הגעתם." },
-      { "q": "כמה זמן לוקח לקבל תעודת זהות?", "a": "מקבלים תעודת זהות זמנית כבר ביום הנחיתה, והתעודה הכחולה הקבועה מגיעה בדואר תוך 4-6 שבועות. זכויות העולה שלכם (מענק דיור, הקלות מס, אולפן עברית) מתחילות ביום שנחתתם, לא כשהתעודה הקבועה מגיעה. אל תחכו לה." }
+      { "q": "מה הדבר הראשון שכדאי לעשות בנתב\"ג?", "a": "לגשת לדלפק של משרד הקליטה באולם הנחיתות עוד לפני שיוצאים משדה התעופה. מקבלים שם את תעודת העולה, את התשלום הראשון של סל הקליטה, ונרשמים לביטוח בריאות. ה-Aliyah Navigator מדפיס לכם צ'קליסט ליום הראשון ואת רשימת המסמכים שצריך להביא איתכם." },
+      { "q": "איזו קופת חולים כדאי לבחור כעולה חדש?", "a": "תלוי איפה אתם גרים, בגודל המשפחה ובמחלות כרוניות אם יש. לכללית יש את הרשת הכי רחבה, מכבי חזקה אצל משפחות הייטק, מאוחדת פופולרית בקהילות הדתיות, ולאומית קטנה יותר עם תורים קצרים. ה-HMO Navigator משווה ביניהן לפי הקריטריונים שרלוונטיים בדיוק למצב שלכם." },
+      { "q": "אפשר לנהוג עם רישיון זר?", "a": "כן, בשנה הראשונה לעלייה. אחרי שנה צריך להמיר אותו לרישיון ישראלי. תהליך ההמרה משתנה לפי מדינת המוצא של הרישיון: חלק מהמדינות מקבלות המרה פשוטה (ארה\"ב, האיחוד האירופי, קנדה), ואחרות דורשות מבחן. ה-Aliyah Navigator (לא Vehicle Manager) לוקח אתכם שלב אחר שלב לפי המדינה שממנה הגעתם, כי המרת רישיון היא חלק מציר הזכויות של עולה חדש." },
+      { "q": "כמה זמן לוקח לקבל תעודת זהות?", "a": "מקבלים תעודה זמנית כבר ביום הנחיתה, והתעודה הכחולה הקבועה מגיעה בדואר תוך 4 עד 6 שבועות. זכויות העולה שלכם (מענק דיור, הקלות מס, אולפן עברית) פעילות מהיום שנחתתם, ולא מהיום שהתעודה הקבועה מגיעה. אל תחכו לה." },
+      { "q": "מתי באמת צריך את Bank Connector?", "a": "לא ביום הראשון. קודם פותחים חשבון בנק (זה תהליך פרונטלי בסניף, וגם ככה את הטבות העולה סוגרים מול הפקיד). Bank Connector נהיה שימושי אחרי כמה שבועות, כשיש כבר תנועות והוצאות, ורוצים לקטלג את ההוצאות מהבנק, מהאשראי ומההרשאות לחיוב במקום אחד." }
     ]
   },
   "prompts": [
     {
       "title": { "en": "First-week aliyah checklist", "he": "צ'קליסט לשבוע הראשון של העלייה" },
-      "body": { "en": "I'm making aliyah next month from Canada with my spouse and two kids (ages 6 and 9). Give me a day-by-day checklist for our first week in Israel — what to do at the airport, which government offices to visit, which documents to have ready, and in what order.", "he": "אני עולה בחודש הבא מקנדה עם בן/בת הזוג ושני ילדים (בני 6 ו-9). תן לי צ'קליסט יום אחר יום לשבוע הראשון שלנו בארץ: מה לעשות בשדה התעופה, לאילו משרדים ממשלתיים ללכת, אילו מסמכים להביא ובאיזה סדר." }
+      "body": { "en": "I'm making aliyah next month from Canada with my spouse and two kids (ages 6 and 9). Give me a day-by-day checklist for our first week in Israel: what to do at the airport, which government offices to visit, which documents to have ready, and in what order.", "he": "אני עולה בחודש הבא מקנדה עם בן/בת הזוג ושני ילדים (בני 6 ו-9). תכין לי צ'קליסט יום אחר יום לשבוע הראשון שלנו בארץ: מה לעשות בשדה התעופה, לאילו משרדים ממשלתיים ללכת, אילו מסמכים להביא, ובאיזה סדר." }
     },
     {
       "title": { "en": "Compare HMOs for my family", "he": "השוואת קופות חולים למשפחה שלי" },
@@ -39,7 +41,7 @@
     },
     {
       "title": { "en": "Convert foreign driver's license", "he": "המרת רישיון נהיגה זר" },
-      "body": { "en": "I have a US driver's license (California) and I've been in Israel for 11 months. My tourist-license window is about to expire. Walk me through the conversion process — what documents I need, where to go, whether I need a test, and how long it takes.", "he": "יש לי רישיון נהיגה אמריקאי (קליפורניה) ואני בישראל כבר 11 חודשים. השנה שבה מותר לנהוג עם רישיון זר עומדת להסתיים. תסביר לי את תהליך ההמרה שלב אחר שלב: אילו מסמכים צריך, לאן ללכת, האם נדרש מבחן וכמה זמן זה לוקח." }
+      "body": { "en": "I have a US driver's license (California) and I've been in Israel for 11 months. My tourist-license window is about to expire. Walk me through the conversion process: what documents I need, where to go, whether I need a test, and how long it takes.", "he": "יש לי רישיון נהיגה אמריקאי (קליפורניה) ואני בישראל כבר 11 חודשים. השנה שמותר בה לנהוג עם רישיון זר עומדת להסתיים. תסביר לי את תהליך ההמרה שלב אחר שלב: אילו מסמכים צריך, לאן ללכת, האם נדרש מבחן, וכמה זמן זה לוקח." }
     }
   ]
 }
