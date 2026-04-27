@@ -38,7 +38,7 @@
     },
     {
       "title": { "he": "חוזה שכירות", "en": "Rental agreement" },
-      "body": { "he": "אני משכיר דירת 3 חדרים בתל אביב ב-5,500 ש\"ח לחודש. תכין לי חוזה שכירות סטנדרטי לשנה, עם כל הסעיפים הנדרשים לפי החוק, כולל בטוחות ותנאי עזיבה", "en": "I'm renting out a 3-room apartment in Tel Aviv for 5,500 NIS per month. Generate a standard one-year rental agreement with all required clauses -- including guarantees and exit conditions" }
+      "body": { "he": "אני משכיר דירת 3 חדרים בתל אביב ב-5,500 ש\"ח לחודש. תכין לי חוזה שכירות סטנדרטי לשנה, עם כל הסעיפים הנדרשים לפי החוק, כולל בטוחות ותנאי עזיבה", "en": "I'm renting out a 3-room apartment in Tel Aviv for 5,500 NIS per month. Generate a standard one-year rental agreement with all required clauses, including guarantees and exit conditions" }
     }
   ]
 }

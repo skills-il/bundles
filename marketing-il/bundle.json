@@ -1,7 +1,7 @@
 {
   "name_en": "Marketing IL",
   "name_he": "חבילת שיווק לקהל הישראלי",
-  "description_en": "AI skills for marketers targeting the Israeli audience -- SEO, social content, email sequences, LinkedIn, and paid ads",
+  "description_en": "AI skills for marketers targeting the Israeli audience, SEO, social content, email sequences, LinkedIn, and paid ads",
   "description_he": "SEO בעברית, תוכן לסושיאל, רצפי אימייל ופרסום ממומן: שיווק דיגיטלי שמדבר אל ישראלים",
   "icon": "📣",
   "tags": ["marketing", "seo", "social-media", "email-marketing", "linkedin"],
@@ -15,10 +15,10 @@
   ],
   "faq": {
     "en": [
-      { "q": "How is SEO different for Hebrew content versus English content?", "a": "Hebrew SEO has unique challenges: search volumes are smaller, keyword research tools have limited Hebrew data, and Google treats nikud (vowel marks) separately from base letters. The Hebrew SEO & GEO Toolkit handles all of this -- including optimizing for AI search engines (GEO) that increasingly answer queries directly in Hebrew." },
+      { "q": "How is SEO different for Hebrew content versus English content?", "a": "Hebrew SEO has unique challenges: search volumes are smaller, keyword research tools have limited Hebrew data, and Google treats nikud (vowel marks) separately from base letters. The Hebrew SEO & GEO Toolkit handles all of this, including optimizing for AI search engines (GEO) that increasingly answer queries directly in Hebrew." },
       { "q": "What social media platforms are most popular in Israel, and how should I adapt my content?", "a": "Instagram and Facebook remain dominant in Israel, with TikTok growing fast among younger audiences and LinkedIn essential for B2B. Israeli social audiences respond well to direct, conversational Hebrew, local humor, and references to Israeli culture and events. The Israeli Social Content skill creates platform-specific posts tailored to these nuances." },
-      { "q": "How do Israeli email marketing norms differ from general best practices?", "a": "Israel has its own spam law (Amendment 40 to the Communications Law) that requires explicit opt-in consent for commercial emails. Send times, subject line styles, and content tone also differ -- Israelis tend to prefer shorter, more direct emails. The Israeli Email Sequences skill builds compliant, culturally appropriate sequences." },
-      { "q": "Is LinkedIn used differently in Israel compared to other markets?", "a": "Yes -- the Israeli LinkedIn ecosystem is tightly connected, especially in tech. Hebrew posts often outperform English for local reach, personal stories and opinions get high engagement, and startup culture means people expect direct outreach. The Israeli LinkedIn Strategy skill tailors your presence and content for the local professional network." }
+      { "q": "How do Israeli email marketing norms differ from general best practices?", "a": "Israel has its own spam law (Amendment 40 to the Communications Law) that requires explicit opt-in consent for commercial emails. Send times, subject line styles, and content tone also differ, Israelis tend to prefer shorter, more direct emails. The Israeli Email Sequences skill builds compliant, culturally appropriate sequences." },
+      { "q": "Is LinkedIn used differently in Israel compared to other markets?", "a": "Yes, the Israeli LinkedIn ecosystem is tightly connected, especially in tech. Hebrew posts often outperform English for local reach, personal stories and opinions get high engagement, and startup culture means people expect direct outreach. The Israeli LinkedIn Strategy skill tailors your presence and content for the local professional network." }
     ],
     "he": [
       { "q": "במה שונה SEO בעברית מ-SEO באנגלית?", "a": "ל-SEO בעברית יש כמה אתגרים שאין באנגלית: נפחי החיפוש קטנים יותר, לכלי מחקר המילים יש פחות נתונים בעברית, וגוגל מתייחס לניקוד כמשהו נפרד מהאותיות עצמן. הסקיל Hebrew SEO & GEO Toolkit נותן מענה לכל אלה, כולל אופטימיזציה למנועי החיפוש מבוססי ה-AI (GEO) שעונים יותר ויותר על שאילתות ישירות בעברית." },
@@ -30,15 +30,15 @@
   "prompts": [
     {
       "title": { "he": "אודיט SEO לאתר בעברית", "en": "Hebrew SEO audit" },
-      "body": { "he": "תרוץ אודיט SEO על דף הבית של אתר קורסים אונליין בעברית. תבדוק כותרות, תיאורי מטא, מילות מפתח ומבנה תוכן, ותחזיר לי המלצות ספציפיות לשיפור הדירוג", "en": "Run an SEO audit on the homepage of a Hebrew online courses website. Check titles, meta descriptions, keywords, and content structure -- give specific recommendations to improve ranking" }
+      "body": { "he": "תרוץ אודיט SEO על דף הבית של אתר קורסים אונליין בעברית. תבדוק כותרות, תיאורי מטא, מילות מפתח ומבנה תוכן, ותחזיר לי המלצות ספציפיות לשיפור הדירוג", "en": "Run an SEO audit on the homepage of a Hebrew online courses website. Check titles, meta descriptions, keywords, and content structure, give specific recommendations to improve ranking" }
     },
     {
       "title": { "he": "כתיבת פוסט לסושיאל", "en": "Write social post" },
-      "body": { "he": "תכתוב לי פוסט לאינסטגרם על השקת מוצר חדש: אפליקציה לניהול הוצאות לעסקים קטנים בישראל. טון שיחי וישראלי, קריאה ברורה לפעולה, עד 150 מילים", "en": "Write me an Instagram post for a new product launch -- an expense management app for small Israeli businesses. Conversational Israeli tone, clear call to action, max 150 words" }
+      "body": { "he": "תכתוב לי פוסט לאינסטגרם על השקת מוצר חדש: אפליקציה לניהול הוצאות לעסקים קטנים בישראל. טון שיחי וישראלי, קריאה ברורה לפעולה, עד 150 מילים", "en": "Write me an Instagram post for a new product launch, an expense management app for small Israeli businesses. Conversational Israeli tone, clear call to action, max 150 words" }
     },
     {
       "title": { "he": "רצף אימיילים", "en": "Email campaign" },
-      "body": { "he": "תבנה לי רצף של 3 אימיילים ללידים שנרשמו לתקופת ניסיון חינם בתוכנת הנהלת חשבונות. אימייל ראשון ביום 1, שני ביום 3 ושלישי ביום 7. הכל בעברית, ישיר ועם מטרה ברורה לכל אימייל", "en": "Build me a 3-email sequence for leads who signed up for a free trial of accounting software. Email 1 on day 1, email 2 on day 3, email 3 on day 7 -- in Hebrew, direct, with a clear goal for each email" }
+      "body": { "he": "תבנה לי רצף של 3 אימיילים ללידים שנרשמו לתקופת ניסיון חינם בתוכנת הנהלת חשבונות. אימייל ראשון ביום 1, שני ביום 3 ושלישי ביום 7. הכל בעברית, ישיר ועם מטרה ברורה לכל אימייל", "en": "Build me a 3-email sequence for leads who signed up for a free trial of accounting software. Email 1 on day 1, email 2 on day 3, email 3 on day 7, in Hebrew, direct, with a clear goal for each email" }
     }
   ]
 }

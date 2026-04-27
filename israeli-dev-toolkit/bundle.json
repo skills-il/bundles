@@ -30,7 +30,7 @@
   "prompts": [
     {
       "title": { "he": "הגדרת i18n בעברית", "en": "Setup Hebrew i18n" },
-      "body": { "he": "יש לי אפליקציית Next.js 14 עם App Router. תעזור לי להוסיף תמיכה מלאה בעברית: RTL, מעבר בין שפות, תרגומים ופורמט תאריכים. תן לי גם קוד לדוגמה", "en": "I have a Next.js 14 app with App Router. Help me add full Hebrew support with RTL, language switching, translations, and date formatting -- include example code" }
+      "body": { "he": "יש לי אפליקציית Next.js 14 עם App Router. תעזור לי להוסיף תמיכה מלאה בעברית: RTL, מעבר בין שפות, תרגומים ופורמט תאריכים. תן לי גם קוד לדוגמה", "en": "I have a Next.js 14 app with App Router. Help me add full Hebrew support with RTL, language switching, translations, and date formatting, include example code" }
     },
     {
       "title": { "he": "אימות תעודת זהות", "en": "Validate Israeli ID" },

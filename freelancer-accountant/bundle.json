@@ -1,7 +1,7 @@
 {
   "name_en": "Freelancer Accountant",
   "name_he": "חבילת פרילנסר: הנהלת חשבונות",
-  "description_en": "Everything a freelancer needs for invoices, tax filing, and bookkeeping in Israel",
+  "description_en": "Everything a freelancer needs for invoices, tax filing, and bookkeeping in Israel.",
   "description_he": "חשבוניות, מע\"מ, הוצאות וקבלות. הכל במקום אחד, בנוי לפרילנסרים בישראל",
   "icon": "📊",
   "tags": ["freelancer", "accounting", "tax", "invoices", "bookkeeping"],
@@ -9,19 +9,20 @@
   "skills": [
     { "slug": "israeli-freelancer-ops", "repo": "skills-il/tax-and-finance", "path": "israeli-freelancer-ops" },
     { "slug": "green-invoice", "repo": "skills-il/accounting", "path": "green-invoice" },
+    { "slug": "israeli-e-invoice", "repo": "skills-il/accounting", "path": "israeli-e-invoice" },
     { "slug": "israeli-vat-reporting", "repo": "skills-il/tax-and-finance", "path": "israeli-vat-reporting" },
     { "slug": "israeli-expense-categorizer", "repo": "skills-il/accounting", "path": "israeli-expense-categorizer" },
     { "slug": "israeli-receipt-scanner", "repo": "skills-il/accounting", "path": "israeli-receipt-scanner" }
   ],
   "faq": {
     "en": [
-      { "q": "How can I automate invoice creation as a freelancer in Israel?", "a": "The Freelancer Accountant bundle includes Green Invoice integration and Israeli E-Invoice tools that let you create, send, and track invoices automatically. Just describe what you need and the AI agent handles the rest." },
+      { "q": "How can I automate invoice creation as a freelancer in Israel?", "a": "The bundle pairs Green Invoice (Morning) for the day-to-day issuing, sending and tracking of invoices, with the Israeli E-Invoice skill for SHAAM allocation numbers and Tax Authority compliance once you cross the clearance threshold. Just describe what you need and the AI agent handles the rest." },
       { "q": "Do I still need an accountant if I use these AI skills?", "a": "These skills automate routine tasks like expense categorization, VAT calculations, and receipt scanning. They save you hours of manual work, but for complex tax situations, annual filings, and legal compliance, we recommend consulting a licensed accountant." },
       { "q": "Can AI handle Israeli VAT reporting for freelancers?", "a": "Yes. The Israeli VAT Reporting skill understands Israeli tax law, calculates VAT correctly, and helps prepare your bimonthly VAT reports. It handles the common cases automatically and flags unusual situations for your review." },
       { "q": "What is the best way to organize receipts and expenses in Israel?", "a": "The Israeli Expense Categorizer and Receipt Scanner skills work together to digitize receipts, categorize expenses according to Israeli tax categories, and keep everything organized for tax season." }
     ],
     "he": [
-      { "q": "איך מוציאים חשבוניות אוטומטית כפרילנסר בישראל?", "a": "החבילה כוללת חיבור לחשבונית ירוקה ולכלי החשבוניות האלקטרוניות, כך שאפשר ליצור, לשלוח ולעקוב אחרי חשבוניות בלי לעשות הכל ידנית. פשוט אומרים לסוכן מה צריך, והוא דואג לשאר." },
+      { "q": "איך מוציאים חשבוניות אוטומטית כפרילנסר בישראל?", "a": "החבילה משלבת את חשבונית ירוקה (Morning) להוצאה, שליחה ומעקב יומיומיים, ואת הסקיל Israeli E-Invoice לקבלת מספרי הקצאה (SHAAM) ולציות לרשות המסים ברגע שעוברים את סף הסליקה. פשוט אומרים לסוכן מה צריך, והוא דואג לשאר." },
       { "q": "אם אני משתמש בסקילים האלה, אני עדיין צריך רואה חשבון?", "a": "הסקילים מורידים מכם את העבודה השגרתית, סיווג הוצאות, חישובי מע\"מ וסריקת קבלות, וחוסכים שעות בחודש. אבל למצבי מס מורכבים, לדוח השנתי ולסוגיות משפטיות עדיין כדאי לעבוד עם רואה חשבון מוסמך." },
       { "q": "האם AI באמת יכול לטפל בדיווח מע\"מ של פרילנסר?", "a": "כן. הסקיל לדיווח מע\"מ בישראל מכיר את חוקי המס המקומיים, מחשב את המע\"מ נכון ומכין את הדיווח הדו-חודשי. את המקרים הרגילים הוא סוגר לבד, ואת החריגים הוא מסמן לכם לבדיקה לפני ההגשה." },
       { "q": "מה הדרך הכי פשוטה לארגן קבלות והוצאות בישראל?", "a": "הסקילים לסיווג הוצאות ולסריקת קבלות עובדים יחד. אתם מצלמים קבלה, הם מחלצים את הנתונים, ממיינים את ההוצאה לקטגוריה הנכונה לצורכי מס ושומרים הכל מסודר, ככה שעונת המס לא תתפוס אתכם לא מוכנים." }

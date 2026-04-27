@@ -4,7 +4,7 @@ Israeli bureaucracy is famously complex. Between government offices, Bituach Leu
 
 ## Key facts
 
-- **Bituach Leumi appeals** must be filed to the ve'adat irurim within **30 days** of receiving the decision (National Insurance Law — חוק הביטוח הלאומי).
+- **Bituach Leumi appeals** must be filed to the ve'adat irurim within **30 days** of receiving the decision (National Insurance Law, חוק הביטוח הלאומי).
 - **Freedom of Information Law** (חוק חופש המידע, 1998): Israeli public bodies must respond to information requests within **30 days**, extendable by another 30 with justification.
 - **Gov.il single sign-on** is the unified identity layer for most government services; registration requires a teudat zehut and an active phone number.
 - **Parking fines**: municipalities must respond to formal appeals within **90 days** (Traffic Ordinance regulations).
@@ -20,8 +20,8 @@ Israeli bureaucracy is famously complex. Between government offices, Bituach Leu
 
 ## What you get
 
-1. **Israeli Bureaucracy Decoder** -- describe your situation and get a clear roadmap: which office, what documents, what to expect
-2. **Israeli Bituach Leumi** -- understand your national insurance benefits, eligibility, and how to apply
-3. **Israeli Gov Form Automator** -- help filling out government forms with field-by-field guidance and validation
-4. **Israel Gov API** -- access open government data and services programmatically
-5. **Israeli Fines Fighter** -- navigate the appeals process for traffic and parking fines
+1. **Israeli Bureaucracy Decoder**: describe your situation and get a clear roadmap: which office, what documents, what to expect
+2. **Israeli Bituach Leumi**: understand your national insurance benefits, eligibility, and how to apply
+3. **Israeli Gov Form Automator**: help filling out government forms with field-by-field guidance and validation
+4. **Israel Gov API**: access open government data and services programmatically
+5. **Israeli Fines Fighter**: navigate the appeals process for traffic and parking fines

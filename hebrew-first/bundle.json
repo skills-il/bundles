@@ -1,7 +1,7 @@
 {
   "name_en": "Hebrew First",
   "name_he": "חבילת עברית קודם",
-  "description_en": "AI skills for anyone working primarily in Hebrew -- content writing, document generation, accessibility, RTL interfaces, and Hebrew NLP",
+  "description_en": "AI skills for anyone working primarily in Hebrew, content writing, document generation, accessibility, RTL interfaces, and Hebrew NLP",
   "description_he": "כתיבה, מסמכים, נגישות ו-RTL: כל מה שצריך כדי לעבוד בעברית בלי להתפשר",
   "icon": "🔤",
   "tags": ["hebrew", "content-writing", "documents", "accessibility", "rtl"],
@@ -15,7 +15,7 @@
   ],
   "faq": {
     "en": [
-      { "q": "What makes good Hebrew content writing different from just translating English?", "a": "Good Hebrew content is not a translation -- it uses natural Israeli idioms, avoids calques from English, writes numbers and dates in the Israeli convention, and uses a register appropriate to the audience. Israeli readers immediately sense when text is a literal translation. The Hebrew Content Writer skill produces content that sounds like it was written by a native Israeli writer from the start." },
+      { "q": "What makes good Hebrew content writing different from just translating English?", "a": "Good Hebrew content is not a translation, it uses natural Israeli idioms, avoids calques from English, writes numbers and dates in the Israeli convention, and uses a register appropriate to the audience. Israeli readers immediately sense when text is a literal translation. The Hebrew Content Writer skill produces content that sounds like it was written by a native Israeli writer from the start." },
       { "q": "What are Israel's digital accessibility requirements, and do they apply to my website?", "a": "Israel's Equal Rights for Persons with Disabilities Regulations (Amendment 2, 2013) require government and many public-facing websites to comply with WCAG 2.0 Level AA. The scope has expanded over the years and now covers most commercial websites as well. The Israeli Accessibility Compliance skill audits your site against the current Israeli standard (Israeli Standard 5568) and provides actionable fixes." },
       { "q": "What are the most common RTL layout mistakes in web development?", "a": "The most common mistakes include using absolute left/right CSS values instead of logical properties (inline-start/inline-end), forgetting to mirror icons and directional elements, mixing LTR and RTL text without proper Unicode bidi control, and using LTR-only animation directions. The Hebrew RTL Best Practices skill catches all of these and explains the correct approach for each." },
       { "q": "What can Hebrew NLP tools do that general AI models cannot?", "a": "Hebrew is a morphologically rich language where the same three-letter root can produce dozens of different words, vowels are usually omitted in writing, and the same letter serves different phonetic roles. General AI models often struggle with tasks like nikud (vowelization), correct morphological analysis, named entity recognition in Hebrew, and handling sofit letter variants. The Hebrew NLP Toolkit is tuned specifically for these challenges." }
