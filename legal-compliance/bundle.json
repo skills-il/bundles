@@ -11,7 +11,8 @@
     { "slug": "israeli-privacy-shield", "repo": "skills-il/security-compliance", "path": "israeli-privacy-shield" },
     { "slug": "israeli-ecommerce-compliance", "repo": "skills-il/security-compliance", "path": "israeli-ecommerce-compliance" },
     { "slug": "israeli-rental-agreements", "repo": "skills-il/legal-tech", "path": "israeli-rental-agreements" },
-    { "slug": "israeli-workplace-rights-navigator", "repo": "skills-il/legal-tech", "path": "israeli-workplace-rights-navigator" }
+    { "slug": "israeli-workplace-rights-navigator", "repo": "skills-il/legal-tech", "path": "israeli-workplace-rights-navigator" },
+    { "slug": "israeli-ai-compliance-kit", "repo": "skills-il/security-compliance", "path": "israeli-ai-compliance-kit" }
   ],
   "faq": {
     "en": [

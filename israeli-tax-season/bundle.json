@@ -11,7 +11,8 @@
     { "slug": "israeli-vat-reporting", "repo": "skills-il/tax-and-finance", "path": "israeli-vat-reporting" },
     { "slug": "israeli-tax-withholding", "repo": "skills-il/tax-and-finance", "path": "israeli-tax-withholding" },
     { "slug": "israeli-expense-categorizer", "repo": "skills-il/accounting", "path": "israeli-expense-categorizer" },
-    { "slug": "israeli-corporate-tax-strategy", "repo": "skills-il/tax-and-finance", "path": "israeli-corporate-tax-strategy" }
+    { "slug": "israeli-corporate-tax-strategy", "repo": "skills-il/tax-and-finance", "path": "israeli-corporate-tax-strategy" },
+    { "slug": "israeli-employee-tax-refund", "repo": "skills-il/tax-and-finance", "path": "israeli-employee-tax-refund" }
   ],
   "faq": {
     "en": [

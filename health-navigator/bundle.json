@@ -11,7 +11,8 @@
     { "slug": "israeli-emergency-guide", "repo": "skills-il/health-services", "path": "israeli-emergency-guide" },
     { "slug": "israeli-mental-health-navigator", "repo": "skills-il/health-services", "path": "israeli-mental-health-navigator" },
     { "slug": "israeli-elder-care-navigator", "repo": "skills-il/health-services", "path": "israeli-elder-care-navigator" },
-    { "slug": "israeli-nutrition-planner", "repo": "skills-il/health-services", "path": "israeli-nutrition-planner" }
+    { "slug": "israeli-nutrition-planner", "repo": "skills-il/health-services", "path": "israeli-nutrition-planner" },
+    { "slug": "israeli-oncology-navigator", "repo": "skills-il/health-services", "path": "israeli-oncology-navigator" }
   ],
   "faq": {
     "en": [

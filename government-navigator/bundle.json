@@ -11,7 +11,8 @@
     { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
     { "slug": "israeli-gov-form-automator", "repo": "skills-il/government-services", "path": "israeli-gov-form-automator" },
     { "slug": "israel-gov-api", "repo": "skills-il/government-services", "path": "israel-gov-api" },
-    { "slug": "israeli-fines-fighter", "repo": "skills-il/legal-tech", "path": "israeli-fines-fighter" }
+    { "slug": "israeli-fines-fighter", "repo": "skills-il/legal-tech", "path": "israeli-fines-fighter" },
+    { "slug": "israeli-digital-nomad-navigator", "repo": "skills-il/government-services", "path": "israeli-digital-nomad-navigator" }
   ],
   "faq": {
     "en": [

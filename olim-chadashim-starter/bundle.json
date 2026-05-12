@@ -12,7 +12,8 @@
     { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
     { "slug": "israeli-apartment-hunting", "repo": "skills-il/localization", "path": "israeli-apartment-hunting" },
     { "slug": "israeli-bank-connector", "repo": "skills-il/tax-and-finance", "path": "israeli-bank-connector" },
-    { "slug": "israeli-vehicle-manager", "repo": "skills-il/government-services", "path": "israeli-vehicle-manager" }
+    { "slug": "israeli-vehicle-manager", "repo": "skills-il/government-services", "path": "israeli-vehicle-manager" },
+    { "slug": "israeli-aliyah-customs-shipment-planner", "repo": "skills-il/government-services", "path": "israeli-aliyah-customs-shipment-planner" }
   ],
   "faq": {
     "en": [

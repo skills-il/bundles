@@ -11,7 +11,8 @@
     { "slug": "israeli-social-content", "repo": "skills-il/marketing-growth", "path": "israeli-social-content" },
     { "slug": "israeli-email-sequences", "repo": "skills-il/marketing-growth", "path": "israeli-email-sequences" },
     { "slug": "israeli-linkedin-strategy", "repo": "skills-il/marketing-growth", "path": "israeli-linkedin-strategy" },
-    { "slug": "israeli-paid-ads", "repo": "skills-il/marketing-growth", "path": "israeli-paid-ads" }
+    { "slug": "israeli-paid-ads", "repo": "skills-il/marketing-growth", "path": "israeli-paid-ads" },
+    { "slug": "hebrew-survey-builder", "repo": "skills-il/marketing-growth", "path": "hebrew-survey-builder" }
   ],
   "faq": {
     "en": [

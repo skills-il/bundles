@@ -12,7 +12,9 @@
     { "slug": "israeli-linkedin-strategy", "repo": "skills-il/marketing-growth", "path": "israeli-linkedin-strategy" },
     { "slug": "israeli-tech-salary-negotiator", "repo": "skills-il/marketing-growth", "path": "israeli-tech-salary-negotiator" },
     { "slug": "israeli-job-market", "repo": "skills-il/communication", "path": "israeli-job-market" },
-    { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" }
+    { "slug": "israeli-bituach-leumi", "repo": "skills-il/government-services", "path": "israeli-bituach-leumi" },
+    { "slug": "israeli-unemployment-benefits-navigator", "repo": "skills-il/government-services", "path": "israeli-unemployment-benefits-navigator" },
+    { "slug": "israeli-employment-contract-reviewer", "repo": "skills-il/legal-tech", "path": "israeli-employment-contract-reviewer" }
   ],
   "faq": {
     "en": [
