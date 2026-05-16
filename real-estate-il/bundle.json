@@ -1,0 +1,48 @@
+{
+  "name_en": "Real Estate & Housing IL",
+  "name_he": "נדל\"ן ודיור בישראל",
+  "description_en": "Buy, rent, or own property in Israel: mortgage shopping, apartment hunting on Yad2, rental contracts, arnona discounts, RMI land tenders, and utility bill optimization, all in one bundle.",
+  "description_he": "לקנות, לשכור או להחזיק דירה בישראל: השוואת משכנתאות, חיפוש דירה ביד 2, חוזי שכירות, הנחות בארנונה, מכרזי רמ\"י, ואופטימיזציה של חשבונות החשמל והמים, הכל בחבילה אחת.",
+  "icon": "🏠",
+  "tags": ["real-estate", "housing", "mortgage", "rental", "arnona", "yad2", "utilities", "homebuyer"],
+  "tags_he": ["נדלן", "דיור", "משכנתא", "שכירות", "ארנונה", "יד2", "חשבונות", "רוכשי דירה"],
+  "skills": [
+    { "slug": "israeli-mortgage-comparator", "repo": "skills-il/tax-and-finance", "path": "israeli-mortgage-comparator" },
+    { "slug": "israeli-apartment-hunting", "repo": "skills-il/localization", "path": "israeli-apartment-hunting" },
+    { "slug": "israeli-real-estate", "repo": "skills-il/government-services", "path": "israeli-real-estate" },
+    { "slug": "israeli-rental-agreements", "repo": "skills-il/legal-tech", "path": "israeli-rental-agreements" },
+    { "slug": "israeli-arnona-optimizer", "repo": "skills-il/tax-and-finance", "path": "israeli-arnona-optimizer" },
+    { "slug": "israeli-land-tenders", "repo": "skills-il/government-services", "path": "israeli-land-tenders" },
+    { "slug": "israeli-utility-rates-comparator", "repo": "skills-il/tax-and-finance", "path": "israeli-utility-rates-comparator" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "Should I use a mortgage broker (yo'etz mashkanta'ot) or compare on my own?", "a": "Both can work. A broker typically charges 0.3% to 0.6% of the loan amount and saves you weeks of meetings with the 5 big banks (Hapoalim, Leumi, Discount, Mizrahi-Tefahot, FIBI). The Mortgage Comparator skill builds the side-by-side comparison itself, including the mix of prime, kalatz, and fixed-shekel tracks, so you can either negotiate harder with a broker or skip one entirely. For a first-time buyer with a clean financial profile, doing it yourself with the skill is realistic. For complex situations (self-employed, foreign income, second property), a broker is usually worth it." },
+      { "q": "Is Yad2 still the main place to look for apartments?", "a": "Yes. Yad2 is the dominant marketplace for both rentals and purchases. Madlan and Komo are useful for price benchmarking and neighborhood data. Facebook groups still drive a meaningful share of rentals in Tel Aviv, Jerusalem, and Haifa. The Apartment Hunting skill covers all of these plus the common scam patterns (fake deposit requests, listings that don't exist, agency fees you weren't told about)." },
+      { "q": "How much arnona discount can I actually get?", "a": "Depends on your status. Single parents, students, new olim, IDF reservists, disability pensioners, and low-income households get 25% to 90% off depending on the municipality and the category. Most people who qualify never apply because the forms are scattered across each city's website. The Arnona Optimizer skill checks your eligibility against your specific municipality's bylaws and prints the exact form numbers you need." },
+      { "q": "Are RMI (Rashut Mekarkei Yisrael) land tenders worth chasing?", "a": "For buyers with patience and a long horizon, yes. Mehir Lemishtaken and Dira Behanacha tenders can land you a new-build apartment 15% to 25% below market. The catch: lottery-based, slow construction (3 to 5 years from tender to keys), and you're committed to that location. The Land Tenders skill tracks active tenders, filters by your eligibility, and walks you through the bid submission process." },
+      { "q": "Can I really save on electricity and water by switching providers?", "a": "Partially. Electricity was opened to competition in 2020 and there are now 5+ private suppliers (Cellcom Energy, Pazgas, Amisragas, etc.) offering 6% to 15% off the IEC base rate. Water is still a single municipal provider, but there are tariff brackets and household-size adjustments most people don't claim. The Utility Rates Comparator runs your last 12 months of bills against current offers and tells you whether switching is worth it." }
+    ],
+    "he": [
+      { "q": "כדאי לקחת יועץ משכנתאות או להשוות לבד?", "a": "שני המסלולים אפשריים. יועץ משכנתאות לוקח בדרך כלל 0.3% עד 0.6% מגובה ההלוואה, וחוסך לכם שבועות של פגישות עם 5 הבנקים הגדולים (הפועלים, לאומי, דיסקונט, מזרחי טפחות, בינלאומי). הסקיל Mortgage Comparator בונה את ההשוואה הצמודה בעצמו, כולל התמהיל בין פריים, קל\"צ ושקלי קבוע, כך שאפשר גם להתמקח חזק יותר מול יועץ וגם לוותר עליו לגמרי. רוכשי דירה ראשונה עם פרופיל פיננסי נקי בהחלט יכולים לעבוד עם הסקיל לבד. במצבים מורכבים יותר (עצמאים, הכנסה מחו\"ל, דירה שנייה) יועץ בדרך כלל מצדיק את עצמו." },
+      { "q": "יד 2 עדיין המקום העיקרי לחפש דירה?", "a": "כן. יד 2 הוא הזירה הדומיננטית לשכירות ולמכירה. מדלן וקומו טובים להשוואת מחירים ולמידע על שכונות. קבוצות פייסבוק עדיין מובילות חלק משמעותי משוק השכירות בתל אביב, ירושלים וחיפה. הסקיל Apartment Hunting מכסה את כל אלה, כולל את ההונאות הנפוצות (בקשות פיקדון מזויפות, מודעות שלא קיימות, דמי תיווך שלא סיפרו עליהם מראש)." },
+      { "q": "באמת אפשר לקבל הנחה רצינית בארנונה?", "a": "תלוי בסטטוס שלכם. הורים יחידים, סטודנטים, עולים חדשים, חיילי מילואים, נכים ומשפחות בהכנסה נמוכה זכאים להנחות של 25% עד 90%, תלוי בעירייה ובסיווג. רוב מי שזכאי בכלל לא מגיש בקשה כי הטפסים מפוזרים בין האתרים של כל עיר ועיר. הסקיל Arnona Optimizer בודק זכאות מול חוקי העזר הספציפיים של העירייה שלכם, ומדפיס את מספרי הטפסים המדויקים שצריך." },
+      { "q": "מכרזי רמ\"י (מחיר למשתכן, דירה בהנחה) שווים את הטרחה?", "a": "לרוכשים עם סבלנות וטווח ארוך, בהחלט כן. במחיר למשתכן ובדירה בהנחה אפשר להגיע לדירה חדשה ב-15% עד 25% מתחת למחיר השוק. החיסרון: הגרלה, בנייה איטית (3 עד 5 שנים מהזכייה ועד קבלת המפתח), והתחייבות לשכונה הספציפית. הסקיל Land Tenders עוקב אחרי מכרזים פעילים, מסנן לפי הזכאות שלכם, ולוקח אתכם שלב אחר שלב בהגשת ההצעה." },
+      { "q": "באמת אפשר לחסוך בחשבונות החשמל והמים על ידי החלפת ספק?", "a": "בחשמל כן, במים פחות. שוק החשמל נפתח לתחרות ב-2020 ויש היום 5 ספקים פרטיים ויותר (סלקום אנרג'י, פזגז, אמישראגז ועוד) שמציעים 6% עד 15% הנחה על תעריף חברת החשמל. המים עדיין מגיעים מתאגיד עירוני אחד, אבל יש מדרגות תעריף והתאמות לפי גודל משק הבית שרוב הצרכנים לא יודעים לבקש. הסקיל Utility Rates Comparator מריץ את 12 החשבונות האחרונים שלכם מול ההצעות העדכניות בשוק, ואומר אם בכלל שווה להחליף." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "en": "First mortgage for a 2.5M apartment", "he": "משכנתא ראשונה לדירה של 2.5 מיליון" },
+      "body": { "en": "I'm buying a first apartment in Petach Tikva for 2,500,000 NIS. I have 700,000 NIS equity and need a 1,800,000 NIS mortgage. Build me a recommended track mix (prime / kalatz / fixed-shekel), simulate the monthly payment for each of the 5 big banks at current rates, and tell me which 3 to start negotiating with.", "he": "אני קונה דירה ראשונה בפתח תקווה ב-2,500,000 ש\"ח. יש לי הון עצמי של 700,000 ש\"ח וצריך משכנתא של 1,800,000 ש\"ח. תבנה לי תמהיל מומלץ (פריים / קל\"צ / שקלי קבוע), תדמה את ההחזר החודשי בכל אחד מ-5 הבנקים הגדולים בריביות הנוכחיות, ותגיד לי עם איזה 3 כדאי להתחיל להתמקח." }
+    },
+    {
+      "title": { "en": "Check arnona discount eligibility", "he": "בדיקת זכאות להנחה בארנונה" },
+      "body": { "en": "I'm a single parent with one child living in a 75 sqm rental in Ramat Gan. Annual income around 180,000 NIS. Check which arnona discount categories I might qualify for under Ramat Gan's bylaws, and print the exact form numbers and supporting documents I need to submit.", "he": "אני הורה יחיד עם ילד אחד, גר בשכירות בדירה של 75 מ\"ר ברמת גן. הכנסה שנתית של בערך 180,000 ש\"ח. תבדוק אילו קטגוריות הנחה בארנונה רלוונטיות לי לפי חוקי העזר של רמת גן, ותדפיס את מספרי הטפסים המדויקים ואת המסמכים התומכים שצריך להגיש." }
+    },
+    {
+      "title": { "en": "Review a Tel Aviv rental contract", "he": "בדיקת חוזה שכירות בתל אביב" },
+      "body": { "en": "Going over a 12-month rental contract for an apartment in Florentin, Tel Aviv. Rent is 7,200 NIS/month, deposit is 3 months. Highlight any clauses that are unusual, illegal under Israeli rental law, or unfavorable to the tenant. Also flag what's missing that should be there (repairs clause, exit clause, indexation).", "he": "עוברת על חוזה שכירות ל-12 חודשים על דירה בפלורנטין, תל אביב. שכר דירה 7,200 ש\"ח לחודש, פיקדון של 3 חודשים. תאיר לי כל סעיף חריג, סעיף שאינו חוקי לפי חוק השכירות הישראלי, או סעיף שלא נוח לשוכר. תסמן גם מה חסר ומה אמור להיות שם (סעיף תיקונים, סעיף יציאה, הצמדה)." }
+    }
+  ]
+}
