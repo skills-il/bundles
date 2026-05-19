@@ -6,7 +6,7 @@ Finding a job in Israel in 2026 is harder than it was five years ago. The tech m
 
 - **Demei avtala eligibility**: you need a **work period of at least 12 months out of the last 18** (תקופת אכשרה) before layoff, per the National Insurance Law (חוק הביטוח הלאומי, Chapter 7).
 - **Register at Sherut HaTaasuka (ShBa)** within **14 days** of your layoff, later registration forfeits eligibility for those days.
-- **Maximum demei avtala** in 2026 is approximately **8,400 NIS gross/month** (capped at 75% of your last salary).
+- **Maximum demei avtala** in 2026: the daily cap is **550.76 NIS for the first 125 days** (about **11,000 NIS gross/month**) and **367.17 NIS from day 126 onward** (about **7,300 NIS gross/month**). The benefit rate itself depends on age and income bracket: 30% to 80% of the average daily wage for claimants aged 28+, and 25% to 60% for those under 28. There is no flat rate.
 - **Benefit duration**: up to **175 days** depending on age and family status. Reservists have special extended entitlements.
 - **Israeli tech median base (Senior Backend, 2026)**: roughly **38-55K NIS gross/month** at mid-to-large companies, with meaningful equity and bonus variance.
 - **Job search length post-layoff (tech, 2026)**: median is **2-5 months**; planning for a longer runway is prudent.

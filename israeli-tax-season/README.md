@@ -9,7 +9,7 @@ Tax season in Israel means navigating annual returns, bimonthly VAT reports, wit
 - **VAT reporting**: bimonthly, every 2 months by the 15th of the following month, filed with Rashut HaMisim.
 - **Withholding at source** (ניכוי מס במקור): rates vary by service category and supplier certificate (ishur nikui b'makor). Withheld amounts are reconciled against annual tax liability.
 - **Refund window**: you can file to recover overpaid tax **retroactively up to 6 years back** (סעיף 160 לפקודת מס הכנסה).
-- **Osek patur threshold** (2026): annual revenue under ~120,000 NIS, exempt from VAT but still files income tax.
+- **Osek patur threshold** (2026): annual revenue under **122,833 NIS** (raised from 120,000 NIS in 2025), exempt from VAT but still files income tax.
 
 ## Who is this for?
 
