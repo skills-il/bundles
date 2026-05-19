@@ -4,8 +4,8 @@ The first month of aliyah is a blur of bureaucracy. Misrad HaKlita, Misrad HaPni
 
 ## Key facts
 
-- **Sal Klita (absorption basket)**: new olim receive approximately **60,000 to 80,000 NIS** over the first 6 months, paid monthly. Exact amounts depend on family status and age (Misrad HaKlita publishes current rates).
-- **Kupat cholim entitlement starts on day one**. You can register with Clalit, Maccabi, Meuhedet, or Leumit immediately. Your temporary teudat zehut is enough.
+- **Sal Klita (absorption basket)**: the cash basket varies a lot by family status. As a rough guide for 2026: about **20,000 NIS** for a single oleh, around **30,000 NIS** for a couple (cash basket alone), and roughly **40,000 to 60,000+ NIS** for a family with kids, paid over the first 6 months. Exact figures (and any rental-assistance add-on) are published annually by Misrad HaKlita.
+- **Kupat cholim: decide before you land, register on day one.** All four kupot (Clalit, Maccabi, Meuhedet, Leumit) accept new olim immediately, and registration usually happens through the Misrad HaKlita / Bituach Leumi desk at the airport with your temporary teudat zehut. Olim can change their initial choice within **14 days** of aliyah, but for most people the decision should be made in advance.
 - **Free Ulpan Hebrew classes**: up to **500 hours** through Misrad HaKlita, typically within the first 18 months.
 - **Foreign driver's license**: valid in Israel for the **first 12 months** of aliyah. After that, conversion is required. The process depends on country of origin (streamlined for US, EU, Canada, UK, Australia).
 - **Rights window**: key olim benefits (housing grant, tax reductions, customs exemption on shipping container) are time-limited. Most kick in on day one but phase out over **3 years**.
@@ -14,7 +14,7 @@ The first month of aliyah is a blur of bureaucracy. Misrad HaKlita, Misrad HaPni
 ## Who is this for?
 
 - **New olim arriving from anywhere** (North America, UK, France, FSU, South America, Ethiopia, South Africa)
-- **Returning Israelis** (toshavim chozrim) who left before 18 and are coming back as adults
+- **Toshavim chozrim** (returning residents who lived abroad 6+ years) and **katinim chozrim** (people who left Israel as minors with a parent before age 14, lived abroad continuously for 4+ years, and are returning at age 17 or older). The two statuses have different definitions and benefits, so it's worth checking which one applies to you.
 - **Family members of olim** who are on a different status track
 - **Diaspora planners** researching aliyah 6 to 12 months ahead who want to know exactly what they're walking into
 
@@ -30,7 +30,7 @@ The first month of aliyah is a blur of bureaucracy. Misrad HaKlita, Misrad HaPni
 ## How it works
 
 1. Start with Aliyah Navigator the week before you land. It prints a day-one checklist.
-2. Pick a kupat cholim within your first two weeks (HMO Navigator).
+2. Decide on a kupat cholim before you land, then register on day one through the Misrad HaKlita / Bituach Leumi desk at the airport (HMO Navigator helps with the comparison; you have 14 days to change your initial pick if needed).
 3. Open a bank account and register with Bituach Leumi in parallel.
 4. Start apartment hunting seriously after the airport-area hotel stay.
 5. Plug Bank Connector in once you have a few weeks of transactions and want a categorized view of your spending.
