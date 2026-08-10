@@ -1,0 +1,46 @@
+{
+  "name_en": "Household Savings Israel",
+  "name_he": "חיסכון למשק הבית",
+  "description_en": "Cut the Israeli cost of living line by line: supermarket basket, electronics, insurance, cellular, subscriptions, and the monthly budget that ties them together",
+  "description_he": "חותכים את יוקר המחיה שורה אחר שורה: סל הסופר, אלקטרוניקה, ביטוחים, סלולר, מנויים והתקציב החודשי שמחזיק את הכל",
+  "icon": "🛒",
+  "tags": ["savings", "cost-of-living", "price-comparison", "budget", "insurance"],
+  "tags_he": ["חיסכון", "יוקר המחיה", "השוואת מחירים", "תקציב", "ביטוח"],
+  "skills": [
+    { "slug": "israeli-grocery-price-intelligence", "repo": "skills-il/food-and-dining", "path": "israeli-grocery-price-intelligence" },
+    { "slug": "israeli-product-price-comparator", "repo": "skills-il/developer-tools", "path": "israeli-product-price-comparator" },
+    { "slug": "israeli-insurance-comparator", "repo": "skills-il/tax-and-finance", "path": "israeli-insurance-comparator" },
+    { "slug": "israeli-telecom-comparator", "repo": "skills-il/communication", "path": "israeli-telecom-comparator" },
+    { "slug": "israeli-smart-saver", "repo": "skills-il/tax-and-finance", "path": "israeli-smart-saver" },
+    { "slug": "israeli-coupon-code-finder", "repo": "skills-il/tax-and-finance", "path": "israeli-coupon-code-finder" },
+    { "slug": "israeli-budget-planner", "repo": "skills-il/tax-and-finance", "path": "israeli-budget-planner" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "Where do the supermarket prices come from?", "a": "From the mandatory price feeds every Israeli chain has to publish under the Price Transparency Law. The Israeli Grocery Price Intelligence skill parses the XML feeds from the live platforms (Shufersal Direct, Carrefour Israel Direct, and Cerberus / PublishedPrices) and compares an actual basket across chains, including club-member promotion terms." },
+      { "q": "Can it actually find me a cheaper car insurance quote?", "a": "The Israeli Insurance Comparator walks you through the Capital Market Authority calculator at car.cma.gov.il plus the private platforms (Hova.co.il, Shukabit, Wobi, Bestie) across 20+ insurers for car, home, and supplementary health cover. It does not handle life insurance, pension fund selection, or travel insurance." },
+      { "q": "Are the coupon codes real?", "a": "Yes, and that is the point. The coupon skill never invents codes. It reports only codes found via live web search, each with its source and date, and checks every candidate for expiry, minimum cart, new-customer-only, and stacking rules." },
+      { "q": "What is the difference between the grocery skill and the product price comparator?", "a": "The grocery skill covers food and supermarket baskets via the transparency feeds. The product price comparator covers electronics, appliances, and consumer goods across retailers like Zap, KSP, iDigital, and Ivory, including parallel-import versus local pricing." }
+    ],
+    "he": [
+      { "q": "מאיפה מגיעים מחירי הסופר?", "a": "מפידי המחירים שכל רשת בישראל חייבת לפרסם לפי חוק שקיפות המחירים. הסקיל להשוואת מחירי סופרמרקטים קורא את פידי ה-XML של הפלטפורמות הפעילות (Shufersal Direct, Carrefour Israel Direct ו-Cerberus / PublishedPrices) ומשווה סל אמיתי בין הרשתות, כולל תנאי מבצעים למועדון." },
+      { "q": "זה באמת ימצא לי ביטוח רכב זול יותר?", "a": "הסקיל להשוואת ביטוחים מעביר אתכם דרך מחשבון רשות שוק ההון ב-car.cma.gov.il ודרך הפלטפורמות הפרטיות (Hova.co.il, שוקבית, Wobi ו-Bestie) מול יותר מ-20 חברות ביטוח, לרכב, לדירה ולביטוח משלים. הוא לא מטפל בביטוח חיים, בבחירת קרן פנסיה או בביטוח נסיעות." },
+      { "q": "קודי הקופון אמיתיים?", "a": "כן, וזה בדיוק העניין. הסקיל לא ממציא קודים. הוא מציג רק קודים שנמצאו בחיפוש חי, כל אחד עם המקור והתאריך שלו, ובודק לכל אחד תוקף, סכום מינימום, האם הוא רק ללקוח חדש ותנאי שילוב." },
+      { "q": "מה ההבדל בין סקיל הסופר לבין השוואת מחירי המוצרים?", "a": "סקיל הסופר מכסה מזון וסלי קניות דרך פידי השקיפות. השוואת מחירי המוצרים מכסה אלקטרוניקה, מוצרי חשמל ומוצרי צריכה באתרים כמו זאפ, KSP, iDigital ו-Ivory, כולל ייבוא מקביל מול רכישה מקומית." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "he": "לחתוך את סל הסופר", "en": "Cut the grocery basket" },
+      "body": { "he": "אני קונה כל שבוע סל קבוע של כ-700 שקל למשפחה של ארבעה. תשוו את הסל בין הרשתות ותגידו לי איפה הכי זול ומה כדאי לפצל", "en": "I buy a fixed weekly basket of about 700 NIS for a family of four. Compare that basket across the chains and tell me where it is cheapest and what is worth splitting" }
+    },
+    {
+      "title": { "he": "ביקורת הוצאות חודשית", "en": "Monthly expense audit" },
+      "body": { "he": "עברו איתי על ההוצאות הקבועות שלי: סלולר, אינטרנט, טלוויזיה, ביטוח רכב, ביטוח דירה ומנויים. איפה אני משלם יותר מדי ומה בדיוק להגיד כשאני מתקשר לשימור לקוחות?", "en": "Walk through my recurring expenses with me: cellular, internet, TV, car insurance, home insurance, and subscriptions. Where am I overpaying and what exactly should I say when I call retention?" }
+    },
+    {
+      "title": { "he": "לפני שאני קונה", "en": "Before I buy" },
+      "body": { "he": "אני עומד לקנות מקרר בטווח 5,000 עד 7,000 שקל. תשוו מחירים בין החנויות בישראל, תבדקו ייבוא מקביל, ותמצאו לי קוד קופון שעובד לחנות הזולה ביותר", "en": "I am about to buy a fridge in the 5,000 to 7,000 NIS range. Compare prices across Israeli retailers, check parallel import, and find me a working coupon code for the cheapest store" }
+    }
+  ]
+}

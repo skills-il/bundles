@@ -1,0 +1,46 @@
+{
+  "name_en": "Flights and Travel from Israel",
+  "name_he": "טיסות ונסיעות מישראל",
+  "description_en": "Compare real fares from Ben Gurion, plan the trip, claim compensation when it goes wrong, and price the customs on what you bring back",
+  "description_he": "משווים מחירי טיסה אמיתיים מנתב\"ג, מתכננים את הטיול, תובעים פיצוי כשהטיסה משתבשת ומחשבים מכס על מה שמביאים חזרה",
+  "icon": "✈️",
+  "tags": ["travel", "flights", "trip-planning", "compensation", "customs"],
+  "tags_he": ["נסיעות", "טיסות", "תכנון טיול", "פיצוי", "מכס"],
+  "skills": [
+    { "slug": "israeli-flight-finder", "repo": "skills-il/travel", "path": "israeli-flight-finder" },
+    { "slug": "israeli-abroad-trip-planner", "repo": "skills-il/travel", "path": "israeli-abroad-trip-planner" },
+    { "slug": "israeli-travel-planner", "repo": "skills-il/travel", "path": "israeli-travel-planner" },
+    { "slug": "israeli-flight-compensation", "repo": "skills-il/travel", "path": "israeli-flight-compensation" },
+    { "slug": "shekel-currency-converter", "repo": "skills-il/tax-and-finance", "path": "shekel-currency-converter" },
+    { "slug": "israeli-customs-duty-calculator", "repo": "skills-il/tax-and-finance", "path": "israeli-customs-duty-calculator" },
+    { "slug": "israeli-public-transit", "repo": "skills-il/government-services", "path": "israeli-public-transit" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "How do I find the cheapest flight out of Ben Gurion?", "a": "The Israeli Flight Finder skill builds pre-filled search links for Google Flights, Skyscanner, and KAYAK for your exact route and dates, reads the live fares, and adds Israeli-airline baggage fees so you compare a true total cost rather than a headline price. It never quotes invented prices." },
+      { "q": "My flight was cancelled. What am I actually owed?", "a": "Flights to or from Israel are covered by the Aviation Services Law (the Tibi Law, 2012), which sets different amounts and thresholds than the European rules. The Israeli Flight Compensation skill works out which regime applies to your flight, calculates the amount, and drafts a Hebrew demand letter to the airline. It is not legal advice." },
+      { "q": "Will I pay customs on what I bring back from abroad?", "a": "The Israeli Customs Duty Calculator classifies the item into an Israeli 8-digit HS code and calculates the landed cost: customs duty, VAT, and purchase tax, and checks it against the personal import threshold. It is not customs advice." },
+      { "q": "Does this bundle cover trips inside Israel too?", "a": "Yes. Israeli Travel Planner covers domestic trips (national parks, Israel Railways, Egged and Dan buses, Rav-Kav, Shabbat and holiday timing), and Israeli Public Transit handles the routing and real-time arrivals." }
+    ],
+    "he": [
+      { "q": "איך מוצאים את הטיסה הזולה ביותר מנתב\"ג?", "a": "הסקיל להשוואת טיסות בונה קישורי חיפוש ממולאים מראש ל-Google Flights, ל-Skyscanner ול-KAYAK בדיוק למסלול ולתאריכים שלכם, קורא את המחירים החיים ומוסיף את דמי הכבודה של חברות התעופה הישראליות, כדי שתשוו עלות כוללת אמיתית ולא מחיר כותרת. הוא לא ממציא מחירים." },
+      { "q": "הטיסה שלי בוטלה. כמה באמת מגיע לי?", "a": "טיסות לישראל וממנה חוסות תחת חוק שירותי תעופה (חוק טיבי, 2012), שקובע סכומים וספים שונים מהתקנה האירופית. הסקיל לפיצוי על טיסות מזהה איזה משטר חל על הטיסה שלכם, מחשב את הסכום ומנסח מכתב דרישה בעברית לחברת התעופה. זה לא ייעוץ משפטי." },
+      { "q": "אשלם מכס על מה שאני מביא מחו\"ל?", "a": "מחשבון המכס מסווג את הפריט לקוד HS ישראלי בן 8 ספרות ומחשב את העלות המלאה: מכס, מע\"מ ומס קנייה, ובודק את זה מול תקרת הפטור האישי. זה לא ייעוץ מכס." },
+      { "q": "החבילה מכסה גם טיולים בתוך ישראל?", "a": "כן. מתכנן הטיולים בישראל מכסה טיולים בארץ (גנים לאומיים, רכבת ישראל, אגד ודן, רב-קו ותזמון סביב שבת וחגים), והסקיל לתחבורה ציבורית נותן את הניתוב ואת ההגעות בזמן אמת." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "he": "הזול ביותר לחודש הבא", "en": "Cheapest fare next month" },
+      "body": { "he": "אני רוצה לטוס מתל אביב לרומא לחמישה ימים במרץ, שניים עם מזוודה. תמצאו לי את התאריכים הזולים ביותר ותציגו עלות כוללת כולל כבודה", "en": "I want to fly Tel Aviv to Rome for five days in March, two travelers with checked bags. Find me the cheapest dates and show the total cost including baggage" }
+    },
+    {
+      "title": { "he": "פיצוי על טיסה שבוטלה", "en": "Compensation for a cancelled flight" },
+      "body": { "he": "הטיסה שלי מנתב\"ג לאתונה בוטלה שש שעות לפני ההמראה והוצעה לי טיסה למחרת. כמה פיצוי מגיע לי ומה בדיוק לשלוח לחברת התעופה?", "en": "My flight from Ben Gurion to Athens was cancelled six hours before departure and I was rebooked for the next day. How much compensation am I owed and what exactly should I send the airline?" }
+    },
+    {
+      "title": { "he": "תכנון טיול עם ויזה ומכס", "en": "Trip plan with visa and customs" },
+      "body": { "he": "אנחנו זוג עם דרכון ישראלי שמתכנן שבועיים בוייטנאם. בדקו ויזה ואזהרות מסע, בנו מסלול לפי תקציב בינוני, ותגידו לי על מה אשלם מכס בחזרה", "en": "We are a couple with Israeli passports planning two weeks in Vietnam. Check visa rules and travel warnings, build a mid-budget itinerary, and tell me what I will pay customs on when I return" }
+    }
+  ]
+}

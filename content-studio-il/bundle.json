@@ -1,0 +1,46 @@
+{
+  "name_en": "Hebrew Content Studio",
+  "name_he": "סטודיו תוכן בעברית",
+  "description_en": "Produce the deck, the design, the article, the podcast clips, and the launch, all RTL-first and all in Hebrew",
+  "description_he": "מפיקים את המצגת, את העיצוב, את המאמר, את קטעי הפודקאסט ואת ההשקה, הכל RTL-first והכל בעברית",
+  "icon": "🎬",
+  "tags": ["presentations", "content", "design-system", "podcast", "launch"],
+  "tags_he": ["מצגות", "תוכן", "מערכת עיצוב", "פודקאסט", "השקה"],
+  "skills": [
+    { "slug": "presentation-generator", "repo": "skills-il/marketing-growth", "path": "presentation-generator" },
+    { "slug": "israeli-ui-design-system", "repo": "skills-il/localization", "path": "israeli-ui-design-system" },
+    { "slug": "israeli-content-marketing", "repo": "skills-il/marketing-growth", "path": "israeli-content-marketing" },
+    { "slug": "hebrew-podcast-postproduction", "repo": "skills-il/marketing-growth", "path": "hebrew-podcast-postproduction" },
+    { "slug": "postiz", "repo": "skills-il/marketing-growth", "path": "postiz" },
+    { "slug": "israeli-product-launch", "repo": "skills-il/marketing-growth", "path": "israeli-product-launch" },
+    { "slug": "open-slide-best-practices", "repo": "skills-il/developer-tools", "path": "open-slide-best-practices" }
+  ],
+  "faq": {
+    "en": [
+      { "q": "Why do I need a dedicated skill just to make a Hebrew deck?", "a": "Because RTL is where generic presentation tools break. The Presentation Generator produces slides with Hebrew fonts, right-aligned bullets, and mixed Hebrew and English in a single deck, which is the part that normally costs hours of manual reformatting." },
+      { "q": "How is this different from the Marketing IL bundle?", "a": "Marketing IL is about channels: SEO, paid ads, LinkedIn, email sequences, social. This bundle is about production: the artifact itself. The deck, the design tokens, the article, the podcast clips, and the launch plan that ships them." },
+      { "q": "What does the podcast skill actually output?", "a": "From a Whisper transcript or an SRT file it produces RTL show notes with Spotify and Apple chapter markers, identifies 3 to 5 shareable 30 to 90 second clips, gives you the FFmpeg commands to cut them and burn in Hebrew subtitles, and writes platform-tuned captions for Reels, TikTok, X, and LinkedIn." },
+      { "q": "Do I need both presentation skills?", "a": "No. Use Presentation Generator for standalone Hebrew decks. Use open-slide Best Practices only if you are building decks as code in an open-slide project, where the 1920x1080 canvas, design tokens, and logical CSS rules matter." }
+    ],
+    "he": [
+      { "q": "למה צריך סקיל ייעודי רק כדי להכין מצגת בעברית?", "a": "כי RTL זה בדיוק המקום שבו כלי המצגות הגנריים נשברים. יוצר המצגות מייצר שקפים עם פונטים עבריים, תבליטים מיושרים לימין וערבוב של עברית ואנגלית באותו מסמך, וזה החלק שבדרך כלל עולה שעות של עיצוב ידני מחדש." },
+      { "q": "במה זה שונה מחבילת השיווק לקהל הישראלי?", "a": "חבילת השיווק עוסקת בערוצים: SEO, ממומן, לינקדאין, רצפי מיילים ורשתות. החבילה הזו עוסקת בהפקה, כלומר בתוצר עצמו. המצגת, טוקני העיצוב, המאמר, קטעי הפודקאסט ותוכנית ההשקה שמוציאה את כל אלה לאוויר." },
+      { "q": "מה בעצם יוצא מסקיל הפודקאסט?", "a": "מתמליל של Whisper או מקובץ SRT הוא מפיק הערות פרק ב-RTL עם סימוני פרקים לספוטיפיי ולאפל, מזהה 3 עד 5 קליפים של 30 עד 90 שניות לשיתוף, נותן לכם את פקודות ה-FFmpeg לחיתוך ולהדבקת כתוביות בעברית, וכותב כיתובים מותאמים לריל, לטיקטוק, ל-X וללינקדאין." },
+      { "q": "צריך את שני סקילי המצגות?", "a": "לא. השתמשו ביוצר המצגות למצגות עבריות עצמאיות. השתמשו ב-open-slide רק אם אתם בונים מצגות כקוד בפרויקט open-slide, שם הקאנבס של 1920x1080, טוקני העיצוב וכללי ה-CSS הלוגי באמת משנים." }
+    ]
+  },
+  "prompts": [
+    {
+      "title": { "he": "דק משקיעים בעברית", "en": "Hebrew investor deck" },
+      "body": { "he": "בנו לי דק משקיעים של 12 שקפים בעברית לסטארטאפ בתחום הבריאות הדיגיטלית, עם יישור לימין נכון ומונחים באנגלית משולבים בלי שהשורות יישברו", "en": "Build me a 12-slide Hebrew investor deck for a digital-health startup, with correct right alignment and English terms mixed in without breaking the lines" }
+    },
+    {
+      "title": { "he": "פרק פודקאסט להפצה", "en": "Ship a podcast episode" },
+      "body": { "he": "יש לי קובץ SRT של פרק פודקאסט בעברית באורך 50 דקות. תכינו הערות פרק עם סימוני פרקים, תבחרו ארבעה קליפים לשיתוף ותכתבו כיתובים לריל וללינקדאין", "en": "I have an SRT of a 50-minute Hebrew podcast episode. Prepare show notes with chapter markers, pick four shareable clips, and write captions for Reels and LinkedIn" }
+    },
+    {
+      "title": { "he": "תוכנית השקה מלאה", "en": "Full launch plan" },
+      "body": { "he": "אנחנו משיקים מוצר B2B לשוק הישראלי בעוד חודש. תכינו לוח תוכן בעברית, הודעה לעיתונות, תזמון פוסטים ברשתות ותוכנית פנייה לתקשורת הטכנולוגית", "en": "We are launching a B2B product into the Israeli market in a month. Prepare a Hebrew content calendar, a press release, a social posting schedule, and a tech-media outreach plan" }
+    }
+  ]
+}
