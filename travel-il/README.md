@@ -27,6 +27,6 @@ Almost every trip out of Israel runs through the same four problems: what the fl
 6. **Israeli Customs Duty Calculator**: HS classification and full landed cost for what you bring in
 7. **Israeli Public Transit**: bus, train, and light rail routing with real-time arrivals and fare estimates
 
-## Legal note
+## Legal notice
 
 The flight compensation and customs skills are informational and are **not legal or customs advice**. They explain the rules and compute the figures so you can act on them, and they route you to a professional or to small claims where that is the right next step.

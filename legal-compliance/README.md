@@ -30,3 +30,7 @@ Five skills covering the most common areas of Israeli legal and compliance work:
 3. **Israeli E-Commerce Compliance**: audit your online store against Israeli consumer protection and e-commerce regulations
 4. **Israeli Rental Agreements**: draft and understand residential rental contracts under Israeli law (Fair Rental Law 2017, Tenant Protection Law). Commercial leases are not in scope for this skill.
 5. **Israeli Workplace Rights Navigator**: look up employee rights, employer obligations, and common labor law questions
+
+## Legal notice
+
+The skills in this bundle are informational tools. Any text they draft is an automatic draft for your own personal organisation only. It is not a document prepared by a lawyer and cannot be relied on as evidence. This bundle is not a substitute for advice that takes account of any individual's particular circumstances and needs, and before starting a proceeding, signing a document, or filing with an authority or a court, consult a lawyer.

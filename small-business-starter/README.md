@@ -29,3 +29,7 @@ Five skills covering the full operations loop of a small Israeli business:
 3. **Israeli Payroll Calculator**: calculate net salary, bituach leumi, keren hishtalmut, and pension contributions.
 4. **Israeli Client Payment Chaser**: polite, professional payment reminders that escalate automatically.
 5. **Israeli Customer Support Automator**: handle common Hebrew customer inquiries via WhatsApp, email and phone with Israeli Consumer Protection Law workflows built in.
+
+## Legal notice
+
+The skills in this bundle are informational tools and are not tax advice. Reporting and paying tax is your responsibility, the binding calculation is the Tax Authority's, and representation before the Tax Authority is reserved by law to those entitled to it. Consult a tax adviser or accountant before filing or before any decision with a tax consequence.

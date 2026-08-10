@@ -29,3 +29,7 @@ Five skills covering Hebrew content, documents, interfaces, and language process
 3. **Israeli Accessibility Compliance**: audit and fix accessibility issues against Israeli Standard 5568 (WCAG 2.0 AA)
 4. **Hebrew RTL Best Practices**: correct RTL layout patterns for web and app development, including CSS logical properties
 5. **Hebrew NLP Toolkit**: morphological analysis, nikud, named entity recognition, and other Hebrew language processing tasks
+
+## Legal notice
+
+The skills in this bundle draft and process text, and any wording they produce is an automatic draft that it is your responsibility to check before use. This bundle is not legal, accounting, or other professional advice, and is not a substitute for advice from a licensed professional.

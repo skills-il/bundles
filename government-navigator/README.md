@@ -25,3 +25,7 @@ Israeli bureaucracy is famously complex. Between government offices, Bituach Leu
 3. **Israeli Gov Form Automator**: help filling out government forms with field-by-field guidance and validation
 4. **Israel Gov API**: access open government data and services programmatically
 5. **Israeli Fines Fighter**: navigate the appeals process for traffic and parking fines
+
+## Legal notice
+
+The skills in this bundle are informational tools. A form filed with an authority is a document whose contents are your responsibility, and incorrect details in it can carry liability. Check every field before filing, and do not file a form whose contents you do not understand. This bundle is not a substitute for advice from a licensed professional.

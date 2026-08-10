@@ -38,3 +38,7 @@ This bundle is built for appeals to municipalities, the traffic court, Bituach L
 ## What to expect
 
 Appeals don't always succeed, but the ones that do save real money. The bundle is designed to help you pick the fights worth fighting and walk away from the ones that aren't, rather than wasting hours on hopeless cases.
+
+## Legal notice
+
+The skills in this bundle are informational tools. Any text they draft is an automatic draft for your own personal organisation only. It is not a document prepared by a lawyer and cannot be relied on as evidence. This bundle is not a substitute for advice that takes account of any individual's particular circumstances and needs, and before starting a proceeding, signing a document, or filing with an authority or a court, consult a lawyer.

@@ -25,3 +25,7 @@ Tax season in Israel means navigating annual returns, bimonthly VAT reports, wit
 3. **Israeli Tax Withholding**: manage nikui mas b'makor and reconcile withheld amounts
 4. **Israeli Expense Categorizer**: sort expenses into correct tax deduction categories
 5. **Israeli Corporate Tax Strategy**: optimize tax planning for businesses
+
+## Legal notice
+
+The skills in this bundle are informational tools and are not tax advice. Reporting and paying tax is your responsibility, the binding calculation is the Tax Authority's, and representation before the Tax Authority is reserved by law to those entitled to it. Consult a tax adviser or accountant before filing or before any decision with a tax consequence.
